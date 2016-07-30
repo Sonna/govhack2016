@@ -12,22 +12,54 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'alcubierreregular'; }
+  font-family: "alcubierreregular"; }
+
+.map-wrap {
+  width: 70%;
+  height: calc(100% - 110px);
+  min-height: 500px;
+  display: inline-block;
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+  padding-bottom: 20px; }
+
+.map-nav {
+  width: 100%;
+  height: 110px; }
 
 #map {
-  width: 70%;
-  height: 60%;
-  display: inline-block;
-  margin-left: 20px;
-  margin-right: 20px; }
+  width: 100%;
+  height: calc(100% - 110px);
+  min-height: 400px; }
 
-#todo {
+.map-icon {
+  display: inline-block; }
+
+.todo-wrap {
   width: 25%;
-  height: 60%;
-  background-color: rgba(0, 0, 0, 0.1);
+  height: calc(100% - 110px);
+  min-height: 500px;
   display: inline-block;
   vertical-align: top;
-  margin-right: 20px; }
+  margin-right: 1.5%;
+  padding-bottom: 20px; }
+
+.todo-header {
+  width: 100%;
+  height: 110px;
+  color: #898989;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 50px;
+  font-size: 30px;
+  letter-spacing: 5px; }
+
+#todo {
+  width: 100%;
+  height: calc(100% - 110px);
+  border: 2px solid rgba(137, 137, 137, 0.3);
+  min-height: 400px; }
 
 .header-wrap {
   position: relative;
@@ -65,3 +97,52 @@ html, body {
   padding-left: 120px;
   padding-top: 30px;
   letter-spacing: 6px; }
+
+.map-nav {
+  text-align: center; }
+
+.map-icon {
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 20px;
+  margin-top: 52px;
+  cursor: pointer; }
+
+.camping {
+  background-image: url("../images/icon-camping.png"); }
+
+.caravan {
+  background-image: url("../images/icon-camping.png"); }
+
+.heritage {
+  background-image: url("../images/icon-camping.png"); }
+
+.fishing {
+  background-image: url("../images/icon-camping.png"); }
+
+.picnicing {
+  background-image: url("../images/icon-camping.png"); }
+
+.trees {
+  background-image: url("../images/icon-trees.png"); }
+
+.landmarks {
+  background-image: url("../images/icon-camping.png"); }
+
+.huts {
+  background-image: url("../images/icon-camping.png"); }
+
+.recreation {
+  background-image: url("../images/icon-camping.png"); }
+
+.leisure {
+  background-image: url("../images/icon-camping.png"); }
+
+.worship {
+  background-image: url("../images/icon-camping.png"); }
+
+.wildlife {
+  background-image: url("../images/icon-camping.png");
+  margin-right: 0px; }
