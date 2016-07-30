@@ -5,8 +5,9 @@
     <meta charset="utf-8">
     <title>Simple markers</title>
     <link rel="stylesheet" href="bundle/bundle.css">
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sortable/0.9.13/jquery-sortable.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.js"></script>
+    <!-- <script src="js/tooltip.js"></script> -->
   </head>
   <body>
 
@@ -18,26 +19,52 @@
 
     <div class="map-wrap">
       <div class="map-nav">
-        <div class="map-icon camping"></div>
-        <div class="map-icon caravan"></div>
-        <div class="map-icon heritage"></div>
-        <div class="map-icon fishing"></div>
-        <div class="map-icon picnicing"></div>
-        <div class="map-icon trees"></div>
-        <div class="map-icon landmarks"></div>
-        <div class="map-icon huts"></div>
-        <div class="map-icon recreation"></div>
-        <div class="map-icon leisure"></div>
-        <div class="map-icon worship"></div>
-        <div class="map-icon wildlife"></div>
+        <div class="map-icon camping">
+          <div class="tooltip">camping</div>
+        </div>
+        <div class="map-icon caravan">
+          <div class="tooltip">caravan</div>
+        </div>
+        <div class="map-icon heritage">
+          <div class="tooltip">heritage sites</div>
+        </div>
+        <div class="map-icon fishing">
+          <div class="tooltip">fishing</div>
+        </div>
+        <div class="map-icon picnicing">
+          <div class="tooltip">picnicing</div>
+        </div>
+        <div class="map-icon trees">
+          <div class="tooltip">trees</div>
+        </div>
+        <div class="map-icon landmarks">
+          <div class="tooltip">landmark</div>
+        </div>
+        <div class="map-icon huts">
+          <div class="tooltip">huts & shelters</div>
+        </div>
+        <div class="map-icon recreation">
+          <div class="tooltip">recreation</div>
+        </div>
+        <div class="map-icon leisure">
+          <div class="tooltip">leisure</div>
+        </div>
+        <div class="map-icon worship">
+          <div class="tooltip">places of worship</div>
+        </div>
+        <div class="map-icon wildlife">
+          <div class="tooltip">wildlife</div>
+        </div>
       </div>
       <div id="map"></div>
     </div>
 
     <div class="todo-wrap">
       <div class="todo-header">MY JOURNEY</div>
-      <ul id="todo">
-      </ul>
+      <div class="todo-innerwrap">
+        <ul id="todo">
+        </ul>
+      </div>
     </div>
 
     <script src="js/app.js" charset="utf-8"></script>
