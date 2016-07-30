@@ -51,7 +51,7 @@ html, body {
   font-weight: bold;
   text-align: center;
   vertical-align: middle;
-  padding-top: 50px;
+  padding-top: 55px;
   font-size: 30px;
   letter-spacing: 5px; }
 
@@ -59,7 +59,9 @@ html, body {
   width: 100%;
   height: calc(100% - 110px);
   border: 2px solid rgba(137, 137, 137, 0.3);
-  min-height: 400px; }
+  min-height: 400px;
+  overflow: auto;
+  padding-top: 30px; }
 
 .header-wrap {
   position: relative;
@@ -97,6 +99,47 @@ html, body {
   padding-left: 120px;
   padding-top: 30px;
   letter-spacing: 6px; }
+
+.todo-event {
+  width: 80%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 18px;
+  box-shadow: 0px 0px 8px rgba(137, 137, 137, 0.2);
+  cursor: pointer;
+  position: relative; }
+
+.todo-name {
+  text-transform: uppercase;
+  font-size: 16px;
+  padding-right: 28px;
+  color: rgba(137, 137, 137, 0.6);
+  letter-spacing: 1px;
+  line-height: 18px;
+  margin-bottom: 5px;
+  margin-top: 8px; }
+
+.todo-site {
+  text-transform: uppercase;
+  font-size: 11px;
+  padding-right: 28px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: #878787;
+  line-height: 18px; }
+
+.todo-close {
+  font-size: 10px;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  line-height: 25px;
+  color: #898989;
+  border: 1px solid rgba(137, 137, 137, 0.2);
+  position: absolute;
+  top: 17px;
+  right: 15px; }
 
 .map-nav {
   text-align: center; }

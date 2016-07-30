@@ -165,23 +165,26 @@ function initMap() {
          });
          console.log(todoAdded[0].tags[1]);
          var $todoEvent = $("<div class='todo-event'></div>");
-         $("<div class='todo-latitude'>"+latitude+"</div>").appendTo($todoEvent);
-         $("<div class='todo-longitude'>"+longitude+"</div>").appendTo($todoEvent);
+        //  $('div').attr('data-lat', latitude).appendTo($todoEvent);
+        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
+        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
+         $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
+         $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
+         $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
+         $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
          $($todoEvent).appendTo('#todo');
-         radius = new google.maps.Circle({map: map,
-           radius: 500,
-           center: event.latLng,
-           fillColor: '#777',
-           fillOpacity: 0.1,
-           strokeColor: 'green',
-           strokeOpacity: 0.8,
-           strokeWeight: 2,
-           draggable: true,    // Dragable
-           // editable: true      // Resizable
-         });
+         
          // Center of map
          map.panTo(new google.maps.LatLng(latitude,longitude));
        }); //end addListener
      }
    });
  }
+
+$(function() {
+  console.log('hello');
+  $('#todo').on('click', '.todo-close',function() {
+    console.log(this);
+    $(this).parent().remove();
+  })
+})

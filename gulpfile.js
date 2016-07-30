@@ -7,10 +7,8 @@ plugin.server = require('browser-sync').create();
 plugin.rename = require('gulp-rename');
 plugin.sass = require('gulp-sass');
 plugin.autoprefixer = require('gulp-autoprefixer');
-plugin.eslint = require('gulp-eslint');
 
 gulp.task('sass', sass);
-gulp.task('lint', lint);
 gulp.task('serve', serve);
 gulp.task('refresh', refresh);
 gulp.task('watch', watch);
@@ -40,10 +38,4 @@ function sass() {
   .pipe( plugin.rename('bundle.css') )
   .pipe( gulp.dest('bundle') )
   .pipe( plugin.server.stream() );
-}
-
-function lint() {
-  gulp.src(['./js/**/*.js', './gulpfile'])
-    .pipe( plugin.eslint() )
-    .pipe( plugin.eslint.format() );
 }
