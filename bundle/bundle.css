@@ -104,7 +104,7 @@ html, body {
   width: 80%;
   margin: 0 auto;
   margin-bottom: 20px;
-  padding: 18px;
+  padding: 12px 16px 12px 16px;
   box-shadow: 0px 0px 8px rgba(137, 137, 137, 0.2);
   cursor: pointer;
   position: relative; }
@@ -126,7 +126,7 @@ html, body {
   letter-spacing: 1px;
   font-weight: bold;
   color: #878787;
-  line-height: 18px; }
+  line-height: 15px; }
 
 .todo-close {
   font-size: 10px;
@@ -138,8 +138,8 @@ html, body {
   color: #898989;
   border: 1px solid rgba(137, 137, 137, 0.2);
   position: absolute;
-  top: 17px;
-  right: 15px; }
+  top: 12px;
+  right: 12px; }
 
 .map-nav {
   text-align: center; }
@@ -157,35 +157,35 @@ html, body {
   background-image: url("../images/icon-camping.png"); }
 
 .caravan {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-caravan.png"); }
 
 .heritage {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-heritage.png"); }
 
 .fishing {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-fishing.png"); }
 
 .picnicing {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-picnic.png"); }
 
 .trees {
   background-image: url("../images/icon-trees.png"); }
 
 .landmarks {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-landmarks.png"); }
 
 .huts {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-hut.png"); }
 
 .recreation {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-recreation.png"); }
 
 .leisure {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-leisure.png"); }
 
 .worship {
-  background-image: url("../images/icon-camping.png"); }
+  background-image: url("../images/icon-worship.png"); }
 
 .wildlife {
-  background-image: url("../images/icon-camping.png");
+  background-image: url("../images/icon-wildlife.png");
   margin-right: 0px; }
