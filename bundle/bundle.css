@@ -113,7 +113,8 @@ html, body {
 
 .todo-event:hover {
   -webkit-transform: translateY(2px);
-          transform: translateY(2px); }
+          transform: translateY(2px);
+  box-shadow: 0px 0px 8px rgba(137, 137, 137, 0.4); }
 
 .todo-name {
   text-transform: uppercase;
