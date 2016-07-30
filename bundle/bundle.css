@@ -171,6 +171,9 @@ ul, li {
   margin-top: 52px;
   cursor: pointer; }
 
+.map-icon:hover {
+  box-shadow: 0 3px 1px #888888; }
+
 .camping {
   background-image: url("../images/icon-camping.png"); }
 
