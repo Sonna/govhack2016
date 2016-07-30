@@ -53,12 +53,11 @@ end
 #   HEADER_MAP.keys.include?(h.to_sym) ? HEADER_MAP[h.to_sym] : h
 # end
 
+# ruby scripts/Landmarks_and_Places_of_Interest_csv_to_json.rb data/original/Landmarks_and_Places_of_Interest.csv
 
-# ruby ../examples/csv_to_json.rb Landmarks_and_Places_of_Interest.csv
-
-input_filename = ARGS[0] || "/Users/Sonna/Projects/GovHack/data/Landmarks_and_Places_of_Interest.csv"
-output_filename = input_filename.sub(/(csv)$/, 'json')
-
+input_filename = ARGV[0] || "/Users/Sonna/Projects/GovHack/data/Landmarks_and_Places_of_Interest.csv"
+output_filename = input_filename.sub(/(csv)$/, 'json').sub(%r(/original/), '/cleaned/')
+puts output_filename
 # options = { col_sep: ',', converters: [:all, :blank_to_nil], headers: true, header_converters: true }
 options = {
   col_sep: ',',
@@ -68,7 +67,8 @@ options = {
 }
 lines = CSV.open(input_filename, options).readlines
 
-lines.each do |line|
+lines.each_with_index do |line, index|
+  line[:id] = index
   # "(-37.7881645889621, 144.939277838304)"
   line[:longitude], line[:latitude] =
     line[:coordinates].gsub(%r{[()""]}, "").split(", ").map { |coordinate| to_numeric(coordinate) }
