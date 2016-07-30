@@ -190,8 +190,14 @@
              //Add listener
              google.maps.event.addListener(marker, "click", function (event) {
                var latitude = event.latLng.lat();
-               var longitude = event.latLng.lng();
+               var longitude = Number(event.latLng.lng().toFixed(12));
                console.log( latitude + ', ' + longitude );
+               var todoAdded = locations.filter( function(location){
+                 if (location.latitude == longitude && location.longitude == latitude) {
+                   return location.latitude == longitude && location.longitude == latitude;
+                 }
+               });
+               console.log(todoAdded[0].tags[1]);
                var $todoEvent = $("<div class='todo-event'></div>");
                $("<div class='todo-latitude'>"+latitude+"</div>").appendTo($todoEvent);
                $("<div class='todo-longitude'>"+longitude+"</div>").appendTo($todoEvent);
@@ -211,19 +217,6 @@
                map.panTo(new google.maps.LatLng(latitude,longitude));
              }); //end addListener
            }
-           // var myLatLng = {lat: -37.81853869, lng: 144.95903134};
-           //
-           // var map = new google.maps.Map(document.getElementById('map'), {
-           //   zoom: 18,
-           //   center: myLatLng
-           // });
-           //
-           // var marker = new google.maps.Marker({
-           //   position: myLatLng,
-           //   map: map,
-           //   title: 'Hello World!',
-           //   // draggable: true
-           // });
          });
        }
      </script>
