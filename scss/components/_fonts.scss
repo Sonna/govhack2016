@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'alcubierreregular';
+    src: url('../fonts/alcubierre-webfont.woff2') format('woff2'),
+         url('../fonts/alcubierre-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-alc: 'alcubierreregular';

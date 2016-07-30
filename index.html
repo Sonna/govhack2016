@@ -4,242 +4,46 @@
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <title>Simple markers</title>
-    <style>
-      html, body {
-        width: 100%;
-        height: 100%;
-        margin: 0;
-        padding: 0;
-      }
-      #map {
-        width: 70%;
-        height: 100%;
-        display: inline-block;
-      }
-      #todo {
-        width: 29%;
-        height: 100%;
-        background-color: rgba(0, 0, 0, 0.1);
-        display: inline-block;
-        vertical-align: top;
-      }
-    </style>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.js" charset="utf-8"></script>
-
+    <link rel="stylesheet" href="bundle/bundle.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-sortable/0.9.13/jquery-sortable.js"></script>
   </head>
   <body>
-    <div id="map"></div>
-    <div id="todo">
-      <div class="todo-latitude"></div>
-      <div class="todo-longitude"></div>
+
+    <div class="header-wrap">
+      <div class="header-border"></div>
+      <div class="header-logo"></div>
+      <div class="header-name">GET PARKED</div>
     </div>
-    <script>
-      function initMap() {
-        var source_file = "https://sonna.github.io/govhack2016/data/cleaned/landmarks_and_places_of_interest.json";
-        var locations;
-        $.getJSON(source_file, function(json) {
-          console.log(json);
-          locations = json;
 
-          var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 14,
-            center: new google.maps.LatLng(-37.8162175,144.9640682),
-            mapTypeId: google.maps.MapTypeId.ROADMAP,
-            styles: [
-              {
-                "featureType":"water",
-                "elementType":"geometry.fill",
-                "stylers":[{"color":"#d3d3d3"}]
-              },
-              {
-                "featureType":"transit",
-                "stylers":[
-                  {"color":"#808080"},
-                  {"visibility":"off"}
-                ]
-              },
-              {
-                "featureType":"road.highway",
-                "elementType":"geometry.stroke",
-                "stylers":[
-                  {"visibility":"on"},
-                  {"color":"#b3b3b3"}
-                ]
-              },
-              {
-                "featureType":"road.highway",
+    <div class="map-wrap">
+      <div class="map-nav">
+        <div class="map-icon camping"></div>
+        <div class="map-icon caravan"></div>
+        <div class="map-icon heritage"></div>
+        <div class="map-icon fishing"></div>
+        <div class="map-icon picnicing"></div>
+        <div class="map-icon trees"></div>
+        <div class="map-icon landmarks"></div>
+        <div class="map-icon huts"></div>
+        <div class="map-icon recreation"></div>
+        <div class="map-icon leisure"></div>
+        <div class="map-icon worship"></div>
+        <div class="map-icon wildlife"></div>
+      </div>
+      <div id="map"></div>
+    </div>
 
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"color":"#ffffff"}
-                ]
-              },
-              {
-                "featureType":"road.local",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"visibility":"on"},
-                  {"color":"#ffffff"},
-                  {"weight":1.8}
-                ]
-              },
-              {
-                "featureType":"road.local",
-                "elementType":"geometry.stroke",
-                "stylers":[
-                  {"color":"#d7d7d7"}
-                ]
-              },
-              {
-                "featureType":"poi",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"visibility":"on"},
-                  {"color":"#ebebeb"}
-                ]
-              },
-              {
-                "featureType":"administrative",
-                "elementType":"geometry",
-                "stylers":[
-                  {"color":"#a7a7a7"}
-                ]
-              },
-              {
-                "featureType":"road.arterial",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"color":"#ffffff"}
-                ]
-              },
-              {
-                "featureType":"road.arterial",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"color":"#ffffff"}
-                ]
-              },
-              {
-                "featureType":"landscape",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"visibility":"on"},
-                  {"color":"#efefef"}
-                ]
-              },
-              {
-                "featureType":"road",
-                "elementType":"labels.text.fill",
-                "stylers":[
-                  {"color":"#696969"}
-                ]
-              },
-              {
-                "featureType":"administrative",
-                "elementType":"labels.text.fill",
-                "stylers":[
-                  {"visibility":"on"},
-                  {"color":"#737373"}
-                ]
-              },
-              {
-                "featureType":"poi",
-                "elementType":"labels.icon",
-                "stylers":[
-                  {"visibility":"off"}
-                ]
-              },
-              {
-                "featureType":"poi",
-                "elementType":"labels",
-                "stylers":[
-                  {"visibility":"off"}
-                ]
-              },
-              {
-                "featureType":"road.arterial",
-                "elementType":"geometry.stroke",
-                "stylers":[
-                  {"color":"#d6d6d6"}
-                ]
-              },
-              {
-                "featureType":"road",
-                "elementType":"labels.icon",
-                "stylers":[
-                  {"visibility":"off"}
-                ]
-              },
-              {},
-              {
-                "featureType":"poi",
-                "elementType":"geometry.fill",
-                "stylers":[
-                  {"color":"#dadada"}
-                ]
-              }
-            ]
-          });
+    <div class="todo-wrap">
+      <div class="todo-header">MY JOURNEY</div>
+      <ul id="todo">
+      </ul>
+    </div>
 
-          var marker, i;
+    <script src="js/app.js" charset="utf-8"></script>
+     <script async defer
+     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwwiUFj3f6eYDemKawzR-zeFFibDODIoY&libraries=places&callback=initMap">
+     </script>
 
-          for (i = 0; i < locations.length; i++) {
-            marker = new google.maps.Marker({
-              position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
-              map: map
-            });
-
-            //Add listener
-            google.maps.event.addListener(marker, "click", function (event) {
-              var latitude = event.latLng.lat();
-              var longitude = event.latLng.lng();
-              console.log( latitude + ', ' + longitude );
-
-              var $todoEvent = $("<div class='todo-event'></div>");
-
-              $("<div class='todo-latitude'>"+latitude+"</div>").appendTo($todoEvent);
-              $("<div class='todo-longitude'>"+longitude+"</div>").appendTo($todoEvent);
-
-              $($todoEvent).appendTo('#todo');
-
-              radius = new google.maps.Circle({map: map,
-                radius: 500,
-                center: event.latLng,
-                fillColor: '#777',
-                fillOpacity: 0.1,
-                strokeColor: 'green',
-                strokeOpacity: 0.8,
-                strokeWeight: 2,
-                draggable: true,    // Dragable
-                // editable: true      // Resizable
-              });
-
-              // Center of map
-              map.panTo(new google.maps.LatLng(latitude,longitude));
-
-            }); //end addListener
-          }
-          // var myLatLng = {lat: -37.81853869, lng: 144.95903134};
-          //
-          // var map = new google.maps.Map(document.getElementById('map'), {
-          //   zoom: 18,
-          //   center: myLatLng
-          // });
-          //
-          // var marker = new google.maps.Marker({
-          //   position: myLatLng,
-          //   map: map,
-          //   title: 'Hello World!',
-          //   // draggable: true
-          // });
-        });
-      }
-
-    </script>
-
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwwiUFj3f6eYDemKawzR-zeFFibDODIoY&libraries=places&callback=initMap">
-    </script>
-
-  </body>
-</html>
+   </body>
+ </html>
