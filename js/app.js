@@ -145,7 +145,7 @@ function initMap() {
     });
 
     var marker, i;
-    var image = '../images/google-droppin.png'
+    var image = 'images/google-droppin.png'
      for (i = 0; i < locations.length; i++) {
        marker = new google.maps.Marker({
          position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
