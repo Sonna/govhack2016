@@ -146,10 +146,12 @@ function initMap() {
     });
 
     var marker, i;
+    var image = '../images/google-droppin.png'
      for (i = 0; i < locations.length; i++) {
        marker = new google.maps.Marker({
          position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
-         map: map
+         map: map,
+         icon: image
        });
        //Add listener
        google.maps.event.addListener(marker, "click", function (event) {
