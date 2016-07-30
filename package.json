@@ -4,6 +4,10 @@
   "description": "",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp",
+    "tasks": "gulp --tasks",
+    "lint": "gulp lint",
+    "sass": "gulp sass",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
