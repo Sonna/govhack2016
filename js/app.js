@@ -164,7 +164,7 @@ function initMap() {
            }
          });
          console.log(todoAdded[0].tags[1]);
-         var $todoEvent = $("<div class='todo-event'></div>");
+         var $todoEvent = $("<li class='todo-event'></li>");
         //  $('div').attr('data-lat', latitude).appendTo($todoEvent);
         //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
         //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
@@ -173,7 +173,14 @@ function initMap() {
          $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
          $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
          $($todoEvent).appendTo('#todo');
-         
+
+         $("#todo").sortable({
+           connectWith: "#todo",
+           cursor: "move",
+          //  opacity: 0.4,
+           helper: "clone"
+         });
+
          // Center of map
          map.panTo(new google.maps.LatLng(latitude,longitude));
        }); //end addListener
@@ -182,9 +189,12 @@ function initMap() {
  }
 
 $(function() {
-  console.log('hello');
   $('#todo').on('click', '.todo-close',function() {
-    console.log(this);
     $(this).parent().remove();
   })
 })
+
+function callSortable() {
+  console.log('sort');
+  $("#todo").sortable();
+}
