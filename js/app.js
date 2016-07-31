@@ -1,6 +1,7 @@
 var map;
 var sourceFile = "data/data.json";
 var locations;
+var estimatedTime = 1.5;
 
 function initMap() {
   $.getJSON(sourceFile, function(json) {
@@ -190,6 +191,8 @@ function setMarkers(map, locations) {
        $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
        $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
        $($todoEvent).appendTo('#todo');
+       $('.todo-time').css('display', 'block').html('EXPECTED TRANSIT TIME: '+ estimatedTime +' HOURS');
+       estimatedTime += 1.5;
 
        $("#todo").sortable({
          connectWith: "#todo",

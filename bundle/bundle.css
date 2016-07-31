@@ -82,7 +82,8 @@ ul, li {
   font-size: 14px;
   letter-spacing: 1px;
   line-height: 14px;
-  color: #898989; }
+  color: #898989;
+  display: none; }
 
 .header-wrap {
   position: relative;
