@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Melbourne Visitor Booth",
+    "id": 37,
+    "longitude": -37.813953,
+    "latitude": 144.964425,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Visitor Centre",
+    "id": 229,
+    "longitude": -37.817736,
+    "latitude": 144.967937,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  }
+]

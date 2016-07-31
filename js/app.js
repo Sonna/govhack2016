@@ -196,3 +196,29 @@ $(function() {
     $(this).parent().remove();
   })
 })
+
+function groupLocations(locations) {
+  // Grouped by tags
+  var allTags = $.map(locations, function (data) { return data.tags; })
+  var allUniqueTags = $.unique(allTags);
+  console.log(allUniqueTags);
+
+  var locationsGroupedByTags = {};
+  for (var tag in allUniqueTags) {
+    locationsGroupedByTags[allUniqueTags[tag]] = [];
+  }
+  // console.log(locationsGroupedByTags);
+
+  for (i = 0; i < locations.length; i++) {
+    var location = locations[i];
+
+    for (var tag in allUniqueTags) {
+      var currentTag = allUniqueTags[tag];
+      if ($.inArray(currentTag, location.tags) > -1) {
+        locationsGroupedByTags[currentTag].push(location);
+      }
+    }
+  }
+
+  return locationsGroupedByTags;
+}

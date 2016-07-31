@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Central City Studios",
+    "id": 101,
+    "longitude": -37.814232,
+    "latitude": 144.935655,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Channel 7 - Melbourne Broadcast Centre",
+    "id": 102,
+    "longitude": -37.815858,
+    "latitude": 144.945823,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  }
+]

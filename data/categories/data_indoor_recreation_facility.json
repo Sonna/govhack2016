@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Artplay",
+    "id": 132,
+    "longitude": -37.81842,
+    "latitude": 144.971542,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  },
+  {
+    "name": "Icehouse",
+    "id": 157,
+    "longitude": -37.812189,
+    "latitude": 144.935684,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  },
+  {
+    "name": "Carlton Baths",
+    "id": 211,
+    "longitude": -37.793438,
+    "latitude": 144.971696,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  }
+]

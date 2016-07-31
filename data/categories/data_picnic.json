@@ -1,0 +1,206 @@
+[
+  {
+    "id": 57,
+    "name": "Cascades Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.571602,
+    "longitude": -37.45991,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "N/a",
+    "image": null,
+    "description": "timber with interp signs",
+    "latitude": 146.531845,
+    "longitude": -37.10876,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Suspension Bridge Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.554091,
+    "longitude": -37.38888,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 145.193191,
+    "longitude": -37.12051,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Myrtle Gully Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.527617,
+    "longitude": -37.52082,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Richards",
+    "image": null,
+    "description": null,
+    "latitude": 145.794639,
+    "longitude": -37.77734,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Number One Camp Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.172478,
+    "longitude": -37.32146,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Skipworth reserve",
+    "image": null,
+    "description": null,
+    "latitude": 146.14343,
+    "longitude": -37.34616,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Ada Tree",
+    "image": null,
+    "description": null,
+    "latitude": 145.86788,
+    "longitude": -37.818208,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Andersons Garden Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.107459,
+    "longitude": -37.35332,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "Water Guage Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.565065,
+    "longitude": -37.415461,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "N/a",
+    "image": null,
+    "description": "2 picnic tables under shelter",
+    "latitude": 146.240831,
+    "longitude": -37.55929,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Annies Lane Recreation Site",
+    "image": null,
+    "description": null,
+    "latitude": 143.928988,
+    "longitude": -37.41177,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Checking Station Trail Bike Visitor Area",
+    "image": null,
+    "description": null,
+    "latitude": 146.01494,
+    "longitude": -37.80148,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 635,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 145.173352,
+    "longitude": -37.32026,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 1148,
+    "name": "N/a",
+    "image": null,
+    "description": "2 picnic tables under shelter",
+    "latitude": 146.240225,
+    "longitude": -37.559078,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  },
+  {
+    "id": 1387,
+    "name": "Yellow Dog Picnic Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.774171,
+    "longitude": -37.52243,
+    "tags": [
+      "ASSET",
+      "Picnic"
+    ]
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Old Melbourne Gaol Crime & Justice Experience",
+    "id": 50,
+    "longitude": -37.807765,
+    "latitude": 144.965463,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Polly Woodside",
+    "id": 80,
+    "longitude": -37.824258,
+    "latitude": 144.953478,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Australian Centre for Contemporary Art",
+    "id": 84,
+    "longitude": -37.826605,
+    "latitude": 144.967252,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Victorian Arts Centre",
+    "id": 87,
+    "longitude": -37.821995,
+    "latitude": 144.968837,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "The Ian Potter Centre: NGV Australia",
+    "id": 97,
+    "longitude": -37.817484,
+    "latitude": 144.969899,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Thoroughbred Racing Gallery",
+    "id": 99,
+    "longitude": -37.818867,
+    "latitude": 144.98397,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Fox Classic Car Collection",
+    "id": 115,
+    "longitude": -37.821375,
+    "latitude": 144.948496,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Melbourne Museum",
+    "id": 123,
+    "longitude": -37.803552,
+    "latitude": 144.97169,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "National Sports Museum",
+    "id": 147,
+    "longitude": -37.818955,
+    "latitude": 144.984669,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Sinclair's Cottage",
+    "id": 182,
+    "longitude": -37.814541,
+    "latitude": 144.980554,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Victoria Police Museum",
+    "id": 185,
+    "longitude": -37.822219,
+    "latitude": 144.954039,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Immigration Museum",
+    "id": 186,
+    "longitude": -37.81918,
+    "latitude": 144.960426,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Fire Services Museum Victoria",
+    "id": 192,
+    "longitude": -37.808577,
+    "latitude": 144.975373,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "The Ian Potter Museum Of Art",
+    "id": 195,
+    "longitude": -37.797394,
+    "latitude": 144.964156,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Koorie Heritage Trust Inc",
+    "id": 197,
+    "longitude": -37.813386,
+    "latitude": 144.954027,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Cooks' Cottage",
+    "id": 215,
+    "longitude": -37.814461,
+    "latitude": 144.979471,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Royal Exhibition Building",
+    "id": 219,
+    "longitude": -37.804603,
+    "latitude": 144.971521,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Australian Centre For The Moving Image (ACMI)",
+    "id": 230,
+    "longitude": -37.817611,
+    "latitude": 144.96907,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "The Museum Of Australian Chinese History",
+    "id": 240,
+    "longitude": -37.810769,
+    "latitude": 144.969233,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  }
+]

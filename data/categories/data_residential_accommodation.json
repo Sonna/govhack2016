@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Government House",
+    "id": 150,
+    "longitude": -37.827564,
+    "latitude": 144.976655,
+    "tags": [
+      "Residential Accommodation",
+      "Dwelling (House)",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Bishopscourt",
+    "id": 238,
+    "longitude": -37.813293,
+    "latitude": 144.983506,
+    "tags": [
+      "Residential Accommodation",
+      "Dwelling (House)",
+      "Huts and shelters"
+    ]
+  }
+]

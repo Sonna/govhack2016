@@ -1,0 +1,326 @@
+[
+  {
+    "id": 182,
+    "name": "Murrindindi River Walk South Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.572578,
+    "longitude": -37.45759,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Water Guage Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.565286,
+    "longitude": -37.41545,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Dealbata Footbridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.530312,
+    "longitude": -37.5318,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "Tramway Bridge Upper",
+    "image": null,
+    "description": null,
+    "latitude": 146.371147,
+    "longitude": -37.08795,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Booroondara Track Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.575838,
+    "longitude": -37.420026,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Steavenson Falls Walk Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.773322,
+    "longitude": -37.532397,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Kendalls Link Track Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.858426,
+    "longitude": -37.31716,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "Plain Creek Campground Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 146.36818,
+    "longitude": -37.10293,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Murrindindi River Walk Middle Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.572758,
+    "longitude": -37.4331,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Murrindindi River Walk Middle Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.572758,
+    "longitude": -37.4331,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 145.58205,
+    "longitude": -37.442975,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 145.58205,
+    "longitude": -37.442975,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "Murrindindi River Walk North Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.561918,
+    "longitude": -37.400602,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "Murrindindi River Walk North Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.559518,
+    "longitude": -37.39783,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "Tramway Bridge Lower",
+    "image": null,
+    "description": null,
+    "latitude": 146.370952,
+    "longitude": -37.09361,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "Murrindindi River Walk Middle Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.585149,
+    "longitude": -37.45062,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 916,
+    "name": "Murrindindi River Walk South Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.572619,
+    "longitude": -37.45745,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 924,
+    "name": "Learys Creek Long Loop Downstream Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.745303,
+    "longitude": -37.51752,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 925,
+    "name": "Murrindindi River Walk Middle Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.585149,
+    "longitude": -37.45062,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 941,
+    "name": "Murrindindi River Walk South Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.572619,
+    "longitude": -37.45745,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 944,
+    "name": "Murrindindi River Walk North Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.559518,
+    "longitude": -37.39783,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 948,
+    "name": "Murrindindi River Walk North Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.561918,
+    "longitude": -37.400602,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 949,
+    "name": "Suspension Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.554425,
+    "longitude": -37.38847,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 954,
+    "name": "Richards",
+    "image": null,
+    "description": "poor gps conditions. correct location approx 250m east",
+    "latitude": 145.807854,
+    "longitude": -37.781172,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 956,
+    "name": "Murrindindi River Walk South Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.572578,
+    "longitude": -37.45759,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 960,
+    "name": "werribee no1",
+    "image": null,
+    "description": null,
+    "latitude": 144.17127,
+    "longitude": -37.5083,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  },
+  {
+    "id": 1286,
+    "name": "Stevensons",
+    "image": null,
+    "description": "only one hand rail",
+    "latitude": 143.658453,
+    "longitude": -38.57189,
+    "tags": [
+      "ASSET",
+      "Metal"
+    ]
+  }
+]

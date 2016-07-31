@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Council House 2 (CH2)",
+    "id": 1,
+    "longitude": -37.81426,
+    "latitude": 144.966638,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Southgate Arts and Leisure Precinct",
+    "id": 83,
+    "longitude": -37.820225,
+    "latitude": 144.965989,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Wholesale Fruit, Vegetable & Flower Market",
+    "id": 191,
+    "longitude": -37.806873,
+    "latitude": 144.923287,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Central",
+    "id": 200,
+    "longitude": -37.810538,
+    "latitude": 144.962749,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "ANZ 'Gothic' Bank",
+    "id": 241,
+    "longitude": -37.816159,
+    "latitude": 144.961673,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  }
+]

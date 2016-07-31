@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Melbourne Exhibition Centre",
+    "id": 78,
+    "longitude": -37.825246,
+    "latitude": 144.954352,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Melbourne Convention Centre",
+    "id": 79,
+    "longitude": -37.824905,
+    "latitude": 144.952288,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Central Pier",
+    "id": 108,
+    "longitude": -37.816518,
+    "latitude": 144.943475,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Dallas Brooks Centre",
+    "id": 232,
+    "longitude": -37.809738,
+    "latitude": 144.981383,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  }
+]

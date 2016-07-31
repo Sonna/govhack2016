@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Melbourne Grammar School",
+    "id": 52,
+    "longitude": -37.834257,
+    "latitude": 144.976285,
+    "tags": [
+      "Education Centre",
+      "Secondary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "University High School",
+    "id": 63,
+    "longitude": -37.797314,
+    "latitude": 144.956034,
+    "tags": [
+      "Education Centre",
+      "Secondary Schools",
+      "Landmarks"
+    ]
+  }
+]

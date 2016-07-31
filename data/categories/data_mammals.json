@@ -1,0 +1,5447 @@
+[
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -36.831193,
+    "longitude": 144.231796,
+    "id": 0,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.234506,
+    "longitude": 142.075903,
+    "id": 1,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus australis",
+    "name": "Bellied Glider",
+    "latitude": -37.983209,
+    "longitude": 145.60745,
+    "id": 2,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.234473,
+    "longitude": 142.075474,
+    "id": 3,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.234574,
+    "longitude": 142.075109,
+    "id": 4,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 5,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 6,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.227579,
+    "longitude": 142.065217,
+    "id": 7,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Gymnobelideus leadbeateri",
+    "name": "Leadbeater's Possum",
+    "latitude": -37.518339,
+    "longitude": 145.55799,
+    "id": 8,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 9,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Acrobates pygmaeus",
+    "name": "Feathertail Glider",
+    "latitude": -37.562,
+    "longitude": 145.938,
+    "id": 10,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.272339,
+    "longitude": 142.087399,
+    "id": 11,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 12,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 13,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 14,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Gymnobelideus leadbeateri",
+    "name": "Leadbeater's Possum",
+    "latitude": -37.562577,
+    "longitude": 145.9387,
+    "id": 15,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.234978,
+    "longitude": 142.074251,
+    "id": 16,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 17,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Gymnobelideus leadbeateri",
+    "name": "Leadbeater's Possum",
+    "latitude": -37.61,
+    "longitude": 145.9953,
+    "id": 18,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -37.429089,
+    "longitude": 144.61377,
+    "id": 19,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.430809,
+    "longitude": 144.654755,
+    "id": 20,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petauroides volans",
+    "name": "Greater Glider",
+    "latitude": -38.36751,
+    "longitude": 146.384829,
+    "id": 21,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Felis catus",
+    "name": "Cat",
+    "latitude": -38.672222,
+    "longitude": 143.498969,
+    "id": 22,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.674587,
+    "longitude": 144.879246,
+    "id": 23,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.86654,
+    "longitude": 145.08554,
+    "id": 24,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.86654,
+    "longitude": 145.08554,
+    "id": 25,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -38.475416,
+    "longitude": 143.933033,
+    "id": 26,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Arctocephalus forsteri (Lesson, 1828)",
+    "name": "New Zealand Fur-seal",
+    "latitude": -38.385705,
+    "longitude": 142.241147,
+    "id": 27,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.694396,
+    "longitude": 143.152899,
+    "id": 28,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.74948,
+    "longitude": 145.219008,
+    "id": 29,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.946037,
+    "longitude": 145.257455,
+    "id": 30,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.384337,
+    "longitude": 144.976935,
+    "id": 31,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.777145,
+    "longitude": 144.988113,
+    "id": 32,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.773089,
+    "longitude": 144.987473,
+    "id": 33,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.770983,
+    "longitude": 144.987689,
+    "id": 34,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.777437,
+    "longitude": 144.990335,
+    "id": 35,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus (Goldfuss, 1817)",
+    "name": "Koala",
+    "latitude": -36.285431,
+    "longitude": 146.182472,
+    "id": 36,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus (Shaw, 1792)",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.252015,
+    "longitude": 147.056381,
+    "id": 37,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.911113,
+    "longitude": 145.134187,
+    "id": 38,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 39,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -38.810439,
+    "longitude": 146.058346,
+    "id": 40,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 41,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 42,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 43,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 44,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 45,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 46,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 47,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus lutreolus",
+    "name": "Swamp Rat",
+    "latitude": -37.881603,
+    "longitude": 147.824977,
+    "id": 48,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 49,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 50,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -38.790075,
+    "longitude": 145.926763,
+    "id": 51,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.608929,
+    "longitude": 141.688442,
+    "id": 52,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 53,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 54,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -36.123976,
+    "longitude": 146.817727,
+    "id": 55,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 56,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 57,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 58,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Felis catus",
+    "name": "Cat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 59,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 60,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 61,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 62,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 63,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 64,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 65,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 66,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 67,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.235282,
+    "longitude": 142.074229,
+    "id": 68,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 69,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392267,
+    "longitude": 144.262996,
+    "id": 70,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 71,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 72,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 73,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 74,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.433484,
+    "longitude": 144.42524,
+    "id": 75,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.848867,
+    "longitude": 145.343627,
+    "id": 76,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 77,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 78,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 79,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -38.235214,
+    "longitude": 142.074379,
+    "id": 80,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 81,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 82,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 83,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 84,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 85,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 86,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 87,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235231,
+    "longitude": 142.074079,
+    "id": 88,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 89,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 90,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 91,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Felis catus",
+    "name": "Cat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 92,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 93,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39336,
+    "longitude": 144.262771,
+    "id": 94,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 95,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 96,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 97,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 98,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 99,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 100,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 101,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 102,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.339561,
+    "longitude": 142.054713,
+    "id": 103,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 104,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 105,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 106,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 107,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 108,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39351,
+    "longitude": 144.262621,
+    "id": 109,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 110,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus rattus",
+    "name": "Black Rat",
+    "latitude": -37.882569,
+    "longitude": 145.193663,
+    "id": 111,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 112,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 113,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 114,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 115,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 116,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 117,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 118,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 119,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pteropus poliocephalus",
+    "name": "Grey-headed Flying-fox",
+    "latitude": -38.098184,
+    "longitude": 144.363862,
+    "id": 120,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Felis catus",
+    "name": "Cat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 121,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 122,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.39138,
+    "longitude": 144.267341,
+    "id": 123,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 124,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.812346,
+    "longitude": 144.980623,
+    "id": 125,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.813631,
+    "longitude": 144.975752,
+    "id": 126,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pteropus poliocephalus",
+    "name": "Grey-headed Flying-fox",
+    "latitude": -37.813835,
+    "longitude": 144.975441,
+    "id": 127,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.617673,
+    "longitude": 142.998576,
+    "id": 128,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Oryctolagus cuniculus",
+    "name": "Rabbit",
+    "latitude": -37.813803,
+    "longitude": 144.93554,
+    "id": 129,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 130,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus rattus (Linnaeus, 1758)",
+    "name": "Black Rat",
+    "latitude": -37.878693,
+    "longitude": 145.082443,
+    "id": 131,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.983939,
+    "longitude": 145.611911,
+    "id": 132,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.002814,
+    "longitude": 145.61718,
+    "id": 133,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -38.165464,
+    "longitude": 146.36157,
+    "id": 134,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula (Kerr, 1792)",
+    "name": "Common Brushtail Possum",
+    "latitude": -38.133414,
+    "longitude": 146.502445,
+    "id": 135,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus (Goldfuss, 1817)",
+    "name": "Koala",
+    "latitude": -38.3582,
+    "longitude": 146.388136,
+    "id": 136,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -38.165464,
+    "longitude": 146.36157,
+    "id": 137,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Perameles nasuta É. Geoffroy Saint-Hilaire, 1804",
+    "name": "Long-nosed Bandicoot",
+    "latitude": -38.134261,
+    "longitude": 145.274636,
+    "id": 138,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus (Shaw, 1797)",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.12872,
+    "longitude": 145.269053,
+    "id": 139,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.983445,
+    "longitude": 145.61296,
+    "id": 140,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus (Boddaert, 1785)",
+    "name": "Common Ringtail Possum",
+    "latitude": -38.133667,
+    "longitude": 146.504226,
+    "id": 141,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus (Shaw, 1792)",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.008351,
+    "longitude": 145.132568,
+    "id": 142,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus (Shaw, 1792)",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.008351,
+    "longitude": 145.132492,
+    "id": 143,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Perameles nasuta ?. Geoffroy Saint-Hilaire, 1804",
+    "name": "Long-nosed Bandicoot",
+    "latitude": -38.128438,
+    "longitude": 145.268722,
+    "id": 144,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -36.286239,
+    "longitude": 146.169662,
+    "id": 145,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -36.286239,
+    "longitude": 146.169662,
+    "id": 146,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -37.771461,
+    "longitude": 144.987176,
+    "id": 147,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.771296,
+    "longitude": 144.987183,
+    "id": 148,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.771452,
+    "longitude": 144.987187,
+    "id": 149,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.771351,
+    "longitude": 144.987088,
+    "id": 150,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.947937,
+    "longitude": 145.130821,
+    "id": 151,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.712107,
+    "longitude": 145.291746,
+    "id": 152,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 153,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 154,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.391374,
+    "longitude": 144.262776,
+    "id": 155,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 156,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 157,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.389004,
+    "longitude": 144.267198,
+    "id": 158,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -36.284862,
+    "longitude": 142.931871,
+    "id": 159,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388814,
+    "longitude": 144.2674,
+    "id": 160,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 161,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 162,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392062,
+    "longitude": 144.26299,
+    "id": 163,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 164,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 165,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393484,
+    "longitude": 144.26262,
+    "id": 166,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 167,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393844,
+    "longitude": 144.265795,
+    "id": 168,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.687183,
+    "longitude": 145.099847,
+    "id": 169,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 170,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 171,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.38892,
+    "longitude": 144.267276,
+    "id": 172,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.394194,
+    "longitude": 144.265658,
+    "id": 173,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.388832,
+    "longitude": 144.267875,
+    "id": 174,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 175,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.392072,
+    "longitude": 144.263001,
+    "id": 176,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235349,
+    "longitude": 142.073907,
+    "id": 177,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 178,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 179,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393852,
+    "longitude": 144.265805,
+    "id": 180,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.392865,
+    "longitude": 144.262893,
+    "id": 181,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 182,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 183,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.393472,
+    "longitude": 144.262615,
+    "id": 184,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 185,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393637,
+    "longitude": 144.262561,
+    "id": 186,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.391509,
+    "longitude": 144.264325,
+    "id": 187,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus robustus",
+    "name": "Eastern Wallaroo",
+    "latitude": -36.276075,
+    "longitude": 143.142478,
+    "id": 188,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 189,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petauroides volans",
+    "name": "Greater Glider",
+    "latitude": -37.975023,
+    "longitude": 145.580778,
+    "id": 190,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 191,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -36.286194,
+    "longitude": 143.094713,
+    "id": 192,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps breviceps",
+    "name": "Sugar Glider",
+    "latitude": -38.34429,
+    "longitude": 142.767157,
+    "id": 193,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393384,
+    "longitude": 144.266763,
+    "id": 194,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391564,
+    "longitude": 144.267015,
+    "id": 195,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.790354,
+    "longitude": 145.781579,
+    "id": 196,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.394097,
+    "longitude": 144.2641,
+    "id": 197,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 198,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392867,
+    "longitude": 144.262893,
+    "id": 199,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393889,
+    "longitude": 144.26635,
+    "id": 200,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 201,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393912,
+    "longitude": 144.26343,
+    "id": 202,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 203,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.702638,
+    "longitude": 145.292275,
+    "id": 204,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 205,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 206,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 207,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.390655,
+    "longitude": 144.267428,
+    "id": 208,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.685791,
+    "longitude": 145.101628,
+    "id": 209,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393889,
+    "longitude": 144.262706,
+    "id": 210,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393075,
+    "longitude": 144.262731,
+    "id": 211,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393975,
+    "longitude": 144.263903,
+    "id": 212,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.390785,
+    "longitude": 144.267763,
+    "id": 213,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.393489,
+    "longitude": 144.262665,
+    "id": 214,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Gymnobelideus leadbeateri",
+    "name": "Leadbeater's Possum",
+    "latitude": -37.854356,
+    "longitude": 145.81634,
+    "id": 215,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391487,
+    "longitude": 144.263736,
+    "id": 216,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388955,
+    "longitude": 144.266828,
+    "id": 217,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 218,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 219,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 220,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.429865,
+    "longitude": 144.465529,
+    "id": 221,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 222,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -37.333126,
+    "longitude": 144.477274,
+    "id": 223,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393829,
+    "longitude": 144.262985,
+    "id": 224,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 225,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 226,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388917,
+    "longitude": 144.267291,
+    "id": 227,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 228,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391464,
+    "longitude": 144.263155,
+    "id": 229,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.388829,
+    "longitude": 144.267528,
+    "id": 230,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393047,
+    "longitude": 144.262706,
+    "id": 231,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 232,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388955,
+    "longitude": 144.266828,
+    "id": 233,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.390857,
+    "longitude": 144.26783,
+    "id": 234,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Oryctolagus cuniculus",
+    "name": "Rabbit",
+    "latitude": -37.687489,
+    "longitude": 145.097733,
+    "id": 235,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393954,
+    "longitude": 144.263378,
+    "id": 236,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 237,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 238,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 239,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391499,
+    "longitude": 144.26294,
+    "id": 240,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 241,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 242,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.391472,
+    "longitude": 144.267045,
+    "id": 243,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Dama dama",
+    "name": "Fallow Deer",
+    "latitude": -37.324646,
+    "longitude": 144.349043,
+    "id": 244,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -37.334732,
+    "longitude": 144.47263,
+    "id": 245,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392977,
+    "longitude": 144.262718,
+    "id": 246,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.394159,
+    "longitude": 144.265605,
+    "id": 247,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 248,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 249,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 250,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 251,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 252,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393814,
+    "longitude": 144.262841,
+    "id": 253,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.092226,
+    "longitude": 148.411345,
+    "id": 254,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393077,
+    "longitude": 144.262733,
+    "id": 255,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 256,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.682836,
+    "longitude": 145.102314,
+    "id": 257,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 258,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 259,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -36.253415,
+    "longitude": 146.670919,
+    "id": 260,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.939807,
+    "longitude": 145.133268,
+    "id": 261,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.712264,
+    "longitude": 145.125594,
+    "id": 262,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -37.781468,
+    "longitude": 145.051289,
+    "id": 263,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 264,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 265,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 266,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -38.164648,
+    "longitude": 144.324673,
+    "id": 267,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Axis porcinus",
+    "name": "Hog Deer",
+    "latitude": -38.071619,
+    "longitude": 147.223355,
+    "id": 268,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -38.508819,
+    "longitude": 145.148495,
+    "id": 269,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -38.508883,
+    "longitude": 145.149433,
+    "id": 270,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula (Kerr, 1792)",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.882912,
+    "longitude": 145.193195,
+    "id": 271,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Oryctolagus cuniculus (Linnaeus, 1758)",
+    "name": "Rabbit",
+    "latitude": -37.751467,
+    "longitude": 145.180663,
+    "id": 272,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -37.760555,
+    "longitude": 145.184746,
+    "id": 273,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.754539,
+    "longitude": 145.181571,
+    "id": 274,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -36.106572,
+    "longitude": 146.925491,
+    "id": 275,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.683395,
+    "longitude": 146.051863,
+    "id": 276,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus victor",
+    "name": "",
+    "latitude": -37.406117,
+    "longitude": 144.600721,
+    "id": 277,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 278,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 279,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 280,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 281,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 282,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.212446,
+    "longitude": 142.369608,
+    "id": 283,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus lutreolus",
+    "name": "Swamp Rat",
+    "latitude": -38.80212,
+    "longitude": 143.47732,
+    "id": 284,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 285,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39412,
+    "longitude": 144.266345,
+    "id": 286,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.389084,
+    "longitude": 144.267826,
+    "id": 287,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 288,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.391847,
+    "longitude": 144.262906,
+    "id": 289,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 290,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 291,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393972,
+    "longitude": 144.264203,
+    "id": 292,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 293,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 294,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 295,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 296,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 297,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 298,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 299,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 300,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.234667,
+    "longitude": 142.075098,
+    "id": 301,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 302,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392337,
+    "longitude": 144.2628,
+    "id": 303,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus australis",
+    "name": "Bellied Glider",
+    "latitude": -37.682802,
+    "longitude": 145.538806,
+    "id": 304,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393784,
+    "longitude": 144.266448,
+    "id": 305,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 306,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 307,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 308,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391635,
+    "longitude": 144.262923,
+    "id": 309,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 310,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39359,
+    "longitude": 144.266566,
+    "id": 311,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 312,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392702,
+    "longitude": 144.267413,
+    "id": 313,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 314,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39408,
+    "longitude": 144.266208,
+    "id": 315,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 316,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.235299,
+    "longitude": 142.074251,
+    "id": 317,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 318,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 319,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 320,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 321,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.390607,
+    "longitude": 144.267988,
+    "id": 322,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 323,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392332,
+    "longitude": 144.262961,
+    "id": 324,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 325,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.391625,
+    "longitude": 144.262933,
+    "id": 326,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 327,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392907,
+    "longitude": 144.262955,
+    "id": 328,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.523297,
+    "longitude": 145.21614,
+    "id": 329,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393972,
+    "longitude": 144.264206,
+    "id": 330,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 331,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.211682,
+    "longitude": 142.369594,
+    "id": 332,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.391615,
+    "longitude": 144.262843,
+    "id": 333,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 334,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 335,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392907,
+    "longitude": 144.262955,
+    "id": 336,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 337,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.966328,
+    "longitude": 145.300605,
+    "id": 338,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.234641,
+    "longitude": 142.075045,
+    "id": 339,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.394235,
+    "longitude": 144.26547,
+    "id": 340,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.392305,
+    "longitude": 144.262973,
+    "id": 341,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 342,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.560345,
+    "longitude": 145.346267,
+    "id": 343,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 344,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.394025,
+    "longitude": 144.264591,
+    "id": 345,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 346,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 347,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 348,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 349,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 350,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 351,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 352,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 353,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 354,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 355,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 356,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.391847,
+    "longitude": 144.262905,
+    "id": 357,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 358,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39097,
+    "longitude": 144.269516,
+    "id": 359,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 360,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 361,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 362,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.806507,
+    "longitude": 144.297048,
+    "id": 363,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.805054,
+    "longitude": 144.297834,
+    "id": 364,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.475979,
+    "longitude": 145.161947,
+    "id": 365,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Hydromys chrysogaster",
+    "name": "Water-rat",
+    "latitude": -37.47494,
+    "longitude": 145.151926,
+    "id": 366,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.406117,
+    "longitude": 144.600721,
+    "id": 367,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Nyctophilus geoffroyi",
+    "name": "Lesser Long-eared Bat",
+    "latitude": -38.355951,
+    "longitude": 146.393117,
+    "id": 368,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -38.859326,
+    "longitude": 146.245407,
+    "id": 369,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 370,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Dendrolagus lumholtzi",
+    "name": "Lumholtz's Tree-kangaroo",
+    "latitude": -37.811151,
+    "longitude": 144.954015,
+    "id": 371,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.724035,
+    "longitude": 145.132853,
+    "id": 372,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.90878,
+    "longitude": 147.754463,
+    "id": 373,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula (Kerr, 1792)",
+    "name": "Common Brushtail Possum",
+    "latitude": -39.029305,
+    "longitude": 146.317993,
+    "id": 374,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus (Shaw, 1800)",
+    "name": "Common Wombat",
+    "latitude": -39.029305,
+    "longitude": 146.31874,
+    "id": 375,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus (Shaw, 1800)",
+    "name": "Common Wombat",
+    "latitude": -39.028954,
+    "longitude": 146.317687,
+    "id": 376,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.930844,
+    "longitude": 146.289688,
+    "id": 377,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus (Shaw, 1800)",
+    "name": "Common Wombat",
+    "latitude": -39.028825,
+    "longitude": 146.319045,
+    "id": 378,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -39.028937,
+    "longitude": 146.31667,
+    "id": 379,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -38.930672,
+    "longitude": 146.28228,
+    "id": 380,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.930667,
+    "longitude": 146.290038,
+    "id": 381,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -38.916012,
+    "longitude": 146.315791,
+    "id": 382,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus (Goldfuss, 1817)",
+    "name": "Koala",
+    "latitude": -37.956947,
+    "longitude": 146.404158,
+    "id": 383,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.393367,
+    "longitude": 144.267161,
+    "id": 384,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.983243,
+    "longitude": 145.642833,
+    "id": 385,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Dama dama",
+    "name": "Fallow Deer",
+    "latitude": -38.011313,
+    "longitude": 145.617256,
+    "id": 386,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Sminthopsis crassicaudata",
+    "name": "Fat-tailed Dunnart",
+    "latitude": -36.403053,
+    "longitude": 144.285721,
+    "id": 387,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.654182,
+    "longitude": 141.957478,
+    "id": 388,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus australis australis",
+    "name": "Bellied Glider",
+    "latitude": -37.983243,
+    "longitude": 145.642833,
+    "id": 389,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.987775,
+    "longitude": 145.613222,
+    "id": 390,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petauroides volans",
+    "name": "Greater Glider",
+    "latitude": -37.983243,
+    "longitude": 145.642833,
+    "id": 391,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.983666,
+    "longitude": 145.614016,
+    "id": 392,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.39188,
+    "longitude": 144.26284,
+    "id": 393,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.234624,
+    "longitude": 142.075007,
+    "id": 394,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pseudocheirus peregrinus",
+    "name": "Common Ringtail Possum",
+    "latitude": -37.389084,
+    "longitude": 144.267408,
+    "id": 395,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.983243,
+    "longitude": 145.642833,
+    "id": 396,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.98419,
+    "longitude": 145.600433,
+    "id": 397,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.227579,
+    "longitude": 142.065217,
+    "id": 398,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vombatus ursinus",
+    "name": "Common Wombat",
+    "latitude": -37.983243,
+    "longitude": 145.642833,
+    "id": 399,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -37.653852,
+    "longitude": 141.957685,
+    "id": 400,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Cervus unicolor",
+    "name": "Sambar",
+    "latitude": -37.992291,
+    "longitude": 145.612599,
+    "id": 401,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -38.227579,
+    "longitude": 142.065217,
+    "id": 402,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Oryctolagus cuniculus (Linnaeus, 1758)",
+    "name": "Rabbit",
+    "latitude": -37.942167,
+    "longitude": 145.080811,
+    "id": 403,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Oryctolagus cuniculus (Linnaeus, 1758)",
+    "name": "Rabbit",
+    "latitude": -37.749437,
+    "longitude": 145.084286,
+    "id": 404,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.959187,
+    "longitude": 145.291695,
+    "id": 405,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.960134,
+    "longitude": 145.299196,
+    "id": 406,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.957112,
+    "longitude": 145.257561,
+    "id": 407,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.957112,
+    "longitude": 145.257561,
+    "id": 408,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -37.95017,
+    "longitude": 145.262303,
+    "id": 409,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.950645,
+    "longitude": 145.25542,
+    "id": 410,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Pteropus poliocephalus Temminck, 1825",
+    "name": "Grey-headed Flying-fox",
+    "latitude": -37.972754,
+    "longitude": 145.243113,
+    "id": 411,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor (Desmarest, 1804)",
+    "name": "Swamp Wallaby",
+    "latitude": -37.950612,
+    "longitude": 145.261903,
+    "id": 412,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.960461,
+    "longitude": 145.299407,
+    "id": 413,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.960854,
+    "longitude": 145.291427,
+    "id": 414,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Ornithorhynchus anatinus (Shaw, 1799)",
+    "name": "Platypus",
+    "latitude": -38.361714,
+    "longitude": 146.409571,
+    "id": 415,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus (Goldfuss, 1817)",
+    "name": "Koala",
+    "latitude": -38.34492,
+    "longitude": 146.404483,
+    "id": 416,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Ornithorhynchus anatinus (Shaw, 1799)",
+    "name": "Platypus",
+    "latitude": -38.361714,
+    "longitude": 146.409571,
+    "id": 417,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus (Goldfuss, 1817)",
+    "name": "Koala",
+    "latitude": -38.344854,
+    "longitude": 146.404413,
+    "id": 418,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus Shaw, 1790",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.349337,
+    "longitude": 146.40455,
+    "id": 419,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 420,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -38.234557,
+    "longitude": 142.075345,
+    "id": 421,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 422,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 423,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 424,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Cercartetus nanus",
+    "name": "Eastern Pygmy-possum",
+    "latitude": -37.99544,
+    "longitude": 145.6186,
+    "id": 425,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Capra hircus",
+    "name": "Goat",
+    "latitude": -37.673971,
+    "longitude": 144.365243,
+    "id": 426,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus australis",
+    "name": "Bellied Glider",
+    "latitude": -37.946922,
+    "longitude": 145.687294,
+    "id": 427,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Perameles nasuta nasuta",
+    "name": "Long-nosed Bandicoot",
+    "latitude": -37.946922,
+    "longitude": 145.687294,
+    "id": 428,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Capra hircus",
+    "name": "Goat",
+    "latitude": -37.359398,
+    "longitude": 145.737527,
+    "id": 429,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petauroides volans",
+    "name": "Greater Glider",
+    "latitude": -37.946922,
+    "longitude": 145.687294,
+    "id": 430,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -36.425722,
+    "longitude": 141.756045,
+    "id": 431,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.388819,
+    "longitude": 144.267558,
+    "id": 432,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 433,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388814,
+    "longitude": 144.26769,
+    "id": 434,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 435,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.234692,
+    "longitude": 142.075259,
+    "id": 436,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.946922,
+    "longitude": 145.687294,
+    "id": 437,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -38.235309,
+    "longitude": 142.073816,
+    "id": 438,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Capra hircus",
+    "name": "Goat",
+    "latitude": -37.613518,
+    "longitude": 144.421806,
+    "id": 439,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 440,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 441,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 442,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 443,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 444,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 445,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 446,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 447,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 448,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 449,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 450,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 451,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 452,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 453,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 454,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 455,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 456,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.234658,
+    "longitude": 142.075238,
+    "id": 457,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 458,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Isoodon obesulus obesulus",
+    "name": "Southern Brown Bandicoot",
+    "latitude": -38.234624,
+    "longitude": 142.075088,
+    "id": 459,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 460,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 461,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.364962,
+    "longitude": 145.740036,
+    "id": 462,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Petaurus breviceps breviceps",
+    "name": "Sugar Glider",
+    "latitude": -37.946922,
+    "longitude": 145.687294,
+    "id": 463,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus rattus",
+    "name": "Black Rat",
+    "latitude": -38.20283,
+    "longitude": 142.369433,
+    "id": 464,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 465,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Felis catus",
+    "name": "Cat",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 466,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -37.387444,
+    "longitude": 144.272775,
+    "id": 467,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tachyglossus aculeatus",
+    "name": "Short-beaked Echidna",
+    "latitude": -38.196135,
+    "longitude": 142.369337,
+    "id": 468,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Tadarida australis",
+    "name": "",
+    "latitude": -37.806411,
+    "longitude": 145.205183,
+    "id": 469,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 470,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 471,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 472,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus vulpecula",
+    "name": "Common Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 473,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 474,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 475,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 476,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Phascolarctos cinereus",
+    "name": "Koala",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 477,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 478,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 479,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 480,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Rattus fuscipes",
+    "name": "Bush Rat",
+    "latitude": -37.388957,
+    "longitude": 144.266828,
+    "id": 481,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 482,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 483,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 484,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus rufogriseus",
+    "name": "Red-necked Wallaby",
+    "latitude": -38.234759,
+    "longitude": 142.075173,
+    "id": 485,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 486,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Trichosurus cunninghami",
+    "name": "Mountain Brushtail Possum",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 487,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Vulpes vulpes",
+    "name": "Fox",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 488,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 489,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Macropus giganteus",
+    "name": "Eastern Grey Kangaroo",
+    "latitude": -37.388956,
+    "longitude": 144.266828,
+    "id": 490,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Wallabia bicolor",
+    "name": "Swamp Wallaby",
+    "latitude": -37.674225,
+    "longitude": 144.876922,
+    "id": 491,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Antechinus agilis",
+    "name": "Agile Antechinus",
+    "latitude": -38.476807,
+    "longitude": 146.725116,
+    "id": 492,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Equus caballus",
+    "name": "Horse",
+    "latitude": -36.939445,
+    "longitude": 148.180555,
+    "id": 493,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  },
+  {
+    "description": "Lepus capensis",
+    "name": "Brown Hare",
+    "latitude": -38.355079,
+    "longitude": 146.38728,
+    "id": 494,
+    "tags": [
+      "mammals",
+      "Wildlife"
+    ]
+  }
+]

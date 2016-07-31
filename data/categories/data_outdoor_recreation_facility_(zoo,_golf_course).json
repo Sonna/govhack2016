@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Melbourne Zoo",
+    "id": 76,
+    "longitude": -37.784445,
+    "latitude": 144.951371,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Wonderland Park",
+    "id": 118,
+    "longitude": -37.811695,
+    "latitude": 144.936833,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Riverside Park",
+    "id": 170,
+    "longitude": -37.794838,
+    "latitude": 144.915607,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Melbourne Showgrounds",
+    "id": 174,
+    "longitude": -37.78231,
+    "latitude": 144.910822,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  }
+]

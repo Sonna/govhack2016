@@ -1,0 +1,602 @@
+[
+  {
+    "id": 259,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.524946,
+    "longitude": -37.53396,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 355,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 2m",
+    "latitude": 145.571432,
+    "longitude": -37.42393,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 379,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 3m",
+    "latitude": 145.5759,
+    "longitude": -37.43215,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 381,
+    "name": null,
+    "image": null,
+    "description": "montane walking track",
+    "latitude": 147.269987,
+    "longitude": -37.02618,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 396,
+    "name": null,
+    "image": null,
+    "description": "farm gate 3m",
+    "latitude": 145.555069,
+    "longitude": -37.392427,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 410,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.528212,
+    "longitude": -37.52126,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 455,
+    "name": null,
+    "image": null,
+    "description": "farm gate",
+    "latitude": 145.555918,
+    "longitude": -37.39332,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 470,
+    "name": null,
+    "image": null,
+    "description": "barrier",
+    "latitude": 146.143361,
+    "longitude": -37.34639,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 509,
+    "name": null,
+    "image": null,
+    "description": "farm gate",
+    "latitude": 145.553028,
+    "longitude": -37.388847,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 527,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.734609,
+    "longitude": -36.56867,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 528,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 4m",
+    "latitude": 145.165578,
+    "longitude": -37.1625,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 595,
+    "name": null,
+    "image": null,
+    "description": "steel gate 2.5m",
+    "latitude": 145.553658,
+    "longitude": -37.38971,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 607,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.546575,
+    "longitude": -37.78946,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 608,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.549241,
+    "longitude": -37.791923,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 610,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 6m",
+    "latitude": 145.56851,
+    "longitude": -37.42621,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 613,
+    "name": null,
+    "image": null,
+    "description": "steel gate",
+    "latitude": 145.128578,
+    "longitude": -37.41876,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 616,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 2m",
+    "latitude": 145.571855,
+    "longitude": -37.42402,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 638,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.421811,
+    "longitude": -37.46888,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 657,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.539756,
+    "longitude": -37.78697,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 662,
+    "name": null,
+    "image": null,
+    "description": "entrance gate",
+    "latitude": 145.108315,
+    "longitude": -37.353906,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 665,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 4m",
+    "latitude": 145.576317,
+    "longitude": -37.45454,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 683,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 4m",
+    "latitude": 145.585484,
+    "longitude": -37.45048,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 712,
+    "name": null,
+    "image": null,
+    "description": "farm gate 3m",
+    "latitude": 145.553752,
+    "longitude": -37.39038,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 725,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 4m",
+    "latitude": 145.563711,
+    "longitude": -37.41397,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 744,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 6m",
+    "latitude": 145.568898,
+    "longitude": -37.42683,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 755,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 2m",
+    "latitude": 145.571657,
+    "longitude": -37.42436,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 763,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate",
+    "latitude": 145.14367,
+    "longitude": -37.31903,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 767,
+    "name": null,
+    "image": null,
+    "description": "farm gate 4m",
+    "latitude": 145.554505,
+    "longitude": -37.39028,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 783,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.540345,
+    "longitude": -37.794331,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 787,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.526452,
+    "longitude": -37.519632,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 988,
+    "name": null,
+    "image": null,
+    "description": "straddle barrier",
+    "latitude": 148.784225,
+    "longitude": -37.16236,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1022,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 1.5m",
+    "latitude": 145.108067,
+    "longitude": -37.35417,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1032,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 2m",
+    "latitude": 145.575122,
+    "longitude": -37.43203,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1049,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.320876,
+    "longitude": -37.44552,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1102,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.11741,
+    "longitude": -37.363068,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1110,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.54803,
+    "longitude": -37.79511,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1111,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.536035,
+    "longitude": -37.51072,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1116,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.927309,
+    "longitude": -37.35795,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1126,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.421812,
+    "longitude": -37.46879,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1155,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 4m",
+    "latitude": 145.564863,
+    "longitude": -37.416,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1165,
+    "name": null,
+    "image": null,
+    "description": "steel",
+    "latitude": 145.558261,
+    "longitude": -37.39536,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1285,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.526819,
+    "longitude": -37.53146,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1297,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate. Two at 5m",
+    "latitude": 145.762249,
+    "longitude": -37.52221,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1454,
+    "name": null,
+    "image": null,
+    "description": "steel gate x 6m",
+    "latitude": 145.52977,
+    "longitude": -37.55656,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1464,
+    "name": null,
+    "image": null,
+    "description": "steel farm gate x 2m",
+    "latitude": 145.532194,
+    "longitude": -37.556712,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1473,
+    "name": null,
+    "image": null,
+    "description": "farm gate 4m",
+    "latitude": 145.553454,
+    "longitude": -37.38989,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1475,
+    "name": null,
+    "image": null,
+    "description": "bollard",
+    "latitude": 148.544232,
+    "longitude": -37.79401,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1501,
+    "name": null,
+    "image": null,
+    "description": "aluminum gate",
+    "latitude": 146.142732,
+    "longitude": -37.34523,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1587,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.75734,
+    "longitude": -37.44789,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  },
+  {
+    "id": 1605,
+    "name": null,
+    "image": null,
+    "description": "farm gate",
+    "latitude": 145.553145,
+    "longitude": -37.388967,
+    "tags": [
+      "ASSET",
+      "Gate"
+    ]
+  }
+]
