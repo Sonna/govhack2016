@@ -15,6 +15,10 @@
   transition: 0.5s ease;
 }
 
+.selected {
+  box-shadow: 0px 0px 8px rgba(#304314, 0.8);
+}
+
 .camping {
   background-image: url('../images/icon-camping.png');
 }

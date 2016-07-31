@@ -1,10 +1,16 @@
 var map;
 var sourceFile = "data/data.json";
 var locations;
+var estimatedTime = 1.5;
 var zoom = 15;
 var center;
+var userMarkers = [];
+
+var directionsDisplay;
+var directionsService;
 
 function initMap() {
+  directionsService = new google.maps.DirectionsService();
   $.getJSON(sourceFile, function(json) {
     locations = json;
 
@@ -170,6 +176,8 @@ function setMarkers(map, locations) {
 
      //Add listener
      google.maps.event.addListener(marker, "click", function (event) {
+      userMarkers.push(marker);
+
        var latitude = event.latLng.lat();
        var longitude = Number(event.latLng.lng().toFixed(12));
        var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
@@ -199,6 +207,8 @@ function setMarkers(map, locations) {
        $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
        $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
        $($todoEvent).appendTo('#todo');
+       $('.todo-time').css('display', 'block').html('EXPECTED TRANSIT TIME: '+ estimatedTime +' HOURS');
+       estimatedTime += 1.5;
 
        $("#todo").sortable({
          connectWith: "#todo",
@@ -227,93 +237,80 @@ function reloadMarkers(map, locations) {
 $(function() {
   $('#todo').on('click', '.todo-close',function() {
     $(this).parent().remove();
+    // var index = $("#todo").children().size();
+    userMarkers.splice($(this).index(), 1);
   })
-})
 
-$(function() {
   $('.map-icon.camping').on('click',function() {
     sourceFile = "data/categories/data_camping.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.caravan").on('click', function() {
-    sourceFile = "data/categories/data_caravan.json";
+    sourceFile = "data/categories/data_caravaning.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.heritage").on('click', function() {
     sourceFile = "data/categories/data_heritage.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.fishing").on('click', function() {
     sourceFile = "data/categories/data_fishing.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.picnicing").on('click', function() {
     sourceFile = "data/categories/data_picnicing.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.trees").on('click', function() {
     sourceFile = "data/categories/data_trees.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.landmarks").on('click', function() {
     sourceFile = "data/categories/data_landmarks.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.huts").on('click', function() {
-    sourceFile = "data/categories/data_huts.json";
+    sourceFile = "data/categories/data_hut.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.recreation").on('click', function() {
-    sourceFile = "data/categories/data_recreation.json";
+    sourceFile = "data/categories/data_retail.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.leisure").on('click', function() {
     sourceFile = "data/categories/data_leisure.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.worship").on('click', function() {
-    sourceFile = "data/categories/data_worship.json";
+    sourceFile = "data/categories/data_places_of_worship.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.wildlife").on('click', function() {
     sourceFile = "data/categories/data_wildlife.json";
     initMap();
   })
-})
 
+  $("#routebtn").on('click', function() {
+    directionsDisplay = new google.maps.DirectionsRenderer();
+    directionsDisplay.setMap(map);
+
+    var start = userMarkers[1].getPosition();
+    var end = userMarkers[userMarkers.length - 1].getPosition();
+
+    calcRoute(map, start, end);
+  })
+})
 
 function groupLocations(locations) {
   // Grouped by tags
@@ -340,3 +337,25 @@ function groupLocations(locations) {
 
   return locationsGroupedByTags;
 }
+
+function calcRoute(map, start, end) {
+  // var start = new google.maps.LatLng(37.334818, -121.884886);
+  // //var end = new google.maps.LatLng(38.334818, -181.884886);
+  // var end = new google.maps.LatLng(37.441883, -122.143019);
+  var request = {
+    origin: start,
+    destination: end,
+    travelMode: google.maps.TravelMode.WALKING
+  };
+
+  directionsService.route(request, function(response, status) {
+    if (status == google.maps.DirectionsStatus.OK) {
+      directionsDisplay.setDirections(response);
+      directionsDisplay.setMap(map);
+    } else {
+      alert("Directions Request from " + start.toUrlValue(6) + " to " + end.toUrlValue(6) + " failed: " + status);
+    }
+  });
+}
+
+// google.maps.event.addDomListener(window, 'load', initialize);
