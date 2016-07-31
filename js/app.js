@@ -1,10 +1,12 @@
+var map;
+var source_file = "data/data.json";
+var locations;
+
 function initMap() {
-  var source_file = "data/data.json";
-  var locations;
   $.getJSON(source_file, function(json) {
     locations = json;
 
-    var map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
       zoom: 15,
       center: new google.maps.LatLng(-37.8162175,144.9640682),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -200,6 +202,19 @@ function setMarkers(map, locations) {
      }); //end addListener
    }
  }
+
+var markers = [];
+
+function reloadMarkers(map, locations) {
+  // Loop through markers and set map to null for each
+  for (var i = 0; i < markers.length; i++) {
+    markers[i].setMap(null);
+  }
+
+  markers = []; // Reset the markers array
+  setMarkers(map, locations); // Call set markers to re-add markers
+}
+
 
 $(function() {
   $('#todo').on('click', '.todo-close',function() {
