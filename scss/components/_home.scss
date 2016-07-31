@@ -67,6 +67,7 @@ html, body {
 
 #todo {
   width: 80%;
+  height: 95%;
   // background-color: lightblue;
   margin: 0 auto;
   position: relative;
@@ -79,6 +80,17 @@ html, body {
   min-height: 400px;
   overflow: auto;
   padding-top: 30px;
+}
+
+.todo-time {
+  width: 80%;
+  height: 5%;
+  margin: 0 auto;
+  vertical-align: bottom;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 14px;
+  color: $color-grey;
 }
 
 .header-wrap {
@@ -97,7 +109,7 @@ html, body {
   top: 50%;
   left: 50px;
   transform: translateY(-50%);
-  background-image: url('../images/headerlogo.png');
+  background-image: url('../images/headerlogo2.png');
   background-size: cover;
   background-position: center bottom;
 }

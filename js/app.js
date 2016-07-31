@@ -1,3 +1,13 @@
+$(function() {
+  $('#todo').on('click', '.todo-close',function() {
+    $(this).parent().remove();
+  });
+
+  if ($('.map-icon').hasClass('selected')) {
+    console.log(this);
+  }
+})
+
 function initMap() {
   var source_file = "data/data.json";
   var locations;
@@ -194,9 +204,3 @@ function initMap() {
      }
    });
  }
-
-$(function() {
-  $('#todo').on('click', '.todo-close',function() {
-    $(this).parent().remove();
-  })
-})
