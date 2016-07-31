@@ -104,13 +104,14 @@ html, body {
 }
 
 .header-logo {
-  height: 38px;
-  width: 42px;
+  height: 48px;
+  width: 52px;
   position: absolute;
   top: 50%;
   left: 50px;
+  -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  background-image: url('../images/headerlogo2.png');
+  background-image: url("../images/logo.png");
   background-size: cover;
   background-position: center bottom;
 }
@@ -128,7 +129,7 @@ html, body {
 .header-name {
   color: white;
   font-size: 42px;
-  padding-left: 120px;
+  padding-left: 115px;
   padding-top: 30px;
   letter-spacing: 6px;
 }
