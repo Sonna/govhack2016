@@ -144,60 +144,60 @@ function initMap() {
       ]
     });
     setMarkers(map, locations);
-   });
+  });
+}
 
-  function setMarkers(map, locations) {
-    var marker, i;
-    var image = '../images/google-droppin.png';
-     for (i = 0; i < locations.length; i++) {
+function setMarkers(map, locations) {
+  var marker, i;
+  var image = '../images/google-droppin.png';
+   for (i = 0; i < locations.length; i++) {
+     marker = new google.maps.Marker({
+       position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
+       map: map,
+       icon: image
+     });
+
+     //Add listener
+     google.maps.event.addListener(marker, "click", function (event) {
+       var latitude = event.latLng.lat();
+       var longitude = Number(event.latLng.lng().toFixed(12));
+       var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
+       //  var selectedImage = "../images/google-droppin-selected.png";
+
+       // Change drop pin color on selection
+       console.log(marker);
        marker = new google.maps.Marker({
-         position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
+         position: new google.maps.LatLng(latitude, longitude),
          map: map,
-         icon: image
+         icon: selectedImage,
+         zIndex: 999
        });
 
-       //Add listener
-       google.maps.event.addListener(marker, "click", function (event) {
-         var latitude = event.latLng.lat();
-         var longitude = Number(event.latLng.lng().toFixed(12));
-         var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
-         //  var selectedImage = "../images/google-droppin-selected.png";
+       console.log( latitude + ', ' + longitude );
 
-         // Change drop pin color on selection
-         console.log(marker);
-         marker = new google.maps.Marker({
-           position: new google.maps.LatLng(latitude, longitude),
-           map: map,
-           icon: selectedImage,
-           zIndex: 999
-         });
+       var todoAdded = locations.filter( function(location){
+         if (location.latitude == longitude && location.longitude == latitude) {
+           return location.latitude == longitude && location.longitude == latitude;
+         }
+       });
+       console.log(todoAdded[0].tags[1]);
 
-         console.log( latitude + ', ' + longitude );
+       var $todoEvent = $("<li class='todo-event'></li>");
+       $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
+       $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
+       $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
+       $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
+       $($todoEvent).appendTo('#todo');
 
-         var todoAdded = locations.filter( function(location){
-           if (location.latitude == longitude && location.longitude == latitude) {
-             return location.latitude == longitude && location.longitude == latitude;
-           }
-         });
-         console.log(todoAdded[0].tags[1]);
+       $("#todo").sortable({
+         connectWith: "#todo",
+         helper: "clone",
+         appendTo: "body"
+       });
 
-         var $todoEvent = $("<li class='todo-event'></li>");
-         $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
-         $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
-         $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
-         $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
-         $($todoEvent).appendTo('#todo');
-
-         $("#todo").sortable({
-           connectWith: "#todo",
-           helper: "clone",
-           appendTo: "body"
-         });
-
-         // Center of map
-         map.panTo(new google.maps.LatLng(latitude,longitude));
-       }); //end addListener
-     }
+       // Center of map
+       map.panTo(new google.maps.LatLng(latitude,longitude));
+     }); //end addListener
    }
  }
 
