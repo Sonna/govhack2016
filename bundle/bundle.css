@@ -94,14 +94,14 @@ ul, li {
   background-position: center bottom; }
 
 .header-logo {
-  height: 38px;
-  width: 42px;
+  height: 48px;
+  width: 52px;
   position: absolute;
   top: 50%;
   left: 50px;
   -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  background-image: url("../images/headerlogo2.png");
+  transform: translateY(-50%);
+  background-image: url("../images/logo.png");
   background-size: cover;
   background-position: center bottom; }
 
@@ -118,7 +118,7 @@ ul, li {
 .header-name {
   color: white;
   font-size: 42px;
-  padding-left: 120px;
+  padding-left: 115px;
   padding-top: 30px;
   letter-spacing: 6px; }
 
@@ -271,7 +271,7 @@ ul, li {
   margin-left: -9px; }
 
 .map-icon:hover {
-  box-shadow: 0px 0px 8px rgba(137, 137, 137, 0.5); }
+  box-shadow: 0px 0px 8px #304314; }
 
 .map-icon:hover .tooltip {
   opacity: 1; }

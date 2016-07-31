@@ -35,8 +35,8 @@ rename_headers = lambda do |h|
   header_map = {
     "Scientific Name": :description,
     "Vernacular Name - matched": :name,
-    "Longitude - original": :longitude,
-    "Latitude - original": :latitude
+    "Longitude - original": :latitude,
+    "Latitude - original": :longitude
   }
 
   header_map.keys.include?(h.to_sym) ? header_map[h.to_sym] : h
