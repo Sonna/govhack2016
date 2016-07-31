@@ -152,21 +152,24 @@ function initMap() {
          map: map,
          icon: image
        });
+
        //Add listener
        google.maps.event.addListener(marker, "click", function (event) {
          var latitude = event.latLng.lat();
          var longitude = Number(event.latLng.lng().toFixed(12));
          console.log( latitude + ', ' + longitude );
+
          var todoAdded = locations.filter( function(location){
            if (location.latitude == longitude && location.longitude == latitude) {
              return location.latitude == longitude && location.longitude == latitude;
            }
          });
          console.log(todoAdded[0].tags[1]);
+
          var $todoEvent = $("<li class='todo-event'></li>");
-        //  $('div').attr('data-lat', latitude).appendTo($todoEvent);
-        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
-        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
+         // $('div').attr('data-lat', latitude).appendTo($todoEvent);
+         // $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
+         // $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
          $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
          $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
          $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
@@ -175,8 +178,8 @@ function initMap() {
 
          $("#todo").sortable({
            connectWith: "#todo",
-          //  cursor: "move",
-          //  opacity: 0.4,
+           // cursor: "move",
+           // opacity: 0.4,
            helper: "clone",
            appendTo: "body"
          });
