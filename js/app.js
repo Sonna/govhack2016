@@ -1,9 +1,9 @@
 var map;
-var source_file = "data/data.json";
+var sourceFile = "data/data.json";
 var locations;
 
 function initMap() {
-  $.getJSON(source_file, function(json) {
+  $.getJSON(sourceFile, function(json) {
     locations = json;
 
     map = new google.maps.Map(document.getElementById('map'), {
@@ -215,12 +215,96 @@ function reloadMarkers(map, locations) {
   setMarkers(map, locations); // Call set markers to re-add markers
 }
 
-
 $(function() {
   $('#todo').on('click', '.todo-close',function() {
     $(this).parent().remove();
   })
 })
+
+$(function() {
+  $('.map-icon.camping').on('click',function() {
+    sourceFile = "data/categories/data_camping.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.caravan").on('click', function() {
+    sourceFile = "data/categories/data_caravan.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.heritage").on('click', function() {
+    sourceFile = "data/categories/data_heritage.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.fishing").on('click', function() {
+    sourceFile = "data/categories/data_fishing.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.picnicing").on('click', function() {
+    sourceFile = "data/categories/data_picnicing.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.trees").on('click', function() {
+    sourceFile = "data/categories/data_trees.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.landmarks").on('click', function() {
+    sourceFile = "data/categories/data_landmarks.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.huts").on('click', function() {
+    sourceFile = "data/categories/data_huts.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.recreation").on('click', function() {
+    sourceFile = "data/categories/data_recreation.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.leisure").on('click', function() {
+    sourceFile = "data/categories/data_leisure.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.worship").on('click', function() {
+    sourceFile = "data/categories/data_worship.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.wildlife").on('click', function() {
+    sourceFile = "data/categories/data_wildlife.json";
+    initMap();
+  })
+})
+
 
 function groupLocations(locations) {
   // Grouped by tags
