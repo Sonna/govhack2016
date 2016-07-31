@@ -2,14 +2,23 @@ var map;
 var sourceFile = "data/data.json";
 var locations;
 var estimatedTime = 1.5;
+var zoom = 15;
+var center;
 
 function initMap() {
   $.getJSON(sourceFile, function(json) {
     locations = json;
 
+    if (typeof map != "undefined") { zoom = map.getZoom(); }
+    if (typeof map != "undefined") {
+      center = map.getCenter();
+    } else {
+      center = new google.maps.LatLng(-37.8162175,144.9640682);
+    }
+
     map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 15,
-      center: new google.maps.LatLng(-37.8162175,144.9640682),
+      zoom: zoom,
+      center: center,
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: [
         {
