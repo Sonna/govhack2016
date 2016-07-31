@@ -240,93 +240,67 @@ $(function() {
     // var index = $("#todo").children().size();
     userMarkers.splice($(this).index(), 1);
   })
-})
 
-$(function() {
   $('.map-icon.camping').on('click',function() {
     sourceFile = "data/categories/data_camping.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.caravan").on('click', function() {
     sourceFile = "data/categories/data_caravan.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.heritage").on('click', function() {
     sourceFile = "data/categories/data_heritage.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.fishing").on('click', function() {
     sourceFile = "data/categories/data_fishing.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.picnicing").on('click', function() {
     sourceFile = "data/categories/data_picnicing.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.trees").on('click', function() {
     sourceFile = "data/categories/data_trees.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.landmarks").on('click', function() {
     sourceFile = "data/categories/data_landmarks.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.huts").on('click', function() {
     sourceFile = "data/categories/data_huts.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.recreation").on('click', function() {
     sourceFile = "data/categories/data_recreation.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.leisure").on('click', function() {
     sourceFile = "data/categories/data_leisure.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.worship").on('click', function() {
     sourceFile = "data/categories/data_worship.json";
     initMap();
   })
-})
 
-$(function() {
   $(".map-icon.wildlife").on('click', function() {
     sourceFile = "data/categories/data_wildlife.json";
     initMap();
   })
-})
 
-$(function() {
   $("#routebtn").on('click', function() {
     directionsDisplay = new google.maps.DirectionsRenderer();
     directionsDisplay.setMap(map);
