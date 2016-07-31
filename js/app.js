@@ -175,9 +175,10 @@ function initMap() {
 
          $("#todo").sortable({
            connectWith: "#todo",
-           cursor: "move",
+          //  cursor: "move",
           //  opacity: 0.4,
-           helper: "clone"
+           helper: "clone",
+           appendTo: "body"
          });
 
          // Center of map
@@ -192,8 +193,3 @@ $(function() {
     $(this).parent().remove();
   })
 })
-
-function callSortable() {
-  console.log('sort');
-  $("#todo").sortable();
-}
