@@ -247,7 +247,7 @@ $(function() {
   })
 
   $(".map-icon.caravan").on('click', function() {
-    sourceFile = "data/categories/data_caravan.json";
+    sourceFile = "data/categories/data_caravaning.json";
     initMap();
   })
 
@@ -277,12 +277,12 @@ $(function() {
   })
 
   $(".map-icon.huts").on('click', function() {
-    sourceFile = "data/categories/data_huts.json";
+    sourceFile = "data/categories/data_hut.json";
     initMap();
   })
 
   $(".map-icon.recreation").on('click', function() {
-    sourceFile = "data/categories/data_recreation.json";
+    sourceFile = "data/categories/data_retail.json";
     initMap();
   })
 
@@ -292,7 +292,7 @@ $(function() {
   })
 
   $(".map-icon.worship").on('click', function() {
-    sourceFile = "data/categories/data_worship.json";
+    sourceFile = "data/categories/data_places_of_worship.json";
     initMap();
   })
 
