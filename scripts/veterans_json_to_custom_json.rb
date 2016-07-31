@@ -129,9 +129,22 @@
 # == Other Notes
 #     head -c 100000 data/original/veterans.json | subl
 #
+require_relative 'common/conversion_map.rb'
+
 require 'json'
 require 'ostruct'
 require 'pry'
+
+require 'bigdecimal'
+
+def to_numeric(anything)
+  num = BigDecimal.new(anything.to_s)
+  if num.frac == 0
+    num.to_i
+  else
+    num.to_f
+  end
+end
 
 input_directory = "/Users/Sonna/Projects/GovHack/govhack2016/data/original"
 input_filenames = [
@@ -170,14 +183,22 @@ input_files.each do |input_file|
   #   ],
   # }
   output = json_hash.map do |record|
+    tags = []
+    tags += record.categories.map { |tag| CONVERSION_MAP[tag] }
+    tags = tags
+      .compact
+      .reject(&:empty?)
+      .reject(&:nil?)
+      .uniq
+
     {
       id: record.place_id,
       name: record.name,
       # image: image,
       description: record.descriptions.first,
-      latitude: record.latitude,
-      longitude: record.longitude,
-      tags: record.categories
+      latitude: (to_numeric(record.latitude) * 1_000_000).floor / 1_000_000.0,
+      longitude: (to_numeric(record.longitude) * 1_000_000).floor / 1_000_000.0,
+      tags: tags
     }
   end
 
