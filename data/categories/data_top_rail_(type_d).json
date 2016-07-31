@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1528,
+    "name": null,
+    "image": null,
+    "description": "36m timber steel cable",
+    "latitude": 146.55366,
+    "longitude": -37.14944,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Top Rail (Type D)"
+    ]
+  },
+  {
+    "id": 1552,
+    "name": null,
+    "image": null,
+    "description": "handrail - (timber w steel rail)",
+    "latitude": 145.772744,
+    "longitude": -37.53101,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Top Rail (Type D)"
+    ]
+  }
+]

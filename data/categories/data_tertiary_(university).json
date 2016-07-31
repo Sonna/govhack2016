@@ -1,0 +1,46 @@
+[
+  {
+    "name": "University of Melbourne (VCA and Music)",
+    "id": 57,
+    "longitude": -37.824114,
+    "latitude": 144.969332,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "BIO 21 Institute",
+    "id": 183,
+    "longitude": -37.797875,
+    "latitude": 144.95378,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "id": 196,
+    "longitude": -37.79829,
+    "latitude": 144.960995,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "RMIT University",
+    "id": 199,
+    "longitude": -37.80808,
+    "latitude": 144.964452,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  }
+]

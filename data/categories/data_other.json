@@ -1,0 +1,74 @@
+[
+  {
+    "id": 71,
+    "name": "Enduro Track Carpark Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 141.426092,
+    "longitude": -38.213958,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "N/a",
+    "image": null,
+    "description": "stone arch bridge",
+    "latitude": 145.705539,
+    "longitude": -37.772135,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "N/a",
+    "image": null,
+    "description": "stone arch bridge",
+    "latitude": 145.707107,
+    "longitude": -37.775355,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Tanjil Bren",
+    "image": null,
+    "description": null,
+    "latitude": 146.190899,
+    "longitude": -37.79822,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  },
+  {
+    "id": 918,
+    "name": "Andersons Garden Entrance Bridge",
+    "image": null,
+    "description": "concrete box culverts x4",
+    "latitude": 145.10768,
+    "longitude": -37.35395,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  },
+  {
+    "id": 1287,
+    "name": "N/a",
+    "image": null,
+    "description": "stone arch bridge",
+    "latitude": 145.705865,
+    "longitude": -37.772946,
+    "tags": [
+      "ASSET",
+      "Other"
+    ]
+  }
+]

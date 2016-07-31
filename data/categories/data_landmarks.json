@@ -1,0 +1,747 @@
+[
+  {
+    "name": "Flemington Bridge Railway Station",
+    "id": 0,
+    "longitude": -37.788165,
+    "latitude": 144.939277,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Private Hospital",
+    "id": 32,
+    "longitude": -37.798312,
+    "latitude": 144.957288,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 34,
+    "longitude": -37.816485,
+    "latitude": 144.966486,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 35,
+    "longitude": -37.800313,
+    "latitude": 144.954697,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 36,
+    "longitude": -37.821978,
+    "latitude": 144.953398,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Visitor Booth",
+    "id": 37,
+    "longitude": -37.813953,
+    "latitude": 144.964425,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Port of Melbourne",
+    "id": 40,
+    "longitude": -37.813739,
+    "latitude": 144.917534,
+    "tags": [
+      "Transport",
+      "Transport Terminal",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne General Cemetery",
+    "id": 43,
+    "longitude": -37.78919,
+    "latitude": 144.965785,
+    "tags": [
+      "Leisure",
+      "Cemetery",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Carlton Gardens Primary School",
+    "id": 47,
+    "longitude": -37.802096,
+    "latitude": 144.969406,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Carlton Primary School",
+    "id": 48,
+    "longitude": -37.795908,
+    "latitude": 144.970147,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Grammar School",
+    "id": 52,
+    "longitude": -37.834257,
+    "latitude": 144.976285,
+    "tags": [
+      "Education Centre",
+      "Secondary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Wesley College",
+    "id": 53,
+    "longitude": -37.848521,
+    "latitude": 144.982227,
+    "tags": [
+      "Education Centre",
+      "School - Primary and Secondary Education",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "University of Melbourne (VCA and Music)",
+    "id": 57,
+    "longitude": -37.824114,
+    "latitude": 144.969332,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Southern Cross Railway Station",
+    "id": 60,
+    "longitude": -37.818164,
+    "latitude": 144.952944,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "University High School",
+    "id": 63,
+    "longitude": -37.797314,
+    "latitude": 144.956034,
+    "tags": [
+      "Education Centre",
+      "Secondary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital : Medical Centre",
+    "id": 68,
+    "longitude": -37.809345,
+    "latitude": 144.982336,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Magistrates Court",
+    "id": 71,
+    "longitude": -37.813615,
+    "latitude": 144.956846,
+    "tags": [
+      "Leisure",
+      "Government Building",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flagstaff Railway Station",
+    "id": 72,
+    "longitude": -37.812236,
+    "latitude": 144.956318,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Crown Entertainment Complex",
+    "id": 94,
+    "longitude": -37.823577,
+    "latitude": 144.957312,
+    "tags": [
+      "Purpose Built",
+      "Casino",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "The Royal Victorian Eye & Ear Hospital",
+    "id": 95,
+    "longitude": -37.808753,
+    "latitude": 144.976268,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Central City Studios",
+    "id": 101,
+    "longitude": -37.814232,
+    "latitude": 144.935655,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Channel 7 - Melbourne Broadcast Centre",
+    "id": 102,
+    "longitude": -37.815858,
+    "latitude": 144.945823,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Harbour Town",
+    "id": 105,
+    "longitude": -37.813926,
+    "latitude": 144.938123,
+    "tags": [
+      "Vacant Land",
+      "Current Construction Site",
+      "Huts and shelters",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "New Quay Marina",
+    "id": 107,
+    "longitude": -37.815293,
+    "latitude": 144.942283,
+    "tags": [
+      "Transport",
+      "Marina",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Melbourne Star Observation Wheel",
+    "id": 109,
+    "longitude": -37.811617,
+    "latitude": 144.937588,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Kensington Primary School",
+    "id": 111,
+    "longitude": -37.792524,
+    "latitude": 144.927108,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Womens Hospital",
+    "id": 113,
+    "longitude": -37.79889,
+    "latitude": 144.954897,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Kangan Batman Tafe",
+    "id": 114,
+    "longitude": -37.822182,
+    "latitude": 144.948908,
+    "tags": [
+      "Education Centre",
+      "Further Education",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Railway Good Shed No 2",
+    "id": 117,
+    "longitude": -37.821138,
+    "latitude": 144.951378,
+    "tags": [
+      "Vacant Land",
+      "Current Construction Site - Commercial",
+      "Huts and shelters",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 135,
+    "longitude": -37.811607,
+    "latitude": 144.973017,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Richmond Railway Station (Richmond) - Train stop",
+    "id": 136,
+    "longitude": -37.8239,
+    "latitude": 144.9894,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Jolimont-MCG Railway Station (East Melbourne) - Train stop",
+    "id": 137,
+    "longitude": -37.816566,
+    "latitude": 144.983641,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Macaulay Railway Station (North Melbourne) - Train stop",
+    "id": 140,
+    "longitude": -37.794965,
+    "latitude": 144.93619,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Kensington Railway Station",
+    "id": 141,
+    "longitude": -37.793915,
+    "latitude": 144.93071,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "South Kensington Railway Station",
+    "id": 142,
+    "longitude": -37.799728,
+    "latitude": 144.925837,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Childrens Hospital",
+    "id": 144,
+    "longitude": -37.794207,
+    "latitude": 144.950048,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Park Railway Station",
+    "id": 145,
+    "longitude": -37.781269,
+    "latitude": 144.951667,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 158,
+    "longitude": -37.812158,
+    "latitude": 144.973742,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 159,
+    "longitude": -37.812763,
+    "latitude": 144.973433,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 160,
+    "longitude": -37.809577,
+    "latitude": 144.97233,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flagstaff Railway Station",
+    "id": 161,
+    "longitude": -37.811639,
+    "latitude": 144.956118,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 162,
+    "longitude": -37.809776,
+    "latitude": 144.96267,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 163,
+    "longitude": -37.8106,
+    "latitude": 144.96169,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 164,
+    "longitude": -37.810894,
+    "latitude": 144.9631,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flemington Racecourse Railway Station",
+    "id": 165,
+    "longitude": -37.786911,
+    "latitude": 144.90819,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Showgrounds Railway Station (Flemington)",
+    "id": 166,
+    "longitude": -37.783466,
+    "latitude": 144.914902,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Newmarket Railway Station",
+    "id": 167,
+    "longitude": -37.787273,
+    "latitude": 144.929059,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Alfred Hospital",
+    "id": 169,
+    "longitude": -37.846264,
+    "latitude": 144.981786,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "North Melbourne Primary School",
+    "id": 175,
+    "longitude": -37.798674,
+    "latitude": 144.951065,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "BIO 21 Institute",
+    "id": 183,
+    "longitude": -37.797875,
+    "latitude": 144.95378,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flinders Street Railway Station",
+    "id": 189,
+    "longitude": -37.817907,
+    "latitude": 144.967064,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Wholesale Fish Market",
+    "id": 190,
+    "longitude": -37.808348,
+    "latitude": 144.930613,
+    "tags": [
+      "Warehouse/Store",
+      "Store Yard",
+      "Huts and shelters",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Metropolitan Fire Brigade (MFB)",
+    "id": 193,
+    "longitude": -37.809232,
+    "latitude": 144.975247,
+    "tags": [
+      "Leisure",
+      "Fire Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Melbourne Hospital",
+    "id": 194,
+    "longitude": -37.799308,
+    "latitude": 144.956389,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "University of Melbourne",
+    "id": 196,
+    "longitude": -37.79829,
+    "latitude": 144.960995,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "RMIT University",
+    "id": 199,
+    "longitude": -37.80808,
+    "latitude": 144.964452,
+    "tags": [
+      "Education Centre",
+      "Tertiary (University)",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 201,
+    "longitude": -37.810017,
+    "latitude": 144.963789,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "North Melbourne Railway Station",
+    "id": 214,
+    "longitude": -37.807383,
+    "latitude": 144.942429,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Aquarium",
+    "id": 217,
+    "longitude": -37.820963,
+    "latitude": 144.958425,
+    "tags": [
+      "Purpose Built",
+      "Aquarium",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Eureka Skydeck 88",
+    "id": 222,
+    "longitude": -37.821619,
+    "latitude": 144.964622,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Peter Maccallum Cancer Institute",
+    "id": 225,
+    "longitude": -37.811477,
+    "latitude": 144.9774,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Dental Hospital",
+    "id": 226,
+    "longitude": -37.799507,
+    "latitude": 144.964526,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Visitor Centre",
+    "id": 229,
+    "longitude": -37.817736,
+    "latitude": 144.967937,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Webb Bridge",
+    "id": 231,
+    "longitude": -37.823206,
+    "latitude": 144.947291,
+    "tags": [
+      "Transport",
+      "Bridge",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Girls Grammar School",
+    "id": 233,
+    "longitude": -37.831537,
+    "latitude": 144.985089,
+    "tags": [
+      "Education Centre",
+      "School - Primary and Secondary Education",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital",
+    "id": 237,
+    "longitude": -37.810972,
+    "latitude": 144.9837,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Mercy Private Hospital",
+    "id": 239,
+    "longitude": -37.811897,
+    "latitude": 144.984435,
+    "tags": [
+      "Health Services",
+      "Medical Services",
+      "Landmarks"
+    ]
+  }
+]

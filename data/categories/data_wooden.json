@@ -1,0 +1,410 @@
+[
+  {
+    "id": 183,
+    "name": "Cicada Circuit Trail Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.859803,
+    "longitude": -37.31728,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Granite Creek Walking",
+    "image": null,
+    "description": null,
+    "latitude": 147.181212,
+    "longitude": -37.6069,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 146.100471,
+    "longitude": -37.423835,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Footbridge 5",
+    "image": null,
+    "description": null,
+    "latitude": 145.841547,
+    "longitude": -37.87613,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "N/a",
+    "image": null,
+    "description": "needs repair",
+    "latitude": 146.264088,
+    "longitude": -37.572657,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Andersons Garden Foot Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.107814,
+    "longitude": -37.35311,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.294927,
+    "longitude": -37.487844,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Learys Creek Short Loop Upstream Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.745332,
+    "longitude": -37.515894,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Murrindindi River Walk Timber Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.571031,
+    "longitude": -37.42396,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Granite Creek Walking",
+    "image": null,
+    "description": null,
+    "latitude": 147.180877,
+    "longitude": -37.606855,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Cicada Circuit Trail Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.859486,
+    "longitude": -37.316938,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Les Gimmell Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.531459,
+    "longitude": -37.548741,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "werribee no2",
+    "image": null,
+    "description": null,
+    "latitude": 144.165593,
+    "longitude": -37.50731,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Footbridge 1",
+    "image": null,
+    "description": null,
+    "latitude": 145.772152,
+    "longitude": -37.866739,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 146.264514,
+    "longitude": -37.574907,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Edi Cutting Footbridge",
+    "image": null,
+    "description": null,
+    "latitude": 146.419961,
+    "longitude": -36.6617,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "Cicada Trestle Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.858044,
+    "longitude": -37.317769,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Footbridge 4",
+    "image": null,
+    "description": null,
+    "latitude": 145.837456,
+    "longitude": -37.87437,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.29017,
+    "longitude": -37.479402,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.297782,
+    "longitude": -37.476359,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Learys Creek Short Loop Downstream Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.746086,
+    "longitude": -37.51521,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Michaeldene Boardwalk Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.764366,
+    "longitude": -37.49778,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 917,
+    "name": "Tanglefoot Loop Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.5283,
+    "longitude": -37.53438,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 922,
+    "name": "GLDT bridge",
+    "image": null,
+    "description": null,
+    "latitude": 147.936172,
+    "longitude": -37.82405,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 932,
+    "name": "Correa Footbridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.531511,
+    "longitude": -37.54384,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 933,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.289926,
+    "longitude": -37.47981,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 942,
+    "name": "Murrindindi River Walk Timber Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.571031,
+    "longitude": -37.42396,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 955,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.289575,
+    "longitude": -37.47966,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 957,
+    "name": "Footbridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 145.773102,
+    "longitude": -37.866984,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 959,
+    "name": "Whipstick Loop",
+    "image": null,
+    "description": null,
+    "latitude": 144.295216,
+    "longitude": -37.47817,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 1288,
+    "name": "Footbridge 3",
+    "image": null,
+    "description": null,
+    "latitude": 145.773975,
+    "longitude": -37.86671,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 1289,
+    "name": "Northern Culvert",
+    "image": null,
+    "description": "Part of Marlo Bushland Reserve track network.",
+    "latitude": 148.53893,
+    "longitude": -37.78943,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 1290,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 146.267388,
+    "longitude": -37.57732,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  },
+  {
+    "id": 1293,
+    "name": "Southern Culvert",
+    "image": null,
+    "description": "Coast Action bridge to be installed.",
+    "latitude": 148.538418,
+    "longitude": -37.79098,
+    "tags": [
+      "ASSET",
+      "Wooden"
+    ]
+  }
+]

@@ -180,9 +180,6 @@ ul, li {
   -webkit-transition: 0.5s ease;
   transition: 0.5s ease; }
 
-.map-icon:hover {
-  box-shadow: 0 3px 1px #888888; }
-
 .camping {
   background-image: url("../images/icon-camping.png"); }
 
@@ -233,7 +230,8 @@ ul, li {
   border-radius: 3px;
   white-space: nowrap;
   -webkit-transition: 0.5s ease;
-  transition: 0.5s ease; }
+  transition: 0.5s ease;
+  letter-spacing: 1px; }
 
 .tooltip:after, .tooltip:before {
   top: 100%;

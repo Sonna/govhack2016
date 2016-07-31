@@ -1,0 +1,69 @@
+[
+  {
+    "id": 21,
+    "name": "Starlings Gap",
+    "image": null,
+    "description": "",
+    "latitude": 145.800688,
+    "longitude": -37.813931,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Sawpit Picnic Area",
+    "image": null,
+    "description": "",
+    "latitude": 141.687547,
+    "longitude": -38.235459,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING",
+      "heritage"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Firth Park",
+    "image": null,
+    "description": "Mostly a rec reserve for horse training.\r\nWith BBQ facilities and water supplied via tap.",
+    "latitude": 144.409661,
+    "longitude": -37.435187,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING",
+      "heritage"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Waanyarra Recreation Site",
+    "image": null,
+    "description": "Set in the Box Ironbark forests of Central Victoria Waanyarra Recreation Site is a popular camping and picnic ground.  The site is based on the historic township of Waanyarra and offers a range of forest based activities.  ",
+    "latitude": 143.800464,
+    "longitude": -36.816545,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Circuit Road Picnic Area",
+    "image": null,
+    "description": "",
+    "latitude": 146.534066,
+    "longitude": -37.097781,
+    "tags": [
+      "REC SITES",
+      "CARAVANING",
+      "picnicing"
+    ]
+  }
+]

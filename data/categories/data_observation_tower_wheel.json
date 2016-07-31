@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Melbourne Star Observation Wheel",
+    "id": 109,
+    "longitude": -37.811617,
+    "latitude": 144.937588,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Eureka Skydeck 88",
+    "id": 222,
+    "longitude": -37.821619,
+    "latitude": 144.964622,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  }
+]

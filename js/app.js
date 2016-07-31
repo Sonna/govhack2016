@@ -5,7 +5,7 @@ function initMap() {
     locations = json;
 
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 14,
+      zoom: 15,
       center: new google.maps.LatLng(-37.8162175,144.9640682),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: [
@@ -145,28 +145,40 @@ function initMap() {
     });
 
     var marker, i;
-    var image = 'images/google-droppin.png'
+    var image = '../images/google-droppin.png';
      for (i = 0; i < locations.length; i++) {
        marker = new google.maps.Marker({
          position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
          map: map,
          icon: image
        });
+
        //Add listener
        google.maps.event.addListener(marker, "click", function (event) {
          var latitude = event.latLng.lat();
          var longitude = Number(event.latLng.lng().toFixed(12));
+         var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
+         //  var selectedImage = "../images/google-droppin-selected.png";
+
+         // Change drop pin color on selection
+         console.log(marker);
+         marker = new google.maps.Marker({
+           position: new google.maps.LatLng(latitude, longitude),
+           map: map,
+           icon: selectedImage,
+           zIndex: 999
+         });
+
          console.log( latitude + ', ' + longitude );
+
          var todoAdded = locations.filter( function(location){
            if (location.latitude == longitude && location.longitude == latitude) {
              return location.latitude == longitude && location.longitude == latitude;
            }
          });
          console.log(todoAdded[0].tags[1]);
+
          var $todoEvent = $("<li class='todo-event'></li>");
-        //  $('div').attr('data-lat', latitude).appendTo($todoEvent);
-        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
-        //  $("<div class='todo-latitude'></div>").attr('data-lat', latitude).appendTo($todoEvent);
          $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
          $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
          $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
@@ -175,8 +187,6 @@ function initMap() {
 
          $("#todo").sortable({
            connectWith: "#todo",
-          //  cursor: "move",
-          //  opacity: 0.4,
            helper: "clone",
            appendTo: "body"
          });
@@ -193,3 +203,29 @@ $(function() {
     $(this).parent().remove();
   })
 })
+
+function groupLocations(locations) {
+  // Grouped by tags
+  var allTags = $.map(locations, function (data) { return data.tags; })
+  var allUniqueTags = $.unique(allTags);
+  console.log(allUniqueTags);
+
+  var locationsGroupedByTags = {};
+  for (var tag in allUniqueTags) {
+    locationsGroupedByTags[allUniqueTags[tag]] = [];
+  }
+  // console.log(locationsGroupedByTags);
+
+  for (i = 0; i < locations.length; i++) {
+    var location = locations[i];
+
+    for (var tag in allUniqueTags) {
+      var currentTag = allUniqueTags[tag];
+      if ($.inArray(currentTag, location.tags) > -1) {
+        locationsGroupedByTags[currentTag].push(location);
+      }
+    }
+  }
+
+  return locationsGroupedByTags;
+}

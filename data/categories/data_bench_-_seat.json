@@ -1,0 +1,950 @@
+[
+  {
+    "id": 242,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.530347,
+    "longitude": -37.53177,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 246,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.70605,
+    "longitude": -37.77324,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 254,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.52823,
+    "longitude": -37.53831,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 272,
+    "name": null,
+    "image": null,
+    "description": "falls creek memorial trail",
+    "latitude": 148.73069,
+    "longitude": -37.68137,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 277,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.756181,
+    "longitude": -37.50911,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 279,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.481904,
+    "longitude": -37.54012,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 357,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 144.092342,
+    "longitude": -37.29885,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 368,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.479427,
+    "longitude": -37.540118,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 375,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.52427,
+    "longitude": -37.51742,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 378,
+    "name": null,
+    "image": null,
+    "description": "steel frame and timber seat",
+    "latitude": 145.584194,
+    "longitude": -37.44681,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 393,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.733095,
+    "longitude": -36.566438,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 401,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.733248,
+    "longitude": -36.56864,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 405,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.519717,
+    "longitude": -37.527896,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 409,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.528126,
+    "longitude": -37.5361,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 477,
+    "name": null,
+    "image": null,
+    "description": "myrtle gully bench shelter",
+    "latitude": 145.527989,
+    "longitude": -37.52105,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 482,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.745414,
+    "longitude": -37.51807,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 520,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.520012,
+    "longitude": -37.50943,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 522,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.108541,
+    "longitude": -37.35434,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 541,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.858057,
+    "longitude": -37.816763,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 546,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 141.73594,
+    "longitude": -35.99546,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 547,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 149.271786,
+    "longitude": -37.567744,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 548,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.480669,
+    "longitude": -37.539228,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 550,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.478294,
+    "longitude": -37.54039,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 593,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.997333,
+    "longitude": -37.8823,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 606,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.520726,
+    "longitude": -37.515987,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 637,
+    "name": null,
+    "image": null,
+    "description": "SBC - (rock bench seat and steel rail)",
+    "latitude": 146.198975,
+    "longitude": -36.876304,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 648,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.524305,
+    "longitude": -37.52554,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 649,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.732582,
+    "longitude": -36.56778,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 653,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 149.168546,
+    "longitude": -37.516729,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 666,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.731058,
+    "longitude": -36.567586,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 675,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 149.748355,
+    "longitude": -37.56981,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 679,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.740184,
+    "longitude": -38.4895,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 685,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.733088,
+    "longitude": -36.56501,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 691,
+    "name": null,
+    "image": null,
+    "description": "montane walking track - (montane walking track)",
+    "latitude": 147.265086,
+    "longitude": -37.03753,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 715,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 147.36369,
+    "longitude": -36.542515,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 750,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 149.16701,
+    "longitude": -37.52289,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 753,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.583016,
+    "longitude": -38.47973,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 758,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.733573,
+    "longitude": -36.56561,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 770,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.523022,
+    "longitude": -37.522762,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 778,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.731781,
+    "longitude": -36.565566,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 788,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.530672,
+    "longitude": -37.54774,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 963,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.955776,
+    "longitude": -36.74341,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 977,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 149.749144,
+    "longitude": -37.56558,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 985,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.528222,
+    "longitude": -37.53454,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 993,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 141.735651,
+    "longitude": -35.99127,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 995,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.481032,
+    "longitude": -37.539021,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 147.363676,
+    "longitude": -36.54246,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1011,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 147.112753,
+    "longitude": -37.77976,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1013,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 149.269262,
+    "longitude": -37.566416,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1017,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.612032,
+    "longitude": -38.648823,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1040,
+    "name": null,
+    "image": null,
+    "description": "Rail lenght for entire track",
+    "latitude": 146.198489,
+    "longitude": -36.87424,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1061,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.744074,
+    "longitude": -37.08518,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1066,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.748005,
+    "longitude": -37.08505,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1075,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 141.738585,
+    "longitude": -35.99729,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1100,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.743584,
+    "longitude": -37.51924,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1107,
+    "name": null,
+    "image": null,
+    "description": "bench seat with food locker",
+    "latitude": 145.840268,
+    "longitude": -37.834522,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1128,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.733439,
+    "longitude": -36.56789,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1130,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.735687,
+    "longitude": -36.565803,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1131,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.525292,
+    "longitude": -37.51402,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1157,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.733132,
+    "longitude": -37.51183,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1162,
+    "name": null,
+    "image": null,
+    "description": "mt clay",
+    "latitude": 141.687671,
+    "longitude": -38.23426,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1172,
+    "name": null,
+    "image": null,
+    "description": "2 x Bench Seats",
+    "latitude": 142.074197,
+    "longitude": -36.50583,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1205,
+    "name": null,
+    "image": null,
+    "description": "bench",
+    "latitude": 145.840321,
+    "longitude": -37.8347,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1294,
+    "name": null,
+    "image": null,
+    "description": "bench seat",
+    "latitude": 145.531396,
+    "longitude": -37.543924,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1451,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.745305,
+    "longitude": -37.51593,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1461,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.970994,
+    "longitude": -36.72596,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1484,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 141.735257,
+    "longitude": -35.98952,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1485,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.970598,
+    "longitude": -36.7254,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1488,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.597867,
+    "longitude": -38.460239,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1515,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.480409,
+    "longitude": -37.54057,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1525,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.736194,
+    "longitude": -36.56335,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1529,
+    "name": null,
+    "image": null,
+    "description": "seat",
+    "latitude": 149.749509,
+    "longitude": -37.562183,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1535,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 144.28327,
+    "longitude": -37.39203,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1543,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.611982,
+    "longitude": -38.64907,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1544,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 143.581487,
+    "longitude": -38.479375,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1560,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.735606,
+    "longitude": -36.56457,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1564,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.479146,
+    "longitude": -37.540984,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1601,
+    "name": null,
+    "image": null,
+    "description": "bench seat - (timber w steel pedestal x2)",
+    "latitude": 145.77355,
+    "longitude": -37.53265,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  },
+  {
+    "id": 1602,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 145.520182,
+    "longitude": -37.52763,
+    "tags": [
+      "ASSET",
+      "Bench - Seat"
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "name": "State Netball Hockey Centre",
+    "id": 38,
+    "longitude": -37.785787,
+    "latitude": 144.94758,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Carlton Football Club",
+    "id": 44,
+    "longitude": -37.784087,
+    "latitude": 144.961967,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Visy Park",
+    "id": 45,
+    "longitude": -37.783431,
+    "latitude": 144.961982,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Flemington Racecourse",
+    "id": 59,
+    "longitude": -37.790809,
+    "latitude": 144.912142,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Melbourne Cricket Ground (MCG)",
+    "id": 75,
+    "longitude": -37.819493,
+    "latitude": 144.983402,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "AAMI Park",
+    "id": 106,
+    "longitude": -37.824726,
+    "latitude": 144.983802,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Rod Laver Arena",
+    "id": 119,
+    "longitude": -37.822046,
+    "latitude": 144.978487,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Melbourne Park",
+    "id": 120,
+    "longitude": -37.820909,
+    "latitude": 144.978735,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Margaret Court Arena",
+    "id": 121,
+    "longitude": -37.821326,
+    "latitude": 144.977591,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Hisense Arena",
+    "id": 122,
+    "longitude": -37.823111,
+    "latitude": 144.981834,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "North Melbourne Recreation Centre (Aquatic)",
+    "id": 208,
+    "longitude": -37.799948,
+    "latitude": 144.94329,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "City Baths",
+    "id": 212,
+    "longitude": -37.807159,
+    "latitude": 144.963189,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Westpac Centre",
+    "id": 218,
+    "longitude": -37.824246,
+    "latitude": 144.97972,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Etihad Stadium",
+    "id": 221,
+    "longitude": -37.816177,
+    "latitude": 144.947496,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  }
+]

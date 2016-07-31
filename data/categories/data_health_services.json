@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Melbourne Private Hospital",
+    "id": 32,
+    "longitude": -37.798312,
+    "latitude": 144.957288,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital : Medical Centre",
+    "id": 68,
+    "longitude": -37.809345,
+    "latitude": 144.982336,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "The Royal Victorian Eye & Ear Hospital",
+    "id": 95,
+    "longitude": -37.808753,
+    "latitude": 144.976268,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Womens Hospital",
+    "id": 113,
+    "longitude": -37.79889,
+    "latitude": 144.954897,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Childrens Hospital",
+    "id": 144,
+    "longitude": -37.794207,
+    "latitude": 144.950048,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Alfred Hospital",
+    "id": 169,
+    "longitude": -37.846264,
+    "latitude": 144.981786,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Melbourne Hospital",
+    "id": 194,
+    "longitude": -37.799308,
+    "latitude": 144.956389,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Peter Maccallum Cancer Institute",
+    "id": 225,
+    "longitude": -37.811477,
+    "latitude": 144.9774,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Dental Hospital",
+    "id": 226,
+    "longitude": -37.799507,
+    "latitude": 144.964526,
+    "tags": [
+      "Health Services",
+      "Public Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital",
+    "id": 237,
+    "longitude": -37.810972,
+    "latitude": 144.9837,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Mercy Private Hospital",
+    "id": 239,
+    "longitude": -37.811897,
+    "latitude": 144.984435,
+    "tags": [
+      "Health Services",
+      "Medical Services",
+      "Landmarks"
+    ]
+  }
+]
