@@ -3,8 +3,13 @@ var sourceFile = "data/data.json";
 var locations;
 var zoom = 15;
 var center;
+var userMarkers = [];
+
+var directionsDisplay;
+var directionsService;
 
 function initMap() {
+  directionsService = new google.maps.DirectionsService();
   $.getJSON(sourceFile, function(json) {
     locations = json;
 
@@ -170,6 +175,8 @@ function setMarkers(map, locations) {
 
      //Add listener
      google.maps.event.addListener(marker, "click", function (event) {
+      userMarkers.push(marker);
+
        var latitude = event.latLng.lat();
        var longitude = Number(event.latLng.lng().toFixed(12));
        var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
@@ -227,6 +234,8 @@ function reloadMarkers(map, locations) {
 $(function() {
   $('#todo').on('click', '.todo-close',function() {
     $(this).parent().remove();
+    // var index = $("#todo").children().size();
+    userMarkers.splice($(this).index(), 1);
   })
 })
 
@@ -314,6 +323,17 @@ $(function() {
   })
 })
 
+$(function() {
+  $("#routebtn").on('click', function() {
+    directionsDisplay = new google.maps.DirectionsRenderer();
+    directionsDisplay.setMap(map);
+
+    var start = userMarkers[1].getPosition();
+    var end = userMarkers[userMarkers.length - 1].getPosition();
+
+    calcRoute(map, start, end);
+  })
+})
 
 function groupLocations(locations) {
   // Grouped by tags
@@ -340,3 +360,25 @@ function groupLocations(locations) {
 
   return locationsGroupedByTags;
 }
+
+function calcRoute(map, start, end) {
+  // var start = new google.maps.LatLng(37.334818, -121.884886);
+  // //var end = new google.maps.LatLng(38.334818, -181.884886);
+  // var end = new google.maps.LatLng(37.441883, -122.143019);
+  var request = {
+    origin: start,
+    destination: end,
+    travelMode: google.maps.TravelMode.WALKING
+  };
+
+  directionsService.route(request, function(response, status) {
+    if (status == google.maps.DirectionsStatus.OK) {
+      directionsDisplay.setDirections(response);
+      directionsDisplay.setMap(map);
+    } else {
+      alert("Directions Request from " + start.toUrlValue(6) + " to " + end.toUrlValue(6) + " failed: " + status);
+    }
+  });
+}
+
+// google.maps.event.addDomListener(window, 'load', initialize);
