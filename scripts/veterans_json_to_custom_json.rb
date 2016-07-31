@@ -133,6 +133,17 @@ require 'json'
 require 'ostruct'
 require 'pry'
 
+require 'bigdecimal'
+
+def to_numeric(anything)
+  num = BigDecimal.new(anything.to_s)
+  if num.frac == 0
+    num.to_i
+  else
+    num.to_f
+  end
+end
+
 input_directory = "/Users/Sonna/Projects/GovHack/govhack2016/data/original"
 input_filenames = [
   "veterans.json"
@@ -175,8 +186,8 @@ input_files.each do |input_file|
       name: record.name,
       # image: image,
       description: record.descriptions.first,
-      latitude: record.latitude,
-      longitude: record.longitude,
+      latitude: (to_numeric(record.latitude) * 1_000_000).floor / 1_000_000.0,
+      longitude: (to_numeric(record.longitude) * 1_000_000).floor / 1_000_000.0,
       tags: record.categories
     }
   end

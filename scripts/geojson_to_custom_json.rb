@@ -71,13 +71,16 @@ input_files.each do |input_file|
 
     image = feature.properties.photo_id_1
 
+    latitude  = (feature.geometry.coordinates[0] * 1_000_000).floor / 1_000_000.0
+    longitude = (feature.geometry.coordinates[1] * 1_000_000).floor / 1_000_000.0
+
     {
       id: feature.id,
       name: name,
       image: image,
       description: description,
-      latitude: feature.geometry.coordinates[0],
-      longitude: feature.geometry.coordinates[1],
+      latitude: latitude,
+      longitude: longitude,
       tags: tags
     }
   end

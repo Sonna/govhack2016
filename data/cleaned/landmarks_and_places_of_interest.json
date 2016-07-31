@@ -2,8 +2,8 @@
   {
     "name": "Flemington Bridge Railway Station",
     "id": 0,
-    "longitude": -37.7881645889621,
-    "latitude": 144.939277838304,
+    "longitude": -37.788165,
+    "latitude": 144.939277,
     "tags": [
       "Transport",
       "Railway Station"
@@ -12,8 +12,8 @@
   {
     "name": "Council House 2 (CH2)",
     "id": 1,
-    "longitude": -37.8142591432011,
-    "latitude": 144.966638432727,
+    "longitude": -37.81426,
+    "latitude": 144.966638,
     "tags": [
       "Mixed Use",
       "Retail/Office/Carpark"
@@ -22,8 +22,8 @@
   {
     "name": "The Melbourne Athenaeum Library",
     "id": 2,
-    "longitude": -37.8148855756416,
-    "latitude": 144.967291289941,
+    "longitude": -37.814886,
+    "latitude": 144.967291,
     "tags": [
       "Leisure",
       "Library"
@@ -32,8 +32,8 @@
   {
     "name": "Carlton Gardens South",
     "id": 3,
-    "longitude": -37.8060684577258,
-    "latitude": 144.971266479841,
+    "longitude": -37.806069,
+    "latitude": 144.971266,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -42,8 +42,8 @@
   {
     "name": "St Francis Church",
     "id": 4,
-    "longitude": -37.8118847831837,
-    "latitude": 144.962422614541,
+    "longitude": -37.811885,
+    "latitude": 144.962422,
     "tags": [
       "Places of worship",
       "Church"
@@ -52,8 +52,8 @@
   {
     "name": "Wesley Church",
     "id": 5,
-    "longitude": -37.8101576446961,
-    "latitude": 144.968168215633,
+    "longitude": -37.810158,
+    "latitude": 144.968168,
     "tags": [
       "Places of worship",
       "Church"
@@ -62,8 +62,8 @@
   {
     "name": "St Augustines Church",
     "id": 6,
-    "longitude": -37.8169741358546,
-    "latitude": 144.954862000132,
+    "longitude": -37.816975,
+    "latitude": 144.954862,
     "tags": [
       "Places of worship",
       "Church"
@@ -72,8 +72,8 @@
   {
     "name": "St James Church",
     "id": 7,
-    "longitude": -37.8101281201969,
-    "latitude": 144.952468571683,
+    "longitude": -37.810129,
+    "latitude": 144.952468,
     "tags": [
       "Places of worship",
       "Church"
@@ -82,8 +82,8 @@
   {
     "name": "St Mary's Anglican Church",
     "id": 8,
-    "longitude": -37.8031663672997,
-    "latitude": 144.953761537074,
+    "longitude": -37.803167,
+    "latitude": 144.953761,
     "tags": [
       "Places of worship",
       "Church"
@@ -92,8 +92,8 @@
   {
     "name": "Romanian Orthodox",
     "id": 9,
-    "longitude": -37.8052307297468,
-    "latitude": 144.966986444597,
+    "longitude": -37.805231,
+    "latitude": 144.966986,
     "tags": [
       "Places of worship",
       "Church"
@@ -102,8 +102,8 @@
   {
     "name": "Welsh Presbyterian Church",
     "id": 10,
-    "longitude": -37.8104478768313,
-    "latitude": 144.959873260087,
+    "longitude": -37.810448,
+    "latitude": 144.959873,
     "tags": [
       "Places of worship",
       "Church"
@@ -112,8 +112,8 @@
   {
     "name": "Church of Christ",
     "id": 11,
-    "longitude": -37.8104524079085,
-    "latitude": 144.96388920294,
+    "longitude": -37.810453,
+    "latitude": 144.963889,
     "tags": [
       "Places of worship",
       "Church"
@@ -122,8 +122,8 @@
   {
     "name": "Scots Church",
     "id": 12,
-    "longitude": -37.8145687802664,
-    "latitude": 144.96855105335,
+    "longitude": -37.814569,
+    "latitude": 144.968551,
     "tags": [
       "Places of worship",
       "Church"
@@ -132,8 +132,8 @@
   {
     "name": "St Michael's Uniting Church",
     "id": 13,
-    "longitude": -37.8143851324913,
-    "latitude": 144.969174036096,
+    "longitude": -37.814386,
+    "latitude": 144.969174,
     "tags": [
       "Places of worship",
       "Church"
@@ -142,8 +142,8 @@
   {
     "name": "Greek Orthodox Church",
     "id": 14,
-    "longitude": -37.8088064667555,
-    "latitude": 144.978259089269,
+    "longitude": -37.808807,
+    "latitude": 144.978259,
     "tags": [
       "Places of worship",
       "Church"
@@ -152,8 +152,8 @@
   {
     "name": "St Peter's Eastern Hill",
     "id": 15,
-    "longitude": -37.8097086714637,
-    "latitude": 144.975259178609,
+    "longitude": -37.809709,
+    "latitude": 144.975259,
     "tags": [
       "Places of worship",
       "Church"
@@ -162,8 +162,8 @@
   {
     "name": "Lutheran Trinity Church",
     "id": 16,
-    "longitude": -37.8109757054396,
-    "latitude": 144.975729473552,
+    "longitude": -37.810976,
+    "latitude": 144.975729,
     "tags": [
       "Places of worship",
       "Church"
@@ -172,8 +172,8 @@
   {
     "name": "Holy Trinity",
     "id": 17,
-    "longitude": -37.8140667110854,
-    "latitude": 144.983197322289,
+    "longitude": -37.814067,
+    "latitude": 144.983197,
     "tags": [
       "Places of worship",
       "Church"
@@ -182,8 +182,8 @@
   {
     "name": "St Johns Lutheran Church",
     "id": 18,
-    "longitude": -37.8209399677168,
-    "latitude": 144.967121099857,
+    "longitude": -37.82094,
+    "latitude": 144.967121,
     "tags": [
       "Places of worship",
       "Church"
@@ -192,8 +192,8 @@
   {
     "name": "North Melbourne Uniting",
     "id": 19,
-    "longitude": -37.8035538471344,
-    "latitude": 144.947671538375,
+    "longitude": -37.803554,
+    "latitude": 144.947671,
     "tags": [
       "Places of worship",
       "Church"
@@ -202,8 +202,8 @@
   {
     "name": "Melbourne Unitarian Church",
     "id": 20,
-    "longitude": -37.8114487773394,
-    "latitude": 144.984664890999,
+    "longitude": -37.811449,
+    "latitude": 144.984664,
     "tags": [
       "Places of worship",
       "Church"
@@ -212,8 +212,8 @@
   {
     "name": "All Nations Uniting Church",
     "id": 21,
-    "longitude": -37.7959155303946,
-    "latitude": 144.968981110942,
+    "longitude": -37.795916,
+    "latitude": 144.968981,
     "tags": [
       "Places of worship",
       "Church"
@@ -222,8 +222,8 @@
   {
     "name": "Our Lady of Lebanon Church",
     "id": 22,
-    "longitude": -37.8025766539683,
-    "latitude": 144.969334720932,
+    "longitude": -37.802577,
+    "latitude": 144.969334,
     "tags": [
       "Places of worship",
       "Church"
@@ -232,8 +232,8 @@
   {
     "name": "St Michaels",
     "id": 23,
-    "longitude": -37.7940512679297,
-    "latitude": 144.945399480629,
+    "longitude": -37.794052,
+    "latitude": 144.945399,
     "tags": [
       "Places of worship",
       "Church"
@@ -242,8 +242,8 @@
   {
     "name": "Ukranian Catholic Cathedral",
     "id": 24,
-    "longitude": -37.7963084580345,
-    "latitude": 144.944313454028,
+    "longitude": -37.796309,
+    "latitude": 144.944313,
     "tags": [
       "Places of worship",
       "Church"
@@ -252,8 +252,8 @@
   {
     "name": "St Alban Anglican Church",
     "id": 25,
-    "longitude": -37.7942169477929,
-    "latitude": 144.94161451392,
+    "longitude": -37.794217,
+    "latitude": 144.941614,
     "tags": [
       "Places of worship",
       "Church"
@@ -262,8 +262,8 @@
   {
     "name": "Christ Church Kensington",
     "id": 26,
-    "longitude": -37.7932109480553,
-    "latitude": 144.92729572288,
+    "longitude": -37.793211,
+    "latitude": 144.927295,
     "tags": [
       "Places of worship",
       "Church"
@@ -272,8 +272,8 @@
   {
     "name": "Holy Rosary",
     "id": 27,
-    "longitude": -37.7948087414394,
-    "latitude": 144.928362125005,
+    "longitude": -37.794809,
+    "latitude": 144.928362,
     "tags": [
       "Places of worship",
       "Church"
@@ -282,8 +282,8 @@
   {
     "name": "Collins Street Baptist Church",
     "id": 28,
-    "longitude": -37.8147011904647,
-    "latitude": 144.968072486031,
+    "longitude": -37.814702,
+    "latitude": 144.968072,
     "tags": [
       "Places of worship",
       "Church"
@@ -292,8 +292,8 @@
   {
     "name": "St Thomas Aquinas Church",
     "id": 29,
-    "longitude": -37.8353076902578,
-    "latitude": 144.976809080472,
+    "longitude": -37.835308,
+    "latitude": 144.976809,
     "tags": [
       "Places of worship",
       "Church"
@@ -302,8 +302,8 @@
   {
     "name": "South Yarra Presbyterian Church",
     "id": 30,
-    "longitude": -37.8407473645397,
-    "latitude": 144.98562699348,
+    "longitude": -37.840748,
+    "latitude": 144.985626,
     "tags": [
       "Places of worship",
       "Church"
@@ -312,8 +312,8 @@
   {
     "name": "The Parish of Christ Church South Yarra",
     "id": 31,
-    "longitude": -37.8386270533576,
-    "latitude": 144.986009385387,
+    "longitude": -37.838628,
+    "latitude": 144.986009,
     "tags": [
       "Places of worship",
       "Church"
@@ -322,8 +322,8 @@
   {
     "name": "Melbourne Private Hospital",
     "id": 32,
-    "longitude": -37.7983111309698,
-    "latitude": 144.95728837725,
+    "longitude": -37.798312,
+    "latitude": 144.957288,
     "tags": [
       "Health Services",
       "Private Hospital"
@@ -332,8 +332,8 @@
   {
     "name": "East Melbourne Synagogue",
     "id": 33,
-    "longitude": -37.809113728917,
-    "latitude": 144.97422190954,
+    "longitude": -37.809114,
+    "latitude": 144.974221,
     "tags": [
       "Places of worship",
       "Synagogue"
@@ -342,8 +342,8 @@
   {
     "name": "Victoria Police",
     "id": 34,
-    "longitude": -37.8164849024046,
-    "latitude": 144.966486801188,
+    "longitude": -37.816485,
+    "latitude": 144.966486,
     "tags": [
       "Leisure",
       "Police Station"
@@ -352,8 +352,8 @@
   {
     "name": "Victoria Police",
     "id": 35,
-    "longitude": -37.8003121288849,
-    "latitude": 144.954697453742,
+    "longitude": -37.800313,
+    "latitude": 144.954697,
     "tags": [
       "Leisure",
       "Police Station"
@@ -362,8 +362,8 @@
   {
     "name": "Victoria Police",
     "id": 36,
-    "longitude": -37.8219773910249,
-    "latitude": 144.953398014034,
+    "longitude": -37.821978,
+    "latitude": 144.953398,
     "tags": [
       "Leisure",
       "Police Station"
@@ -372,8 +372,8 @@
   {
     "name": "Melbourne Visitor Booth",
     "id": 37,
-    "longitude": -37.8139525061193,
-    "latitude": 144.964425882562,
+    "longitude": -37.813953,
+    "latitude": 144.964425,
     "tags": [
       "Leisure",
       "Visitor Centre"
@@ -382,8 +382,8 @@
   {
     "name": "State Netball Hockey Centre",
     "id": 38,
-    "longitude": -37.7857860016289,
-    "latitude": 144.947580972027,
+    "longitude": -37.785787,
+    "latitude": 144.94758,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -392,8 +392,8 @@
   {
     "name": "University Square",
     "id": 39,
-    "longitude": -37.800410711209,
-    "latitude": 144.960398319302,
+    "longitude": -37.800411,
+    "latitude": 144.960398,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -402,8 +402,8 @@
   {
     "name": "Port of Melbourne",
     "id": 40,
-    "longitude": -37.8137384362671,
-    "latitude": 144.91753432375,
+    "longitude": -37.813739,
+    "latitude": 144.917534,
     "tags": [
       "Transport",
       "Transport Terminal"
@@ -412,8 +412,8 @@
   {
     "name": "Royal Park Golf Course",
     "id": 41,
-    "longitude": -37.7819171308558,
-    "latitude": 144.956309119368,
+    "longitude": -37.781918,
+    "latitude": 144.956309,
     "tags": [
       "Leisure",
       "Private Sports Club/Facility"
@@ -422,8 +422,8 @@
   {
     "name": "Powlett Reserve",
     "id": 42,
-    "longitude": -37.8116929882498,
-    "latitude": 144.987275671763,
+    "longitude": -37.811693,
+    "latitude": 144.987275,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -432,8 +432,8 @@
   {
     "name": "Melbourne General Cemetery",
     "id": 43,
-    "longitude": -37.7891890023616,
-    "latitude": 144.965785979892,
+    "longitude": -37.78919,
+    "latitude": 144.965785,
     "tags": [
       "Leisure",
       "Cemetery"
@@ -442,8 +442,8 @@
   {
     "name": "Carlton Football Club",
     "id": 44,
-    "longitude": -37.7840864379557,
-    "latitude": 144.961967841559,
+    "longitude": -37.784087,
+    "latitude": 144.961967,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -452,8 +452,8 @@
   {
     "name": "Visy Park",
     "id": 45,
-    "longitude": -37.7834303940347,
-    "latitude": 144.961982577553,
+    "longitude": -37.783431,
+    "latitude": 144.961982,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -462,8 +462,8 @@
   {
     "name": "Queen Victoria Market",
     "id": 46,
-    "longitude": -37.8075002018073,
-    "latitude": 144.957158515056,
+    "longitude": -37.807501,
+    "latitude": 144.957158,
     "tags": [
       "Retail",
       "Retail"
@@ -472,8 +472,8 @@
   {
     "name": "Carlton Gardens Primary School",
     "id": 47,
-    "longitude": -37.8020953835112,
-    "latitude": 144.969406272035,
+    "longitude": -37.802096,
+    "latitude": 144.969406,
     "tags": [
       "Education Centre",
       "Primary Schools"
@@ -482,8 +482,8 @@
   {
     "name": "Carlton Primary School",
     "id": 48,
-    "longitude": -37.7959079757171,
-    "latitude": 144.970147317976,
+    "longitude": -37.795908,
+    "latitude": 144.970147,
     "tags": [
       "Education Centre",
       "Primary Schools"
@@ -492,8 +492,8 @@
   {
     "name": "Carlton Gardens North",
     "id": 49,
-    "longitude": -37.8017690847403,
-    "latitude": 144.971997551189,
+    "longitude": -37.80177,
+    "latitude": 144.971997,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -502,8 +502,8 @@
   {
     "name": "Old Melbourne Gaol Crime & Justice Experience",
     "id": 50,
-    "longitude": -37.8077644149636,
-    "latitude": 144.965463853978,
+    "longitude": -37.807765,
+    "latitude": 144.965463,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -512,8 +512,8 @@
   {
     "name": "Kings Domain",
     "id": 51,
-    "longitude": -37.8255239795833,
-    "latitude": 144.974107925144,
+    "longitude": -37.825524,
+    "latitude": 144.974107,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -522,8 +522,8 @@
   {
     "name": "Melbourne Grammar School",
     "id": 52,
-    "longitude": -37.8342561018747,
-    "latitude": 144.976285045233,
+    "longitude": -37.834257,
+    "latitude": 144.976285,
     "tags": [
       "Education Centre",
       "Secondary Schools"
@@ -532,8 +532,8 @@
   {
     "name": "Wesley College",
     "id": 53,
-    "longitude": -37.8485201804496,
-    "latitude": 144.982227770988,
+    "longitude": -37.848521,
+    "latitude": 144.982227,
     "tags": [
       "Education Centre",
       "School - Primary and Secondary Education"
@@ -542,8 +542,8 @@
   {
     "name": "FairFax Studio",
     "id": 54,
-    "longitude": -37.8216684581887,
-    "latitude": 144.968836241692,
+    "longitude": -37.821669,
+    "latitude": 144.968836,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -552,8 +552,8 @@
   {
     "name": "Playhouse",
     "id": 55,
-    "longitude": -37.8218124583016,
-    "latitude": 144.968337832721,
+    "longitude": -37.821813,
+    "latitude": 144.968337,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -562,8 +562,8 @@
   {
     "name": "State Theatre",
     "id": 56,
-    "longitude": -37.8212806349773,
-    "latitude": 144.968469643744,
+    "longitude": -37.821281,
+    "latitude": 144.968469,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -572,8 +572,8 @@
   {
     "name": "University of Melbourne (VCA and Music)",
     "id": 57,
-    "longitude": -37.8241137662047,
-    "latitude": 144.96933253996,
+    "longitude": -37.824114,
+    "latitude": 144.969332,
     "tags": [
       "Education Centre",
       "Tertiary (University)"
@@ -582,8 +582,8 @@
   {
     "name": "St Martins Youth Arts Centre",
     "id": 58,
-    "longitude": -37.8352429531289,
-    "latitude": 144.98114217385,
+    "longitude": -37.835243,
+    "latitude": 144.981142,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -592,8 +592,8 @@
   {
     "name": "Flemington Racecourse",
     "id": 59,
-    "longitude": -37.7908082646624,
-    "latitude": 144.912142987372,
+    "longitude": -37.790809,
+    "latitude": 144.912142,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -602,8 +602,8 @@
   {
     "name": "Southern Cross Railway Station",
     "id": 60,
-    "longitude": -37.8181633057171,
-    "latitude": 144.952944748845,
+    "longitude": -37.818164,
+    "latitude": 144.952944,
     "tags": [
       "Transport",
       "Railway Station"
@@ -612,8 +612,8 @@
   {
     "name": "Princess Theatre",
     "id": 61,
-    "longitude": -37.8107257091302,
-    "latitude": 144.9723265962,
+    "longitude": -37.810726,
+    "latitude": 144.972326,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -622,8 +622,8 @@
   {
     "name": "Treasury Gardens",
     "id": 62,
-    "longitude": -37.8143993575938,
-    "latitude": 144.975952335785,
+    "longitude": -37.8144,
+    "latitude": 144.975952,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -632,8 +632,8 @@
   {
     "name": "University High School",
     "id": 63,
-    "longitude": -37.7973136216903,
-    "latitude": 144.956034449946,
+    "longitude": -37.797314,
+    "latitude": 144.956034,
     "tags": [
       "Education Centre",
       "Secondary Schools"
@@ -642,8 +642,8 @@
   {
     "name": "State Library Victoria",
     "id": 64,
-    "longitude": -37.8099852201226,
-    "latitude": 144.964330322397,
+    "longitude": -37.809986,
+    "latitude": 144.96433,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -652,8 +652,8 @@
   {
     "name": "Regent Theatre",
     "id": 65,
-    "longitude": -37.8160014744179,
-    "latitude": 144.967916735261,
+    "longitude": -37.816002,
+    "latitude": 144.967916,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -662,8 +662,8 @@
   {
     "name": "Treasury Reserve",
     "id": 66,
-    "longitude": -37.8129178793082,
-    "latitude": 144.975236759799,
+    "longitude": -37.812918,
+    "latitude": 144.975236,
     "tags": [
       "Mixed Use",
       "Retail/Office"
@@ -672,8 +672,8 @@
   {
     "name": "Old Treasury Building",
     "id": 67,
-    "longitude": -37.8132371662585,
-    "latitude": 144.974423610255,
+    "longitude": -37.813238,
+    "latitude": 144.974423,
     "tags": [
       "Office",
       "Office"
@@ -682,8 +682,8 @@
   {
     "name": "Epworth Freemasons Hospital : Medical Centre",
     "id": 68,
-    "longitude": -37.8093444587231,
-    "latitude": 144.982336768182,
+    "longitude": -37.809345,
+    "latitude": 144.982336,
     "tags": [
       "Health Services",
       "Private Hospital"
@@ -692,8 +692,8 @@
   {
     "name": "Batman Park",
     "id": 69,
-    "longitude": -37.8218460949601,
-    "latitude": 144.956665812218,
+    "longitude": -37.821847,
+    "latitude": 144.956665,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -702,8 +702,8 @@
   {
     "name": "Australian Red Cross",
     "id": 70,
-    "longitude": -37.7990921023192,
-    "latitude": 144.952635945774,
+    "longitude": -37.799093,
+    "latitude": 144.952635,
     "tags": [
       "Office",
       "Office"
@@ -712,8 +712,8 @@
   {
     "name": "Melbourne Magistrates Court",
     "id": 71,
-    "longitude": -37.8136147671606,
-    "latitude": 144.956846193891,
+    "longitude": -37.813615,
+    "latitude": 144.956846,
     "tags": [
       "Leisure",
       "Government Building"
@@ -722,8 +722,8 @@
   {
     "name": "Flagstaff Railway Station",
     "id": 72,
-    "longitude": -37.8122356514626,
-    "latitude": 144.956318211113,
+    "longitude": -37.812236,
+    "latitude": 144.956318,
     "tags": [
       "Transport",
       "Railway Station"
@@ -732,8 +732,8 @@
   {
     "name": "Supreme Court",
     "id": 73,
-    "longitude": -37.8141494182814,
-    "latitude": 144.957894024264,
+    "longitude": -37.81415,
+    "latitude": 144.957894,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -742,8 +742,8 @@
   {
     "name": "Richmond Football Club",
     "id": 74,
-    "longitude": -37.8216740022008,
-    "latitude": 144.988156318781,
+    "longitude": -37.821675,
+    "latitude": 144.988156,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -752,8 +752,8 @@
   {
     "name": "Melbourne Cricket Ground (MCG)",
     "id": 75,
-    "longitude": -37.8194921618419,
-    "latitude": 144.983402879078,
+    "longitude": -37.819493,
+    "latitude": 144.983402,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -762,8 +762,8 @@
   {
     "name": "Melbourne Zoo",
     "id": 76,
-    "longitude": -37.7844449253712,
-    "latitude": 144.951371205938,
+    "longitude": -37.784445,
+    "latitude": 144.951371,
     "tags": [
       "Leisure",
       "Outdoor Recreation Facility (Zoo, Golf Course)"
@@ -772,8 +772,8 @@
   {
     "name": "Australian Broadcasting Corporation (ABC)",
     "id": 77,
-    "longitude": -37.823813323734,
-    "latitude": 144.966551401578,
+    "longitude": -37.823814,
+    "latitude": 144.966551,
     "tags": [
       "Office",
       "Office"
@@ -782,8 +782,8 @@
   {
     "name": "Melbourne Exhibition Centre",
     "id": 78,
-    "longitude": -37.8252455123297,
-    "latitude": 144.95435243249,
+    "longitude": -37.825246,
+    "latitude": 144.954352,
     "tags": [
       "Leisure",
       "Function/Conference/Exhibition Centre"
@@ -792,8 +792,8 @@
   {
     "name": "Melbourne Convention Centre",
     "id": 79,
-    "longitude": -37.8249040484653,
-    "latitude": 144.952288281644,
+    "longitude": -37.824905,
+    "latitude": 144.952288,
     "tags": [
       "Leisure",
       "Function/Conference/Exhibition Centre"
@@ -802,8 +802,8 @@
   {
     "name": "Polly Woodside",
     "id": 80,
-    "longitude": -37.8242574266145,
-    "latitude": 144.953478052064,
+    "longitude": -37.824258,
+    "latitude": 144.953478,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -812,8 +812,8 @@
   {
     "name": "Melbourne International Karting Complex",
     "id": 81,
-    "longitude": -37.8310746380616,
-    "latitude": 144.913822928701,
+    "longitude": -37.831075,
+    "latitude": 144.913822,
     "tags": [
       "Vacant Land",
       "Vacant Land - Undeveloped Site"
@@ -822,8 +822,8 @@
   {
     "name": "Melbourne International Shooting Club",
     "id": 82,
-    "longitude": -37.8292844929826,
-    "latitude": 144.913415802464,
+    "longitude": -37.829285,
+    "latitude": 144.913415,
     "tags": [
       "Leisure",
       "Private Sports Club/Facility"
@@ -832,8 +832,8 @@
   {
     "name": "Southgate Arts and Leisure Precinct",
     "id": 83,
-    "longitude": -37.8202245786597,
-    "latitude": 144.965989052839,
+    "longitude": -37.820225,
+    "latitude": 144.965989,
     "tags": [
       "Mixed Use",
       "Retail/Office/Carpark"
@@ -842,8 +842,8 @@
   {
     "name": "Australian Centre for Contemporary Art",
     "id": 84,
-    "longitude": -37.8266045432686,
-    "latitude": 144.967252924593,
+    "longitude": -37.826605,
+    "latitude": 144.967252,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -852,8 +852,8 @@
   {
     "name": "Malthouse Theatre",
     "id": 85,
-    "longitude": -37.8271768001126,
-    "latitude": 144.966936821789,
+    "longitude": -37.827177,
+    "latitude": 144.966936,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -862,8 +862,8 @@
   {
     "name": "St Patricks Cathedral",
     "id": 86,
-    "longitude": -37.8101140950474,
-    "latitude": 144.975901529712,
+    "longitude": -37.810115,
+    "latitude": 144.975901,
     "tags": [
       "Places of worship",
       "Church"
@@ -872,8 +872,8 @@
   {
     "name": "Victorian Arts Centre",
     "id": 87,
-    "longitude": -37.8219947335768,
-    "latitude": 144.968837288153,
+    "longitude": -37.821995,
+    "latitude": 144.968837,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -882,8 +882,8 @@
   {
     "name": "Parliament House",
     "id": 88,
-    "longitude": -37.811246655376,
-    "latitude": 144.97372641185,
+    "longitude": -37.811247,
+    "latitude": 144.973726,
     "tags": [
       "Office",
       "Office"
@@ -892,8 +892,8 @@
   {
     "name": "Melbourne Town Hall",
     "id": 89,
-    "longitude": -37.8150754791411,
-    "latitude": 144.966542722283,
+    "longitude": -37.815076,
+    "latitude": 144.966542,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -902,8 +902,8 @@
   {
     "name": "Former Royal Mint",
     "id": 90,
-    "longitude": -37.8121838748712,
-    "latitude": 144.957055454136,
+    "longitude": -37.812184,
+    "latitude": 144.957055,
     "tags": [
       "Office",
       "Office"
@@ -912,8 +912,8 @@
   {
     "name": "DFO South Wharf",
     "id": 91,
-    "longitude": -37.824887401234,
-    "latitude": 144.949794297819,
+    "longitude": -37.824888,
+    "latitude": 144.949794,
     "tags": [
       "Mixed Use",
       "Retail/Office"
@@ -922,8 +922,8 @@
   {
     "name": "Queen Victoria Gardens",
     "id": 92,
-    "longitude": -37.8216381244891,
-    "latitude": 144.971049530478,
+    "longitude": -37.821639,
+    "latitude": 144.971049,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -932,8 +932,8 @@
   {
     "name": "Sidney Myer Music Bowl",
     "id": 93,
-    "longitude": -37.8233471608733,
-    "latitude": 144.974686151365,
+    "longitude": -37.823348,
+    "latitude": 144.974686,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -942,8 +942,8 @@
   {
     "name": "Crown Entertainment Complex",
     "id": 94,
-    "longitude": -37.8235761092516,
-    "latitude": 144.957312880653,
+    "longitude": -37.823577,
+    "latitude": 144.957312,
     "tags": [
       "Purpose Built",
       "Casino"
@@ -952,8 +952,8 @@
   {
     "name": "The Royal Victorian Eye & Ear Hospital",
     "id": 95,
-    "longitude": -37.8087522829868,
-    "latitude": 144.976268275082,
+    "longitude": -37.808753,
+    "latitude": 144.976268,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -962,8 +962,8 @@
   {
     "name": "SBS (Special Broadcasting Service)",
     "id": 96,
-    "longitude": -37.8176921210305,
-    "latitude": 144.968740597156,
+    "longitude": -37.817693,
+    "latitude": 144.96874,
     "tags": [
       "Office",
       "Office"
@@ -972,8 +972,8 @@
   {
     "name": "The Ian Potter Centre: NGV Australia",
     "id": 97,
-    "longitude": -37.8174831423197,
-    "latitude": 144.969899048343,
+    "longitude": -37.817484,
+    "latitude": 144.969899,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -982,8 +982,8 @@
   {
     "name": "Federation Square",
     "id": 98,
-    "longitude": -37.8178516571684,
-    "latitude": 144.968963600783,
+    "longitude": -37.817852,
+    "latitude": 144.968963,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -992,8 +992,8 @@
   {
     "name": "Thoroughbred Racing Gallery",
     "id": 99,
-    "longitude": -37.8188662730911,
-    "latitude": 144.9839700954,
+    "longitude": -37.818867,
+    "latitude": 144.98397,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1002,8 +1002,8 @@
   {
     "name": "New Quay",
     "id": 100,
-    "longitude": -37.8152178789077,
-    "latitude": 144.941617889032,
+    "longitude": -37.815218,
+    "latitude": 144.941617,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1012,8 +1012,8 @@
   {
     "name": "Central City Studios",
     "id": 101,
-    "longitude": -37.8142318521296,
-    "latitude": 144.935655305362,
+    "longitude": -37.814232,
+    "latitude": 144.935655,
     "tags": [
       "Purpose Built",
       "Film & RV Studio"
@@ -1022,8 +1022,8 @@
   {
     "name": "Channel 7 - Melbourne Broadcast Centre",
     "id": 102,
-    "longitude": -37.8158572333481,
-    "latitude": 144.94582326909,
+    "longitude": -37.815858,
+    "latitude": 144.945823,
     "tags": [
       "Purpose Built",
       "Film & RV Studio"
@@ -1032,8 +1032,8 @@
   {
     "name": "Docklands Park",
     "id": 103,
-    "longitude": -37.8209956785618,
-    "latitude": 144.946781702342,
+    "longitude": -37.820996,
+    "latitude": 144.946781,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1042,8 +1042,8 @@
   {
     "name": "Waterfront City",
     "id": 104,
-    "longitude": -37.815056661803,
-    "latitude": 144.939136876334,
+    "longitude": -37.815057,
+    "latitude": 144.939136,
     "tags": [
       "Mixed Use",
       "Retail/Office"
@@ -1052,8 +1052,8 @@
   {
     "name": "Harbour Town",
     "id": 105,
-    "longitude": -37.8139256326845,
-    "latitude": 144.938123825625,
+    "longitude": -37.813926,
+    "latitude": 144.938123,
     "tags": [
       "Vacant Land",
       "Current Construction Site"
@@ -1062,8 +1062,8 @@
   {
     "name": "AAMI Park",
     "id": 106,
-    "longitude": -37.8247252673963,
-    "latitude": 144.98380297866,
+    "longitude": -37.824726,
+    "latitude": 144.983802,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -1072,8 +1072,8 @@
   {
     "name": "New Quay Marina",
     "id": 107,
-    "longitude": -37.8152925454954,
-    "latitude": 144.942283726231,
+    "longitude": -37.815293,
+    "latitude": 144.942283,
     "tags": [
       "Transport",
       "Marina"
@@ -1082,8 +1082,8 @@
   {
     "name": "Central Pier",
     "id": 108,
-    "longitude": -37.8165177307702,
-    "latitude": 144.943475014215,
+    "longitude": -37.816518,
+    "latitude": 144.943475,
     "tags": [
       "Leisure",
       "Function/Conference/Exhibition Centre"
@@ -1092,8 +1092,8 @@
   {
     "name": "Melbourne Star Observation Wheel",
     "id": 109,
-    "longitude": -37.8116163666726,
-    "latitude": 144.937588920436,
+    "longitude": -37.811617,
+    "latitude": 144.937588,
     "tags": [
       "Leisure",
       "Observation Tower/Wheel"
@@ -1102,8 +1102,8 @@
   {
     "name": "Point Park",
     "id": 110,
-    "longitude": -37.8233522700646,
-    "latitude": 144.942102276731,
+    "longitude": -37.823353,
+    "latitude": 144.942102,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1112,8 +1112,8 @@
   {
     "name": "Kensington Primary School",
     "id": 111,
-    "longitude": -37.7925235045455,
-    "latitude": 144.927108735461,
+    "longitude": -37.792524,
+    "latitude": 144.927108,
     "tags": [
       "Education Centre",
       "Primary Schools"
@@ -1122,8 +1122,8 @@
   {
     "name": "Newmarket Reserve",
     "id": 112,
-    "longitude": -37.7878473341234,
-    "latitude": 144.922972125346,
+    "longitude": -37.787848,
+    "latitude": 144.922972,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1132,8 +1132,8 @@
   {
     "name": "Royal Womens Hospital",
     "id": 113,
-    "longitude": -37.7988892460088,
-    "latitude": 144.954897253856,
+    "longitude": -37.79889,
+    "latitude": 144.954897,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -1142,8 +1142,8 @@
   {
     "name": "Kangan Batman Tafe",
     "id": 114,
-    "longitude": -37.8221818203024,
-    "latitude": 144.948908460665,
+    "longitude": -37.822182,
+    "latitude": 144.948908,
     "tags": [
       "Education Centre",
       "Further Education"
@@ -1152,8 +1152,8 @@
   {
     "name": "Fox Classic Car Collection",
     "id": 115,
-    "longitude": -37.8213744301481,
-    "latitude": 144.948496661709,
+    "longitude": -37.821375,
+    "latitude": 144.948496,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1162,8 +1162,8 @@
   {
     "name": "The Mission To Seafarers Victoria",
     "id": 116,
-    "longitude": -37.8224995970811,
-    "latitude": 144.951254841448,
+    "longitude": -37.8225,
+    "latitude": 144.951254,
     "tags": [
       "Specialist Residential Accommodation",
       "Hostel"
@@ -1172,8 +1172,8 @@
   {
     "name": "Railway Good Shed No 2",
     "id": 117,
-    "longitude": -37.8211371302179,
-    "latitude": 144.951378883631,
+    "longitude": -37.821138,
+    "latitude": 144.951378,
     "tags": [
       "Vacant Land",
       "Current Construction Site - Commercial"
@@ -1182,8 +1182,8 @@
   {
     "name": "Wonderland Park",
     "id": 118,
-    "longitude": -37.8116945351989,
-    "latitude": 144.936833674975,
+    "longitude": -37.811695,
+    "latitude": 144.936833,
     "tags": [
       "Leisure",
       "Outdoor Recreation Facility (Zoo, Golf Course)"
@@ -1192,8 +1192,8 @@
   {
     "name": "Rod Laver Arena",
     "id": 119,
-    "longitude": -37.8220456119807,
-    "latitude": 144.978487173787,
+    "longitude": -37.822046,
+    "latitude": 144.978487,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -1202,8 +1202,8 @@
   {
     "name": "Melbourne Park",
     "id": 120,
-    "longitude": -37.8209085970021,
-    "latitude": 144.978735802793,
+    "longitude": -37.820909,
+    "latitude": 144.978735,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -1212,8 +1212,8 @@
   {
     "name": "Margaret Court Arena",
     "id": 121,
-    "longitude": -37.8213252086842,
-    "latitude": 144.977591098955,
+    "longitude": -37.821326,
+    "latitude": 144.977591,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -1222,8 +1222,8 @@
   {
     "name": "Hisense Arena",
     "id": 122,
-    "longitude": -37.823110002667,
-    "latitude": 144.981834802535,
+    "longitude": -37.823111,
+    "latitude": 144.981834,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -1232,8 +1232,8 @@
   {
     "name": "Melbourne Museum",
     "id": 123,
-    "longitude": -37.8035518129299,
-    "latitude": 144.971690718887,
+    "longitude": -37.803552,
+    "latitude": 144.97169,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1242,8 +1242,8 @@
   {
     "name": "IMAX Melbourne",
     "id": 124,
-    "longitude": -37.8034315561903,
-    "latitude": 144.970639929886,
+    "longitude": -37.803432,
+    "latitude": 144.970639,
     "tags": [
       "Leisure",
       "Cinema"
@@ -1252,8 +1252,8 @@
   {
     "name": "Melbourne Theatre Company",
     "id": 125,
-    "longitude": -37.823930384816,
-    "latitude": 144.968297429894,
+    "longitude": -37.823931,
+    "latitude": 144.968297,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1262,8 +1262,8 @@
   {
     "name": "MTC Theatre",
     "id": 126,
-    "longitude": -37.8242661832902,
-    "latitude": 144.968174400274,
+    "longitude": -37.824267,
+    "latitude": 144.968174,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1272,8 +1272,8 @@
   {
     "name": "Elisabeth Murdoch Hall",
     "id": 127,
-    "longitude": -37.8239733704282,
-    "latitude": 144.967450979234,
+    "longitude": -37.823974,
+    "latitude": 144.96745,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1282,8 +1282,8 @@
   {
     "name": "Melbourne Recital Centre",
     "id": 128,
-    "longitude": -37.8238327885805,
-    "latitude": 144.967682729667,
+    "longitude": -37.823833,
+    "latitude": 144.967682,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1292,8 +1292,8 @@
   {
     "name": "NGV International",
     "id": 129,
-    "longitude": -37.8230135000869,
-    "latitude": 144.969342535451,
+    "longitude": -37.823014,
+    "latitude": 144.969342,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1302,8 +1302,8 @@
   {
     "name": "Hamer Hall",
     "id": 130,
-    "longitude": -37.8199901009015,
-    "latitude": 144.967992144257,
+    "longitude": -37.819991,
+    "latitude": 144.967992,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1312,8 +1312,8 @@
   {
     "name": "Birrarung Marr",
     "id": 131,
-    "longitude": -37.81806108403,
-    "latitude": 144.97314667014,
+    "longitude": -37.818062,
+    "latitude": 144.973146,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1322,8 +1322,8 @@
   {
     "name": "Artplay",
     "id": 132,
-    "longitude": -37.8184198800044,
-    "latitude": 144.971542586509,
+    "longitude": -37.81842,
+    "latitude": 144.971542,
     "tags": [
       "Leisure",
       "Indoor Recreation Facility"
@@ -1332,8 +1332,8 @@
   {
     "name": "Riverslide Skate Park",
     "id": 133,
-    "longitude": -37.8207887122448,
-    "latitude": 144.972951789291,
+    "longitude": -37.820789,
+    "latitude": 144.972951,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1342,8 +1342,8 @@
   {
     "name": "Alexandra Gardens",
     "id": 134,
-    "longitude": -37.8206051404251,
-    "latitude": 144.971796067365,
+    "longitude": -37.820606,
+    "latitude": 144.971796,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1352,8 +1352,8 @@
   {
     "name": "Parliament Railway Station",
     "id": 135,
-    "longitude": -37.8116061787171,
-    "latitude": 144.973017263156,
+    "longitude": -37.811607,
+    "latitude": 144.973017,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1362,8 +1362,8 @@
   {
     "name": "Richmond Railway Station (Richmond) - Train stop",
     "id": 136,
-    "longitude": -37.8238992659834,
-    "latitude": 144.989400751664,
+    "longitude": -37.8239,
+    "latitude": 144.9894,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1372,8 +1372,8 @@
   {
     "name": "Jolimont-MCG Railway Station (East Melbourne) - Train stop",
     "id": 137,
-    "longitude": -37.8165651811668,
-    "latitude": 144.983641003377,
+    "longitude": -37.816566,
+    "latitude": 144.983641,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1382,8 +1382,8 @@
   {
     "name": "North Melbourne Recreation Reserve",
     "id": 138,
-    "longitude": -37.7988345257153,
-    "latitude": 144.941452061463,
+    "longitude": -37.798835,
+    "latitude": 144.941452,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1392,8 +1392,8 @@
   {
     "name": "J.J Holland Park",
     "id": 139,
-    "longitude": -37.7982358832177,
-    "latitude": 144.923837074813,
+    "longitude": -37.798236,
+    "latitude": 144.923837,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1402,8 +1402,8 @@
   {
     "name": "Macaulay Railway Station (North Melbourne) - Train stop",
     "id": 140,
-    "longitude": -37.794964001386,
-    "latitude": 144.936190756632,
+    "longitude": -37.794965,
+    "latitude": 144.93619,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1412,8 +1412,8 @@
   {
     "name": "Kensington Railway Station",
     "id": 141,
-    "longitude": -37.7939140126373,
-    "latitude": 144.930710207518,
+    "longitude": -37.793915,
+    "latitude": 144.93071,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1422,8 +1422,8 @@
   {
     "name": "South Kensington Railway Station",
     "id": 142,
-    "longitude": -37.7997270537735,
-    "latitude": 144.925837749713,
+    "longitude": -37.799728,
+    "latitude": 144.925837,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1432,8 +1432,8 @@
   {
     "name": "Royal Park",
     "id": 143,
-    "longitude": -37.7906174256581,
-    "latitude": 144.953834240647,
+    "longitude": -37.790618,
+    "latitude": 144.953834,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1442,8 +1442,8 @@
   {
     "name": "Royal Childrens Hospital",
     "id": 144,
-    "longitude": -37.7942060847278,
-    "latitude": 144.950048264678,
+    "longitude": -37.794207,
+    "latitude": 144.950048,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -1452,8 +1452,8 @@
   {
     "name": "Royal Park Railway Station",
     "id": 145,
-    "longitude": -37.7812684282825,
-    "latitude": 144.951667833921,
+    "longitude": -37.781269,
+    "latitude": 144.951667,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1462,8 +1462,8 @@
   {
     "name": "Princes Park",
     "id": 146,
-    "longitude": -37.7870161727156,
-    "latitude": 144.961115214367,
+    "longitude": -37.787017,
+    "latitude": 144.961115,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1472,8 +1472,8 @@
   {
     "name": "National Sports Museum",
     "id": 147,
-    "longitude": -37.8189544909462,
-    "latitude": 144.984669809381,
+    "longitude": -37.818955,
+    "latitude": 144.984669,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1482,8 +1482,8 @@
   {
     "name": "Shrine of Rembrance Reserve",
     "id": 148,
-    "longitude": -37.8320733992876,
-    "latitude": 144.973628364465,
+    "longitude": -37.832074,
+    "latitude": 144.973628,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1492,8 +1492,8 @@
   {
     "name": "Shrine of Remembrance",
     "id": 149,
-    "longitude": -37.8302080020387,
-    "latitude": 144.973441913623,
+    "longitude": -37.830209,
+    "latitude": 144.973441,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1502,8 +1502,8 @@
   {
     "name": "Government House",
     "id": 150,
-    "longitude": -37.8275635886174,
-    "latitude": 144.976655130464,
+    "longitude": -37.827564,
+    "latitude": 144.976655,
     "tags": [
       "Residential Accommodation",
       "Dwelling (House)"
@@ -1512,8 +1512,8 @@
   {
     "name": "Royal Botanic Gardens",
     "id": 151,
-    "longitude": -37.8306631583233,
-    "latitude": 144.980850432751,
+    "longitude": -37.830664,
+    "latitude": 144.98085,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1522,8 +1522,8 @@
   {
     "name": "Yarra Park",
     "id": 152,
-    "longitude": -37.820469374101,
-    "latitude": 144.986671109615,
+    "longitude": -37.82047,
+    "latitude": 144.986671,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1532,8 +1532,8 @@
   {
     "name": "Coronial Services Centre of Victoria",
     "id": 153,
-    "longitude": -37.8243437355246,
-    "latitude": 144.96447462898,
+    "longitude": -37.824344,
+    "latitude": 144.964474,
     "tags": [
       "Office",
       "Office"
@@ -1542,8 +1542,8 @@
   {
     "name": "Victorian Insitute of Forensic Medicine",
     "id": 154,
-    "longitude": -37.8246924089335,
-    "latitude": 144.964979061564,
+    "longitude": -37.824693,
+    "latitude": 144.964979,
     "tags": [
       "Office",
       "Office"
@@ -1552,8 +1552,8 @@
   {
     "name": "Donor Tissue Bank of Victoria",
     "id": 155,
-    "longitude": -37.8248231859563,
-    "latitude": 144.965169035668,
+    "longitude": -37.824824,
+    "latitude": 144.965169,
     "tags": [
       "Office",
       "Office"
@@ -1562,8 +1562,8 @@
   {
     "name": "State Coroners Office",
     "id": 156,
-    "longitude": -37.8244982228756,
-    "latitude": 144.964675254819,
+    "longitude": -37.824499,
+    "latitude": 144.964675,
     "tags": [
       "Office",
       "Office"
@@ -1572,8 +1572,8 @@
   {
     "name": "Icehouse",
     "id": 157,
-    "longitude": -37.8121881194053,
-    "latitude": 144.935684018873,
+    "longitude": -37.812189,
+    "latitude": 144.935684,
     "tags": [
       "Leisure",
       "Indoor Recreation Facility"
@@ -1582,8 +1582,8 @@
   {
     "name": "Parliament Railway Station",
     "id": 158,
-    "longitude": -37.8121572789173,
-    "latitude": 144.973742010011,
+    "longitude": -37.812158,
+    "latitude": 144.973742,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1592,8 +1592,8 @@
   {
     "name": "Parliament Railway Station",
     "id": 159,
-    "longitude": -37.8127621113552,
-    "latitude": 144.973433796529,
+    "longitude": -37.812763,
+    "latitude": 144.973433,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1602,8 +1602,8 @@
   {
     "name": "Parliament Railway Station",
     "id": 160,
-    "longitude": -37.8095762219384,
-    "latitude": 144.972330132127,
+    "longitude": -37.809577,
+    "latitude": 144.97233,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1612,8 +1612,8 @@
   {
     "name": "Flagstaff Railway Station",
     "id": 161,
-    "longitude": -37.8116384403974,
-    "latitude": 144.9561186805,
+    "longitude": -37.811639,
+    "latitude": 144.956118,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1622,8 +1622,8 @@
   {
     "name": "Melbourne Central Railway Station",
     "id": 162,
-    "longitude": -37.8097759325888,
-    "latitude": 144.962670059539,
+    "longitude": -37.809776,
+    "latitude": 144.96267,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1632,8 +1632,8 @@
   {
     "name": "Melbourne Central Railway Station",
     "id": 163,
-    "longitude": -37.8105992402369,
-    "latitude": 144.96169061383,
+    "longitude": -37.8106,
+    "latitude": 144.96169,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1642,8 +1642,8 @@
   {
     "name": "Melbourne Central Railway Station",
     "id": 164,
-    "longitude": -37.8108930047401,
-    "latitude": 144.963100728702,
+    "longitude": -37.810894,
+    "latitude": 144.9631,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1652,8 +1652,8 @@
   {
     "name": "Flemington Racecourse Railway Station",
     "id": 165,
-    "longitude": -37.7869105822519,
-    "latitude": 144.908190706069,
+    "longitude": -37.786911,
+    "latitude": 144.90819,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1662,8 +1662,8 @@
   {
     "name": "Showgrounds Railway Station (Flemington)",
     "id": 166,
-    "longitude": -37.7834651216244,
-    "latitude": 144.914902626775,
+    "longitude": -37.783466,
+    "latitude": 144.914902,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1672,8 +1672,8 @@
   {
     "name": "Newmarket Railway Station",
     "id": 167,
-    "longitude": -37.7872726241965,
-    "latitude": 144.929059958114,
+    "longitude": -37.787273,
+    "latitude": 144.929059,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1682,8 +1682,8 @@
   {
     "name": "Athanaeum Theatre",
     "id": 168,
-    "longitude": -37.814954347831,
-    "latitude": 144.96732254212,
+    "longitude": -37.814955,
+    "latitude": 144.967322,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1692,8 +1692,8 @@
   {
     "name": "Alfred Hospital",
     "id": 169,
-    "longitude": -37.8462631206461,
-    "latitude": 144.981786260765,
+    "longitude": -37.846264,
+    "latitude": 144.981786,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -1702,8 +1702,8 @@
   {
     "name": "Riverside Park",
     "id": 170,
-    "longitude": -37.7948375315825,
-    "latitude": 144.915607065132,
+    "longitude": -37.794838,
+    "latitude": 144.915607,
     "tags": [
       "Leisure",
       "Outdoor Recreation Facility (Zoo, Golf Course)"
@@ -1712,8 +1712,8 @@
   {
     "name": "Darling Square",
     "id": 171,
-    "longitude": -37.81299206932,
-    "latitude": 144.989062559512,
+    "longitude": -37.812993,
+    "latitude": 144.989062,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1722,8 +1722,8 @@
   {
     "name": "Carlton Courthouse Theatre",
     "id": 172,
-    "longitude": -37.7976589943217,
-    "latitude": 144.968750113566,
+    "longitude": -37.797659,
+    "latitude": 144.96875,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1732,8 +1732,8 @@
   {
     "name": "Flagstaff Gardens",
     "id": 173,
-    "longitude": -37.8111222889277,
-    "latitude": 144.954696055235,
+    "longitude": -37.811123,
+    "latitude": 144.954696,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1742,8 +1742,8 @@
   {
     "name": "Melbourne Showgrounds",
     "id": 174,
-    "longitude": -37.7823097850883,
-    "latitude": 144.910822117306,
+    "longitude": -37.78231,
+    "latitude": 144.910822,
     "tags": [
       "Leisure",
       "Outdoor Recreation Facility (Zoo, Golf Course)"
@@ -1752,8 +1752,8 @@
   {
     "name": "North Melbourne Primary School",
     "id": 175,
-    "longitude": -37.7986737155551,
-    "latitude": 144.951065772876,
+    "longitude": -37.798674,
+    "latitude": 144.951065,
     "tags": [
       "Education Centre",
       "Primary Schools"
@@ -1762,8 +1762,8 @@
   {
     "name": "Her Majesty's Theatre",
     "id": 176,
-    "longitude": -37.8109975612842,
-    "latitude": 144.969520183129,
+    "longitude": -37.810998,
+    "latitude": 144.96952,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1772,8 +1772,8 @@
   {
     "name": "Comedy Theatre",
     "id": 177,
-    "longitude": -37.8102053945163,
-    "latitude": 144.97013311862,
+    "longitude": -37.810206,
+    "latitude": 144.970133,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1782,8 +1782,8 @@
   {
     "name": "La Mama Theatre",
     "id": 178,
-    "longitude": -37.7991304956733,
-    "latitude": 144.967669503083,
+    "longitude": -37.799131,
+    "latitude": 144.967669,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1792,8 +1792,8 @@
   {
     "name": "Kraft",
     "id": 179,
-    "longitude": -37.8262313085528,
-    "latitude": 144.923475698195,
+    "longitude": -37.826232,
+    "latitude": 144.923475,
     "tags": [
       "Industrial",
       "Industrial (Manufacturing)"
@@ -1802,8 +1802,8 @@
   {
     "name": "Fawkner Park",
     "id": 180,
-    "longitude": -37.8413996708186,
-    "latitude": 144.981625667877,
+    "longitude": -37.8414,
+    "latitude": 144.981625,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1812,8 +1812,8 @@
   {
     "name": "Fitzroy Gardens",
     "id": 181,
-    "longitude": -37.8129616331579,
-    "latitude": 144.980455714669,
+    "longitude": -37.812962,
+    "latitude": 144.980455,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1822,8 +1822,8 @@
   {
     "name": "Sinclair's Cottage",
     "id": 182,
-    "longitude": -37.8145407488014,
-    "latitude": 144.980554992725,
+    "longitude": -37.814541,
+    "latitude": 144.980554,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1832,8 +1832,8 @@
   {
     "name": "BIO 21 Institute",
     "id": 183,
-    "longitude": -37.7978743305343,
-    "latitude": 144.953780325865,
+    "longitude": -37.797875,
+    "latitude": 144.95378,
     "tags": [
       "Education Centre",
       "Tertiary (University)"
@@ -1842,8 +1842,8 @@
   {
     "name": "Enterprize Park",
     "id": 184,
-    "longitude": -37.820210269629,
-    "latitude": 144.959276859602,
+    "longitude": -37.820211,
+    "latitude": 144.959276,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -1852,8 +1852,8 @@
   {
     "name": "Victoria Police Museum",
     "id": 185,
-    "longitude": -37.8222182774409,
-    "latitude": 144.954039975197,
+    "longitude": -37.822219,
+    "latitude": 144.954039,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1862,8 +1862,8 @@
   {
     "name": "Immigration Museum",
     "id": 186,
-    "longitude": -37.8191798798062,
-    "latitude": 144.960426777129,
+    "longitude": -37.81918,
+    "latitude": 144.960426,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1872,8 +1872,8 @@
   {
     "name": "St Pauls Cathedral",
     "id": 187,
-    "longitude": -37.8169549012399,
-    "latitude": 144.967681647402,
+    "longitude": -37.816955,
+    "latitude": 144.967681,
     "tags": [
       "Places of worship",
       "Church"
@@ -1882,8 +1882,8 @@
   {
     "name": "Forum Theatre",
     "id": 188,
-    "longitude": -37.816485409696,
-    "latitude": 144.969386556998,
+    "longitude": -37.816486,
+    "latitude": 144.969386,
     "tags": [
       "Leisure",
       "Theatre Live"
@@ -1892,8 +1892,8 @@
   {
     "name": "Flinders Street Railway Station",
     "id": 189,
-    "longitude": -37.8179063007545,
-    "latitude": 144.967064817875,
+    "longitude": -37.817907,
+    "latitude": 144.967064,
     "tags": [
       "Transport",
       "Railway Station"
@@ -1902,8 +1902,8 @@
   {
     "name": "Melbourne Wholesale Fish Market",
     "id": 190,
-    "longitude": -37.8083471006041,
-    "latitude": 144.930613255612,
+    "longitude": -37.808348,
+    "latitude": 144.930613,
     "tags": [
       "Warehouse/Store",
       "Store Yard"
@@ -1912,8 +1912,8 @@
   {
     "name": "Melbourne Wholesale Fruit, Vegetable & Flower Market",
     "id": 191,
-    "longitude": -37.80687252157,
-    "latitude": 144.923287444259,
+    "longitude": -37.806873,
+    "latitude": 144.923287,
     "tags": [
       "Mixed Use",
       "Retail/Office/Carpark"
@@ -1922,8 +1922,8 @@
   {
     "name": "Fire Services Museum Victoria",
     "id": 192,
-    "longitude": -37.8085761281612,
-    "latitude": 144.975373745366,
+    "longitude": -37.808577,
+    "latitude": 144.975373,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1932,8 +1932,8 @@
   {
     "name": "Metropolitan Fire Brigade (MFB)",
     "id": 193,
-    "longitude": -37.8092318636838,
-    "latitude": 144.975247619376,
+    "longitude": -37.809232,
+    "latitude": 144.975247,
     "tags": [
       "Leisure",
       "Fire Station"
@@ -1942,8 +1942,8 @@
   {
     "name": "Royal Melbourne Hospital",
     "id": 194,
-    "longitude": -37.7993071664096,
-    "latitude": 144.956389746765,
+    "longitude": -37.799308,
+    "latitude": 144.956389,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -1952,8 +1952,8 @@
   {
     "name": "The Ian Potter Museum Of Art",
     "id": 195,
-    "longitude": -37.7973939595503,
-    "latitude": 144.964156669702,
+    "longitude": -37.797394,
+    "latitude": 144.964156,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1962,8 +1962,8 @@
   {
     "name": "University of Melbourne",
     "id": 196,
-    "longitude": -37.7982892284927,
-    "latitude": 144.96099520158,
+    "longitude": -37.79829,
+    "latitude": 144.960995,
     "tags": [
       "Education Centre",
       "Tertiary (University)"
@@ -1972,8 +1972,8 @@
   {
     "name": "Koorie Heritage Trust Inc",
     "id": 197,
-    "longitude": -37.8133854259085,
-    "latitude": 144.954027907736,
+    "longitude": -37.813386,
+    "latitude": 144.954027,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -1982,8 +1982,8 @@
   {
     "name": "Commonwealth Law Courts",
     "id": 198,
-    "longitude": -37.8123961677596,
-    "latitude": 144.955823833257,
+    "longitude": -37.812397,
+    "latitude": 144.955823,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -1992,8 +1992,8 @@
   {
     "name": "RMIT University",
     "id": 199,
-    "longitude": -37.8080795360545,
-    "latitude": 144.964452974798,
+    "longitude": -37.80808,
+    "latitude": 144.964452,
     "tags": [
       "Education Centre",
       "Tertiary (University)"
@@ -2002,8 +2002,8 @@
   {
     "name": "Melbourne Central",
     "id": 200,
-    "longitude": -37.8105371797142,
-    "latitude": 144.962749729496,
+    "longitude": -37.810538,
+    "latitude": 144.962749,
     "tags": [
       "Mixed Use",
       "Retail/Office/Carpark"
@@ -2012,8 +2012,8 @@
   {
     "name": "Melbourne Central Railway Station",
     "id": 201,
-    "longitude": -37.8100167030855,
-    "latitude": 144.963789344893,
+    "longitude": -37.810017,
+    "latitude": 144.963789,
     "tags": [
       "Transport",
       "Railway Station"
@@ -2022,8 +2022,8 @@
   {
     "name": "QV Village",
     "id": 202,
-    "longitude": -37.8106891897454,
-    "latitude": 144.965714574014,
+    "longitude": -37.81069,
+    "latitude": 144.965714,
     "tags": [
       "Mixed Use",
       "Retail/Office/Residential/Carpark"
@@ -2032,8 +2032,8 @@
   {
     "name": "Argyle Square",
     "id": 203,
-    "longitude": -37.8031480577285,
-    "latitude": 144.965761295089,
+    "longitude": -37.803149,
+    "latitude": 144.965761,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2042,8 +2042,8 @@
   {
     "name": "Piazza Italia",
     "id": 204,
-    "longitude": -37.8025164192523,
-    "latitude": 144.965863092947,
+    "longitude": -37.802517,
+    "latitude": 144.965863,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2052,8 +2052,8 @@
   {
     "name": "Macarthur Square",
     "id": 205,
-    "longitude": -37.7983318676737,
-    "latitude": 144.971514146104,
+    "longitude": -37.798332,
+    "latitude": 144.971514,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2062,8 +2062,8 @@
   {
     "name": "Murchinson Square",
     "id": 206,
-    "longitude": -37.8002735025371,
-    "latitude": 144.973059252203,
+    "longitude": -37.800274,
+    "latitude": 144.973059,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2072,8 +2072,8 @@
   {
     "name": "Parliament Reserve",
     "id": 207,
-    "longitude": -37.809852620638,
-    "latitude": 144.973462202839,
+    "longitude": -37.809853,
+    "latitude": 144.973462,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2082,8 +2082,8 @@
   {
     "name": "North Melbourne Recreation Centre (Aquatic)",
     "id": 208,
-    "longitude": -37.7999470049655,
-    "latitude": 144.943290801869,
+    "longitude": -37.799948,
+    "latitude": 144.94329,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -2092,8 +2092,8 @@
   {
     "name": "North Melbourne Football Club",
     "id": 209,
-    "longitude": -37.799771364073,
-    "latitude": 144.940963510723,
+    "longitude": -37.799772,
+    "latitude": 144.940963,
     "tags": [
       "Office",
       "Office"
@@ -2102,8 +2102,8 @@
   {
     "name": "North Melbourne Recreation Centre (Gymnasium)",
     "id": 210,
-    "longitude": -37.7997051197931,
-    "latitude": 144.940368286395,
+    "longitude": -37.799706,
+    "latitude": 144.940368,
     "tags": [
       "Leisure",
       "Gymnasium/Health Club"
@@ -2112,8 +2112,8 @@
   {
     "name": "Carlton Baths",
     "id": 211,
-    "longitude": -37.7934377042609,
-    "latitude": 144.971696548624,
+    "longitude": -37.793438,
+    "latitude": 144.971696,
     "tags": [
       "Leisure",
       "Indoor Recreation Facility"
@@ -2122,8 +2122,8 @@
   {
     "name": "City Baths",
     "id": 212,
-    "longitude": -37.8071585350561,
-    "latitude": 144.963189789721,
+    "longitude": -37.807159,
+    "latitude": 144.963189,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -2132,8 +2132,8 @@
   {
     "name": "Westgate Park",
     "id": 213,
-    "longitude": -37.8314918578874,
-    "latitude": 144.908824792698,
+    "longitude": -37.831492,
+    "latitude": 144.908824,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2142,8 +2142,8 @@
   {
     "name": "North Melbourne Railway Station",
     "id": 214,
-    "longitude": -37.8073823625058,
-    "latitude": 144.942429848025,
+    "longitude": -37.807383,
+    "latitude": 144.942429,
     "tags": [
       "Transport",
       "Railway Station"
@@ -2152,8 +2152,8 @@
   {
     "name": "Cooks' Cottage",
     "id": 215,
-    "longitude": -37.8144604899837,
-    "latitude": 144.979471339826,
+    "longitude": -37.814461,
+    "latitude": 144.979471,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -2162,8 +2162,8 @@
   {
     "name": "Conservatory",
     "id": 216,
-    "longitude": -37.814002127195,
-    "latitude": 144.9785597431,
+    "longitude": -37.814003,
+    "latitude": 144.978559,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -2172,8 +2172,8 @@
   {
     "name": "Melbourne Aquarium",
     "id": 217,
-    "longitude": -37.8209627824685,
-    "latitude": 144.958425696055,
+    "longitude": -37.820963,
+    "latitude": 144.958425,
     "tags": [
       "Purpose Built",
       "Aquarium"
@@ -2182,8 +2182,8 @@
   {
     "name": "Westpac Centre",
     "id": 218,
-    "longitude": -37.8242456858593,
-    "latitude": 144.979720306309,
+    "longitude": -37.824246,
+    "latitude": 144.97972,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -2192,8 +2192,8 @@
   {
     "name": "Royal Exhibition Building",
     "id": 219,
-    "longitude": -37.80460262432,
-    "latitude": 144.971521914952,
+    "longitude": -37.804603,
+    "latitude": 144.971521,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -2202,8 +2202,8 @@
   {
     "name": "Melbourne Childrens Court",
     "id": 220,
-    "longitude": -37.8125077646598,
-    "latitude": 144.958298873269,
+    "longitude": -37.812508,
+    "latitude": 144.958298,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -2212,8 +2212,8 @@
   {
     "name": "Etihad Stadium",
     "id": 221,
-    "longitude": -37.8161760471742,
-    "latitude": 144.947496254547,
+    "longitude": -37.816177,
+    "latitude": 144.947496,
     "tags": [
       "Leisure",
       "Major Sports & Recreation Facility"
@@ -2222,8 +2222,8 @@
   {
     "name": "Eureka Skydeck 88",
     "id": 222,
-    "longitude": -37.8216187583314,
-    "latitude": 144.964622218598,
+    "longitude": -37.821619,
+    "latitude": 144.964622,
     "tags": [
       "Leisure",
       "Observation Tower/Wheel"
@@ -2232,8 +2232,8 @@
   {
     "name": "Eureka Tower",
     "id": 223,
-    "longitude": -37.8215157539717,
-    "latitude": 144.964456721965,
+    "longitude": -37.821516,
+    "latitude": 144.964456,
     "tags": [
       "Mixed Use",
       "Retail/Residential"
@@ -2242,8 +2242,8 @@
   {
     "name": "County Court Melbourne",
     "id": 224,
-    "longitude": -37.8132011619962,
-    "latitude": 144.957734246387,
+    "longitude": -37.813202,
+    "latitude": 144.957734,
     "tags": [
       "Leisure",
       "Public Buildings"
@@ -2252,8 +2252,8 @@
   {
     "name": "Peter Maccallum Cancer Institute",
     "id": 225,
-    "longitude": -37.8114766732026,
-    "latitude": 144.977400949063,
+    "longitude": -37.811477,
+    "latitude": 144.9774,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -2262,8 +2262,8 @@
   {
     "name": "Royal Dental Hospital",
     "id": 226,
-    "longitude": -37.7995065904416,
-    "latitude": 144.964526842767,
+    "longitude": -37.799507,
+    "latitude": 144.964526,
     "tags": [
       "Health Services",
       "Public Hospital"
@@ -2272,8 +2272,8 @@
   {
     "name": "Sandridge Rail Bridge",
     "id": 227,
-    "longitude": -37.8201763042794,
-    "latitude": 144.96298113724,
+    "longitude": -37.820177,
+    "latitude": 144.962981,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2282,8 +2282,8 @@
   {
     "name": "Freshwater Place",
     "id": 228,
-    "longitude": -37.8219745489446,
-    "latitude": 144.96246144843,
+    "longitude": -37.821975,
+    "latitude": 144.962461,
     "tags": [
       "Mixed Use",
       "Retail/Office/Residential/Carpark"
@@ -2292,8 +2292,8 @@
   {
     "name": "Melbourne Visitor Centre",
     "id": 229,
-    "longitude": -37.8177352402006,
-    "latitude": 144.967937138226,
+    "longitude": -37.817736,
+    "latitude": 144.967937,
     "tags": [
       "Leisure",
       "Visitor Centre"
@@ -2302,8 +2302,8 @@
   {
     "name": "Australian Centre For The Moving Image (ACMI)",
     "id": 230,
-    "longitude": -37.8176107327202,
-    "latitude": 144.969070431323,
+    "longitude": -37.817611,
+    "latitude": 144.96907,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -2312,8 +2312,8 @@
   {
     "name": "Webb Bridge",
     "id": 231,
-    "longitude": -37.8232052384507,
-    "latitude": 144.947291011905,
+    "longitude": -37.823206,
+    "latitude": 144.947291,
     "tags": [
       "Transport",
       "Bridge"
@@ -2322,8 +2322,8 @@
   {
     "name": "Dallas Brooks Centre",
     "id": 232,
-    "longitude": -37.8097374138234,
-    "latitude": 144.981383411592,
+    "longitude": -37.809738,
+    "latitude": 144.981383,
     "tags": [
       "Leisure",
       "Function/Conference/Exhibition Centre"
@@ -2332,8 +2332,8 @@
   {
     "name": "Melbourne Girls Grammar School",
     "id": 233,
-    "longitude": -37.8315364518803,
-    "latitude": 144.985089428348,
+    "longitude": -37.831537,
+    "latitude": 144.985089,
     "tags": [
       "Education Centre",
       "School - Primary and Secondary Education"
@@ -2342,8 +2342,8 @@
   {
     "name": "Myer",
     "id": 234,
-    "longitude": -37.8135911985281,
-    "latitude": 144.963855087868,
+    "longitude": -37.813592,
+    "latitude": 144.963855,
     "tags": [
       "Retail",
       "Department Store"
@@ -2352,8 +2352,8 @@
   {
     "name": "David Jones",
     "id": 235,
-    "longitude": -37.8133127260638,
-    "latitude": 144.964373486798,
+    "longitude": -37.813313,
+    "latitude": 144.964373,
     "tags": [
       "Retail",
       "Department Store"
@@ -2362,8 +2362,8 @@
   {
     "name": "Lincoln Square",
     "id": 236,
-    "longitude": -37.8027919689732,
-    "latitude": 144.962760852233,
+    "longitude": -37.802792,
+    "latitude": 144.96276,
     "tags": [
       "Leisure",
       "Informal Outdoor Facility (Park/Garden/Reserve)"
@@ -2372,8 +2372,8 @@
   {
     "name": "Epworth Freemasons Hospital",
     "id": 237,
-    "longitude": -37.8109710654051,
-    "latitude": 144.98370007659,
+    "longitude": -37.810972,
+    "latitude": 144.9837,
     "tags": [
       "Health Services",
       "Private Hospital"
@@ -2382,8 +2382,8 @@
   {
     "name": "Bishopscourt",
     "id": 238,
-    "longitude": -37.8132921649416,
-    "latitude": 144.98350690799,
+    "longitude": -37.813293,
+    "latitude": 144.983506,
     "tags": [
       "Residential Accommodation",
       "Dwelling (House)"
@@ -2392,8 +2392,8 @@
   {
     "name": "Mercy Private Hospital",
     "id": 239,
-    "longitude": -37.811896809802,
-    "latitude": 144.984435746587,
+    "longitude": -37.811897,
+    "latitude": 144.984435,
     "tags": [
       "Health Services",
       "Medical Services"
@@ -2402,8 +2402,8 @@
   {
     "name": "The Museum Of Australian Chinese History",
     "id": 240,
-    "longitude": -37.8107686127655,
-    "latitude": 144.96923385414,
+    "longitude": -37.810769,
+    "latitude": 144.969233,
     "tags": [
       "Leisure",
       "Art Gallery/Museum"
@@ -2412,8 +2412,8 @@
   {
     "name": "ANZ 'Gothic' Bank",
     "id": 241,
-    "longitude": -37.8161580666029,
-    "latitude": 144.961673719242,
+    "longitude": -37.816159,
+    "latitude": 144.961673,
     "tags": [
       "Mixed Use",
       "Retail/Office/Carpark"

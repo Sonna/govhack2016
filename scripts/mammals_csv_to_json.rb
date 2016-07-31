@@ -124,6 +124,9 @@ lines.each_with_index do |line, index|
     "mammals"
   ]
 
+  line[:longitude] = (line[:longitude] * 1_000_000).floor / 1_000_000.0
+  line[:latitude]  = (line[:latitude] * 1_000_000).floor / 1_000_000.0
+
   HEADERS_TO_DELETE.each { |header| line.delete(header) }
 end
 

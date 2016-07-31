@@ -97,7 +97,7 @@ lines.each_with_index do |line, index|
   line[:id] = index
   # "(-37.7881645889621, 144.939277838304)"
   line[:longitude], line[:latitude] =
-    line[:coordinates].gsub(%r{[()""]}, "").split(", ").map { |coordinate| to_numeric(coordinate) }
+    line[:coordinates].gsub(%r{[()""]}, "").split(", ").map { |coordinate| (to_numeric(coordinate) * 1_000_000).floor / 1_000_000.0 }
   # =>
   # longitude: -37.7881645889621,
   # latitude: 144.939277838304
