@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Flemington Bridge Railway Station",
+    "id": 0,
+    "longitude": -37.788165,
+    "latitude": 144.939277,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Southern Cross Railway Station",
+    "id": 60,
+    "longitude": -37.818164,
+    "latitude": 144.952944,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flagstaff Railway Station",
+    "id": 72,
+    "longitude": -37.812236,
+    "latitude": 144.956318,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 135,
+    "longitude": -37.811607,
+    "latitude": 144.973017,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Richmond Railway Station (Richmond) - Train stop",
+    "id": 136,
+    "longitude": -37.8239,
+    "latitude": 144.9894,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Jolimont-MCG Railway Station (East Melbourne) - Train stop",
+    "id": 137,
+    "longitude": -37.816566,
+    "latitude": 144.983641,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Macaulay Railway Station (North Melbourne) - Train stop",
+    "id": 140,
+    "longitude": -37.794965,
+    "latitude": 144.93619,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Kensington Railway Station",
+    "id": 141,
+    "longitude": -37.793915,
+    "latitude": 144.93071,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "South Kensington Railway Station",
+    "id": 142,
+    "longitude": -37.799728,
+    "latitude": 144.925837,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Royal Park Railway Station",
+    "id": 145,
+    "longitude": -37.781269,
+    "latitude": 144.951667,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 158,
+    "longitude": -37.812158,
+    "latitude": 144.973742,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 159,
+    "longitude": -37.812763,
+    "latitude": 144.973433,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Parliament Railway Station",
+    "id": 160,
+    "longitude": -37.809577,
+    "latitude": 144.97233,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flagstaff Railway Station",
+    "id": 161,
+    "longitude": -37.811639,
+    "latitude": 144.956118,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 162,
+    "longitude": -37.809776,
+    "latitude": 144.96267,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 163,
+    "longitude": -37.8106,
+    "latitude": 144.96169,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 164,
+    "longitude": -37.810894,
+    "latitude": 144.9631,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flemington Racecourse Railway Station",
+    "id": 165,
+    "longitude": -37.786911,
+    "latitude": 144.90819,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Showgrounds Railway Station (Flemington)",
+    "id": 166,
+    "longitude": -37.783466,
+    "latitude": 144.914902,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Newmarket Railway Station",
+    "id": 167,
+    "longitude": -37.787273,
+    "latitude": 144.929059,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Flinders Street Railway Station",
+    "id": 189,
+    "longitude": -37.817907,
+    "latitude": 144.967064,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Central Railway Station",
+    "id": 201,
+    "longitude": -37.810017,
+    "latitude": 144.963789,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "North Melbourne Railway Station",
+    "id": 214,
+    "longitude": -37.807383,
+    "latitude": 144.942429,
+    "tags": [
+      "Transport",
+      "Railway Station",
+      "Landmarks"
+    ]
+  }
+]

@@ -1,0 +1,743 @@
+[
+  {
+    "id": 804,
+    "name": "Toorongo Falls Picnic Area",
+    "image": null,
+    "description": null,
+    "latitude": 146.045646,
+    "longitude": -37.849696,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 805,
+    "name": "Running Creek Bottom",
+    "image": null,
+    "description": null,
+    "latitude": 146.230058,
+    "longitude": -37.23694,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Matlock Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 146.215577,
+    "longitude": -37.601383,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1136,
+    "name": "Ditchfield Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 143.273064,
+    "longitude": -37.317637,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1138,
+    "name": "Toorongo Falls Site Two",
+    "image": null,
+    "description": null,
+    "latitude": 146.042399,
+    "longitude": -37.8527,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1140,
+    "name": "Coopers Creek Camping Area Two Male",
+    "image": null,
+    "description": null,
+    "latitude": 146.426414,
+    "longitude": -37.980099,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1144,
+    "name": "Poplars One",
+    "image": null,
+    "description": null,
+    "latitude": 145.994091,
+    "longitude": -37.820945,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1145,
+    "name": "Kirbys Gents",
+    "image": null,
+    "description": null,
+    "latitude": 145.991767,
+    "longitude": -37.158388,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1177,
+    "name": "N/a",
+    "image": null,
+    "description": null,
+    "latitude": 146.130685,
+    "longitude": -37.33232,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1183,
+    "name": "Big Pats Recreation Area",
+    "image": null,
+    "description": null,
+    "latitude": 145.755654,
+    "longitude": -37.77065,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1184,
+    "name": "Sheep Dip Flat",
+    "image": null,
+    "description": "female",
+    "latitude": 145.999032,
+    "longitude": -37.17871,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1187,
+    "name": "Skipworth Old 4 Pan",
+    "image": null,
+    "description": null,
+    "latitude": 146.142773,
+    "longitude": -37.34582,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1188,
+    "name": "Toorongo One",
+    "image": null,
+    "description": null,
+    "latitude": 146.041279,
+    "longitude": -37.8549,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1190,
+    "name": "The Glut Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 143.268708,
+    "longitude": -37.293366,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1193,
+    "name": "Taylors",
+    "image": null,
+    "description": null,
+    "latitude": 145.986416,
+    "longitude": -37.142205,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1197,
+    "name": "Annya Men",
+    "image": null,
+    "description": null,
+    "latitude": 141.582548,
+    "longitude": -38.01789,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1199,
+    "name": "Long Gully Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 145.987412,
+    "longitude": -37.14844,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1204,
+    "name": "Richards Men",
+    "image": null,
+    "description": null,
+    "latitude": 143.274736,
+    "longitude": -37.300917,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1219,
+    "name": "Twelve Mile",
+    "image": null,
+    "description": null,
+    "latitude": 146.228714,
+    "longitude": -37.384729,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1225,
+    "name": "Wentworths Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 145.979281,
+    "longitude": -37.13895,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1227,
+    "name": "Coopers Creek Camping Area Two Female",
+    "image": null,
+    "description": null,
+    "latitude": 146.426259,
+    "longitude": -37.98005,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1231,
+    "name": "Parkers Flat",
+    "image": null,
+    "description": null,
+    "latitude": 145.924412,
+    "longitude": -37.12152,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1235,
+    "name": "Harrops Flat",
+    "image": null,
+    "description": null,
+    "latitude": 145.938159,
+    "longitude": -37.12442,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1236,
+    "name": "Stringbark",
+    "image": null,
+    "description": null,
+    "latitude": 146.201356,
+    "longitude": -36.87273,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1244,
+    "name": "Smiths Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 143.293166,
+    "longitude": -37.297751,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1250,
+    "name": "Coopers Creek Camping One Female",
+    "image": null,
+    "description": null,
+    "latitude": 146.423813,
+    "longitude": -37.98076,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1255,
+    "name": "Chinamans",
+    "image": null,
+    "description": null,
+    "latitude": 143.199399,
+    "longitude": -37.249235,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1260,
+    "name": "Sheep Dip Flat",
+    "image": null,
+    "description": "male",
+    "latitude": 145.998738,
+    "longitude": -37.17843,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1261,
+    "name": "Blackwood",
+    "image": null,
+    "description": "flushing",
+    "latitude": 145.5533,
+    "longitude": -37.38961,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1263,
+    "name": "Double Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 141.283612,
+    "longitude": -37.92503,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1275,
+    "name": "Gaffney",
+    "image": null,
+    "description": null,
+    "latitude": 146.192445,
+    "longitude": -37.47846,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1276,
+    "name": "Richards Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 143.274606,
+    "longitude": -37.300925,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1279,
+    "name": "Owens Hill",
+    "image": null,
+    "description": null,
+    "latitude": 145.914799,
+    "longitude": -37.11679,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1349,
+    "name": "Waterfall",
+    "image": null,
+    "description": null,
+    "latitude": 143.366893,
+    "longitude": -37.0986,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1353,
+    "name": "Fergusons",
+    "image": null,
+    "description": null,
+    "latitude": 142.060244,
+    "longitude": -37.29535,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1354,
+    "name": "Frenchman Creek Camping Area",
+    "image": null,
+    "description": null,
+    "latitude": 146.058163,
+    "longitude": -37.52265,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1355,
+    "name": "The Glut Men",
+    "image": null,
+    "description": null,
+    "latitude": 143.268792,
+    "longitude": -37.29331,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1357,
+    "name": "Jones",
+    "image": null,
+    "description": null,
+    "latitude": 146.144657,
+    "longitude": -36.84714,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1358,
+    "name": "Coopers Creek Camping One Male",
+    "image": null,
+    "description": null,
+    "latitude": 146.423947,
+    "longitude": -37.980753,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1366,
+    "name": "Beauchamp",
+    "image": null,
+    "description": null,
+    "latitude": 143.606956,
+    "longitude": -38.651723,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1390,
+    "name": "Bull Creek Toilet Block",
+    "image": null,
+    "description": "flushing",
+    "latitude": 145.571213,
+    "longitude": -37.429283,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1391,
+    "name": "Victoria Mill Gents",
+    "image": null,
+    "description": null,
+    "latitude": 143.227631,
+    "longitude": -37.264286,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1396,
+    "name": "Blue Gum",
+    "image": null,
+    "description": null,
+    "latitude": 145.997838,
+    "longitude": -37.17407,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1397,
+    "name": "Ditchfield Gents",
+    "image": null,
+    "description": null,
+    "latitude": 143.272621,
+    "longitude": -37.317611,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1398,
+    "name": "Annya Women",
+    "image": null,
+    "description": null,
+    "latitude": 141.582679,
+    "longitude": -38.018012,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1403,
+    "name": "The Orchard",
+    "image": null,
+    "description": "male",
+    "latitude": 146.007151,
+    "longitude": -37.18366,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1405,
+    "name": "Skipworth Seasonal Area Double",
+    "image": null,
+    "description": null,
+    "latitude": 146.14169,
+    "longitude": -37.34455,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1410,
+    "name": "Poplars Two",
+    "image": null,
+    "description": null,
+    "latitude": 145.993864,
+    "longitude": -37.81989,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1413,
+    "name": "Snakes",
+    "image": null,
+    "description": null,
+    "latitude": 146.239756,
+    "longitude": -37.41672,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1416,
+    "name": "Steavenson Falls Toilet",
+    "image": null,
+    "description": "flushing and sewered",
+    "latitude": 145.772204,
+    "longitude": -37.529788,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1419,
+    "name": "Island",
+    "image": null,
+    "description": null,
+    "latitude": 145.963174,
+    "longitude": -37.12537,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1423,
+    "name": "James",
+    "image": null,
+    "description": null,
+    "latitude": 145.947076,
+    "longitude": -36.83662,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1428,
+    "name": "Running Creek Top",
+    "image": null,
+    "description": null,
+    "latitude": 146.231362,
+    "longitude": -37.23664,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1431,
+    "name": "Stockmans Reward Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 146.012124,
+    "longitude": -37.52588,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "PUMP OUT SEALED UNIT"
+    ]
+  },
+  {
+    "id": 1433,
+    "name": "Link Road",
+    "image": null,
+    "description": null,
+    "latitude": 146.123351,
+    "longitude": -37.79022,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1435,
+    "name": "Victoria Mill Ladies",
+    "image": null,
+    "description": null,
+    "latitude": 143.227453,
+    "longitude": -37.26415,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  },
+  {
+    "id": 1582,
+    "name": "Cullitons",
+    "image": null,
+    "description": "site to be closed",
+    "latitude": 145.986945,
+    "longitude": -37.1451,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "EARTH PIT"
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Myer",
+    "id": 234,
+    "longitude": -37.813592,
+    "latitude": 144.963855,
+    "tags": [
+      "Retail",
+      "Department Store",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "David Jones",
+    "id": 235,
+    "longitude": -37.813313,
+    "latitude": 144.964373,
+    "tags": [
+      "Retail",
+      "Department Store",
+      "Leisure"
+    ]
+  }
+]

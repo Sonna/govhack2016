@@ -1,0 +1,24 @@
+[
+  {
+    "name": "QV Village",
+    "id": 202,
+    "longitude": -37.81069,
+    "latitude": 144.965714,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Freshwater Place",
+    "id": 228,
+    "longitude": -37.821975,
+    "latitude": 144.962461,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  }
+]

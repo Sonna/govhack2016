@@ -1,0 +1,80 @@
+[
+  {
+    "id": 804,
+    "name": "Toorongo Falls Picnic Area",
+    "image": null,
+    "description": null,
+    "latitude": 146.045646,
+    "longitude": -37.849696,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Matlock Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 146.215577,
+    "longitude": -37.601383,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 817,
+    "name": "Ross Creek Trail Bike Visitor Area",
+    "image": null,
+    "description": null,
+    "latitude": 143.728774,
+    "longitude": -37.686579,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1263,
+    "name": "Double Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 141.283612,
+    "longitude": -37.92503,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1390,
+    "name": "Bull Creek Toilet Block",
+    "image": null,
+    "description": "flushing",
+    "latitude": 145.571213,
+    "longitude": -37.429283,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  },
+  {
+    "id": 1416,
+    "name": "Steavenson Falls Toilet",
+    "image": null,
+    "description": "flushing and sewered",
+    "latitude": 145.772204,
+    "longitude": -37.529788,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "SEPTIC TANK"
+    ]
+  }
+]

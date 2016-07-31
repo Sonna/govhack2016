@@ -1,0 +1,302 @@
+[
+  {
+    "name": "St Francis Church",
+    "id": 4,
+    "longitude": -37.811885,
+    "latitude": 144.962422,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Wesley Church",
+    "id": 5,
+    "longitude": -37.810158,
+    "latitude": 144.968168,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Augustines Church",
+    "id": 6,
+    "longitude": -37.816975,
+    "latitude": 144.954862,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St James Church",
+    "id": 7,
+    "longitude": -37.810129,
+    "latitude": 144.952468,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Mary's Anglican Church",
+    "id": 8,
+    "longitude": -37.803167,
+    "latitude": 144.953761,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Romanian Orthodox",
+    "id": 9,
+    "longitude": -37.805231,
+    "latitude": 144.966986,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Welsh Presbyterian Church",
+    "id": 10,
+    "longitude": -37.810448,
+    "latitude": 144.959873,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Church of Christ",
+    "id": 11,
+    "longitude": -37.810453,
+    "latitude": 144.963889,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Scots Church",
+    "id": 12,
+    "longitude": -37.814569,
+    "latitude": 144.968551,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Michael's Uniting Church",
+    "id": 13,
+    "longitude": -37.814386,
+    "latitude": 144.969174,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Greek Orthodox Church",
+    "id": 14,
+    "longitude": -37.808807,
+    "latitude": 144.978259,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Peter's Eastern Hill",
+    "id": 15,
+    "longitude": -37.809709,
+    "latitude": 144.975259,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Lutheran Trinity Church",
+    "id": 16,
+    "longitude": -37.810976,
+    "latitude": 144.975729,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Holy Trinity",
+    "id": 17,
+    "longitude": -37.814067,
+    "latitude": 144.983197,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Johns Lutheran Church",
+    "id": 18,
+    "longitude": -37.82094,
+    "latitude": 144.967121,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "North Melbourne Uniting",
+    "id": 19,
+    "longitude": -37.803554,
+    "latitude": 144.947671,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Melbourne Unitarian Church",
+    "id": 20,
+    "longitude": -37.811449,
+    "latitude": 144.984664,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "All Nations Uniting Church",
+    "id": 21,
+    "longitude": -37.795916,
+    "latitude": 144.968981,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Our Lady of Lebanon Church",
+    "id": 22,
+    "longitude": -37.802577,
+    "latitude": 144.969334,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Michaels",
+    "id": 23,
+    "longitude": -37.794052,
+    "latitude": 144.945399,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Ukranian Catholic Cathedral",
+    "id": 24,
+    "longitude": -37.796309,
+    "latitude": 144.944313,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Alban Anglican Church",
+    "id": 25,
+    "longitude": -37.794217,
+    "latitude": 144.941614,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Christ Church Kensington",
+    "id": 26,
+    "longitude": -37.793211,
+    "latitude": 144.927295,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Holy Rosary",
+    "id": 27,
+    "longitude": -37.794809,
+    "latitude": 144.928362,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Collins Street Baptist Church",
+    "id": 28,
+    "longitude": -37.814702,
+    "latitude": 144.968072,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Thomas Aquinas Church",
+    "id": 29,
+    "longitude": -37.835308,
+    "latitude": 144.976809,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "South Yarra Presbyterian Church",
+    "id": 30,
+    "longitude": -37.840748,
+    "latitude": 144.985626,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "The Parish of Christ Church South Yarra",
+    "id": 31,
+    "longitude": -37.838628,
+    "latitude": 144.986009,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Patricks Cathedral",
+    "id": 86,
+    "longitude": -37.810115,
+    "latitude": 144.975901,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Pauls Cathedral",
+    "id": 187,
+    "longitude": -37.816955,
+    "latitude": 144.967681,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  }
+]

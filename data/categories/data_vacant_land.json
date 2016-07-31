@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Melbourne International Karting Complex",
+    "id": 81,
+    "longitude": -37.831075,
+    "latitude": 144.913822,
+    "tags": [
+      "Vacant Land",
+      "Vacant Land - Undeveloped Site",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Harbour Town",
+    "id": 105,
+    "longitude": -37.813926,
+    "latitude": 144.938123,
+    "tags": [
+      "Vacant Land",
+      "Current Construction Site",
+      "Huts and shelters",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Railway Good Shed No 2",
+    "id": 117,
+    "longitude": -37.821138,
+    "latitude": 144.951378,
+    "tags": [
+      "Vacant Land",
+      "Current Construction Site - Commercial",
+      "Huts and shelters",
+      "Landmarks"
+    ]
+  }
+]

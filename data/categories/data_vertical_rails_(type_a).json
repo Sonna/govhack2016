@@ -1,0 +1,41 @@
+[
+  {
+    "id": 371,
+    "name": null,
+    "image": null,
+    "description": "quarry fence",
+    "latitude": 146.734004,
+    "longitude": -36.569573,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Vertical Rails (Type A)"
+    ]
+  },
+  {
+    "id": 979,
+    "name": null,
+    "image": null,
+    "description": "barrier handrail",
+    "latitude": 148.783979,
+    "longitude": -37.16295,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Vertical Rails (Type A)"
+    ]
+  },
+  {
+    "id": 1132,
+    "name": null,
+    "image": null,
+    "description": "barrier handrail",
+    "latitude": 148.784519,
+    "longitude": -37.162781,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Vertical Rails (Type A)"
+    ]
+  }
+]

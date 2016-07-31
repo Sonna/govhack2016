@@ -1,0 +1,62 @@
+[
+  {
+    "id": 66,
+    "name": "South Face Road Trail Bike Area",
+    "image": null,
+    "description": null,
+    "latitude": 146.390571,
+    "longitude": -37.93143,
+    "tags": [
+      "ASSET",
+      "Trail Bike"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Paddys Swamp",
+    "image": null,
+    "description": null,
+    "latitude": 143.984617,
+    "longitude": -38.363024,
+    "tags": [
+      "ASSET",
+      "Trail Bike"
+    ]
+  },
+  {
+    "id": 618,
+    "name": "Latrobe",
+    "image": null,
+    "description": null,
+    "latitude": 146.034446,
+    "longitude": -37.99939,
+    "tags": [
+      "ASSET",
+      "Trail Bike"
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Mt Disappointment Trailbike Visitor Area Shelter",
+    "image": null,
+    "description": null,
+    "latitude": 145.143637,
+    "longitude": -37.31849,
+    "tags": [
+      "ASSET",
+      "Trail Bike"
+    ]
+  },
+  {
+    "id": 1382,
+    "name": "Limberlost",
+    "image": null,
+    "description": null,
+    "latitude": 145.881089,
+    "longitude": -37.883851,
+    "tags": [
+      "ASSET",
+      "Trail Bike"
+    ]
+  }
+]

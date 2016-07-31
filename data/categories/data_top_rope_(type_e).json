@@ -1,0 +1,28 @@
+[
+  {
+    "id": 717,
+    "name": null,
+    "image": null,
+    "description": "steel post and chain x5m",
+    "latitude": 145.572754,
+    "longitude": -37.45813,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Top Rope (Type E)"
+    ]
+  },
+  {
+    "id": 1168,
+    "name": null,
+    "image": null,
+    "description": "timber bollard with steel rope",
+    "latitude": 145.571568,
+    "longitude": -37.4242,
+    "tags": [
+      "ASSET",
+      "Hand Rail Type",
+      "Top Rope (Type E)"
+    ]
+  }
+]

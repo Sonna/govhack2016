@@ -1,0 +1,152 @@
+[
+  {
+    "name": "FairFax Studio",
+    "id": 54,
+    "longitude": -37.821669,
+    "latitude": 144.968836,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Playhouse",
+    "id": 55,
+    "longitude": -37.821813,
+    "latitude": 144.968337,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "State Theatre",
+    "id": 56,
+    "longitude": -37.821281,
+    "latitude": 144.968469,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "St Martins Youth Arts Centre",
+    "id": 58,
+    "longitude": -37.835243,
+    "latitude": 144.981142,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Princess Theatre",
+    "id": 61,
+    "longitude": -37.810726,
+    "latitude": 144.972326,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Regent Theatre",
+    "id": 65,
+    "longitude": -37.816002,
+    "latitude": 144.967916,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Malthouse Theatre",
+    "id": 85,
+    "longitude": -37.827177,
+    "latitude": 144.966936,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "MTC Theatre",
+    "id": 126,
+    "longitude": -37.824267,
+    "latitude": 144.968174,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Hamer Hall",
+    "id": 130,
+    "longitude": -37.819991,
+    "latitude": 144.967992,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Athanaeum Theatre",
+    "id": 168,
+    "longitude": -37.814955,
+    "latitude": 144.967322,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Carlton Courthouse Theatre",
+    "id": 172,
+    "longitude": -37.797659,
+    "latitude": 144.96875,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Her Majesty's Theatre",
+    "id": 176,
+    "longitude": -37.810998,
+    "latitude": 144.96952,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Comedy Theatre",
+    "id": 177,
+    "longitude": -37.810206,
+    "latitude": 144.970133,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "La Mama Theatre",
+    "id": 178,
+    "longitude": -37.799131,
+    "latitude": 144.967669,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Forum Theatre",
+    "id": 188,
+    "longitude": -37.816486,
+    "latitude": 144.969386,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  }
+]

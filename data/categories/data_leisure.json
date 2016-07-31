@@ -1,0 +1,1566 @@
+[
+  {
+    "name": "Council House 2 (CH2)",
+    "id": 1,
+    "longitude": -37.81426,
+    "latitude": 144.966638,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "The Melbourne Athenaeum Library",
+    "id": 2,
+    "longitude": -37.814886,
+    "latitude": 144.967291,
+    "tags": [
+      "Leisure",
+      "Library"
+    ]
+  },
+  {
+    "name": "Carlton Gardens South",
+    "id": 3,
+    "longitude": -37.806069,
+    "latitude": 144.971266,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 34,
+    "longitude": -37.816485,
+    "latitude": 144.966486,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 35,
+    "longitude": -37.800313,
+    "latitude": 144.954697,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 36,
+    "longitude": -37.821978,
+    "latitude": 144.953398,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Visitor Booth",
+    "id": 37,
+    "longitude": -37.813953,
+    "latitude": 144.964425,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "State Netball Hockey Centre",
+    "id": 38,
+    "longitude": -37.785787,
+    "latitude": 144.94758,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "University Square",
+    "id": 39,
+    "longitude": -37.800411,
+    "latitude": 144.960398,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Royal Park Golf Course",
+    "id": 41,
+    "longitude": -37.781918,
+    "latitude": 144.956309,
+    "tags": [
+      "Leisure",
+      "Private Sports Club/Facility"
+    ]
+  },
+  {
+    "name": "Powlett Reserve",
+    "id": 42,
+    "longitude": -37.811693,
+    "latitude": 144.987275,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Melbourne General Cemetery",
+    "id": 43,
+    "longitude": -37.78919,
+    "latitude": 144.965785,
+    "tags": [
+      "Leisure",
+      "Cemetery",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Carlton Football Club",
+    "id": 44,
+    "longitude": -37.784087,
+    "latitude": 144.961967,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Visy Park",
+    "id": 45,
+    "longitude": -37.783431,
+    "latitude": 144.961982,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Queen Victoria Market",
+    "id": 46,
+    "longitude": -37.807501,
+    "latitude": 144.957158,
+    "tags": [
+      "Retail",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Carlton Gardens North",
+    "id": 49,
+    "longitude": -37.80177,
+    "latitude": 144.971997,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Old Melbourne Gaol Crime & Justice Experience",
+    "id": 50,
+    "longitude": -37.807765,
+    "latitude": 144.965463,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Kings Domain",
+    "id": 51,
+    "longitude": -37.825524,
+    "latitude": 144.974107,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "FairFax Studio",
+    "id": 54,
+    "longitude": -37.821669,
+    "latitude": 144.968836,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Playhouse",
+    "id": 55,
+    "longitude": -37.821813,
+    "latitude": 144.968337,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "State Theatre",
+    "id": 56,
+    "longitude": -37.821281,
+    "latitude": 144.968469,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "St Martins Youth Arts Centre",
+    "id": 58,
+    "longitude": -37.835243,
+    "latitude": 144.981142,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Flemington Racecourse",
+    "id": 59,
+    "longitude": -37.790809,
+    "latitude": 144.912142,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Princess Theatre",
+    "id": 61,
+    "longitude": -37.810726,
+    "latitude": 144.972326,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Treasury Gardens",
+    "id": 62,
+    "longitude": -37.8144,
+    "latitude": 144.975952,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "State Library Victoria",
+    "id": 64,
+    "longitude": -37.809986,
+    "latitude": 144.96433,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Regent Theatre",
+    "id": 65,
+    "longitude": -37.816002,
+    "latitude": 144.967916,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Treasury Reserve",
+    "id": 66,
+    "longitude": -37.812918,
+    "latitude": 144.975236,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Batman Park",
+    "id": 69,
+    "longitude": -37.821847,
+    "latitude": 144.956665,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Melbourne Magistrates Court",
+    "id": 71,
+    "longitude": -37.813615,
+    "latitude": 144.956846,
+    "tags": [
+      "Leisure",
+      "Government Building",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Supreme Court",
+    "id": 73,
+    "longitude": -37.81415,
+    "latitude": 144.957894,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Richmond Football Club",
+    "id": 74,
+    "longitude": -37.821675,
+    "latitude": 144.988156,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Melbourne Cricket Ground (MCG)",
+    "id": 75,
+    "longitude": -37.819493,
+    "latitude": 144.983402,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Melbourne Zoo",
+    "id": 76,
+    "longitude": -37.784445,
+    "latitude": 144.951371,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Melbourne Exhibition Centre",
+    "id": 78,
+    "longitude": -37.825246,
+    "latitude": 144.954352,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Melbourne Convention Centre",
+    "id": 79,
+    "longitude": -37.824905,
+    "latitude": 144.952288,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Polly Woodside",
+    "id": 80,
+    "longitude": -37.824258,
+    "latitude": 144.953478,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Melbourne International Shooting Club",
+    "id": 82,
+    "longitude": -37.829285,
+    "latitude": 144.913415,
+    "tags": [
+      "Leisure",
+      "Private Sports Club/Facility"
+    ]
+  },
+  {
+    "name": "Southgate Arts and Leisure Precinct",
+    "id": 83,
+    "longitude": -37.820225,
+    "latitude": 144.965989,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Australian Centre for Contemporary Art",
+    "id": 84,
+    "longitude": -37.826605,
+    "latitude": 144.967252,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Malthouse Theatre",
+    "id": 85,
+    "longitude": -37.827177,
+    "latitude": 144.966936,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Victorian Arts Centre",
+    "id": 87,
+    "longitude": -37.821995,
+    "latitude": 144.968837,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Melbourne Town Hall",
+    "id": 89,
+    "longitude": -37.815076,
+    "latitude": 144.966542,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "DFO South Wharf",
+    "id": 91,
+    "longitude": -37.824888,
+    "latitude": 144.949794,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Queen Victoria Gardens",
+    "id": 92,
+    "longitude": -37.821639,
+    "latitude": 144.971049,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Sidney Myer Music Bowl",
+    "id": 93,
+    "longitude": -37.823348,
+    "latitude": 144.974686,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Crown Entertainment Complex",
+    "id": 94,
+    "longitude": -37.823577,
+    "latitude": 144.957312,
+    "tags": [
+      "Purpose Built",
+      "Casino",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "The Ian Potter Centre: NGV Australia",
+    "id": 97,
+    "longitude": -37.817484,
+    "latitude": 144.969899,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Federation Square",
+    "id": 98,
+    "longitude": -37.817852,
+    "latitude": 144.968963,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Thoroughbred Racing Gallery",
+    "id": 99,
+    "longitude": -37.818867,
+    "latitude": 144.98397,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "New Quay",
+    "id": 100,
+    "longitude": -37.815218,
+    "latitude": 144.941617,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Central City Studios",
+    "id": 101,
+    "longitude": -37.814232,
+    "latitude": 144.935655,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Channel 7 - Melbourne Broadcast Centre",
+    "id": 102,
+    "longitude": -37.815858,
+    "latitude": 144.945823,
+    "tags": [
+      "Purpose Built",
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Docklands Park",
+    "id": 103,
+    "longitude": -37.820996,
+    "latitude": 144.946781,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Waterfront City",
+    "id": 104,
+    "longitude": -37.815057,
+    "latitude": 144.939136,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "AAMI Park",
+    "id": 106,
+    "longitude": -37.824726,
+    "latitude": 144.983802,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "New Quay Marina",
+    "id": 107,
+    "longitude": -37.815293,
+    "latitude": 144.942283,
+    "tags": [
+      "Transport",
+      "Marina",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Central Pier",
+    "id": 108,
+    "longitude": -37.816518,
+    "latitude": 144.943475,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Melbourne Star Observation Wheel",
+    "id": 109,
+    "longitude": -37.811617,
+    "latitude": 144.937588,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Point Park",
+    "id": 110,
+    "longitude": -37.823353,
+    "latitude": 144.942102,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Newmarket Reserve",
+    "id": 112,
+    "longitude": -37.787848,
+    "latitude": 144.922972,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Fox Classic Car Collection",
+    "id": 115,
+    "longitude": -37.821375,
+    "latitude": 144.948496,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Wonderland Park",
+    "id": 118,
+    "longitude": -37.811695,
+    "latitude": 144.936833,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Rod Laver Arena",
+    "id": 119,
+    "longitude": -37.822046,
+    "latitude": 144.978487,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Melbourne Park",
+    "id": 120,
+    "longitude": -37.820909,
+    "latitude": 144.978735,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Margaret Court Arena",
+    "id": 121,
+    "longitude": -37.821326,
+    "latitude": 144.977591,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Hisense Arena",
+    "id": 122,
+    "longitude": -37.823111,
+    "latitude": 144.981834,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Melbourne Museum",
+    "id": 123,
+    "longitude": -37.803552,
+    "latitude": 144.97169,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "IMAX Melbourne",
+    "id": 124,
+    "longitude": -37.803432,
+    "latitude": 144.970639,
+    "tags": [
+      "Leisure",
+      "Cinema"
+    ]
+  },
+  {
+    "name": "Melbourne Theatre Company",
+    "id": 125,
+    "longitude": -37.823931,
+    "latitude": 144.968297,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "MTC Theatre",
+    "id": 126,
+    "longitude": -37.824267,
+    "latitude": 144.968174,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Elisabeth Murdoch Hall",
+    "id": 127,
+    "longitude": -37.823974,
+    "latitude": 144.96745,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Recital Centre",
+    "id": 128,
+    "longitude": -37.823833,
+    "latitude": 144.967682,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "NGV International",
+    "id": 129,
+    "longitude": -37.823014,
+    "latitude": 144.969342,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Hamer Hall",
+    "id": 130,
+    "longitude": -37.819991,
+    "latitude": 144.967992,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Birrarung Marr",
+    "id": 131,
+    "longitude": -37.818062,
+    "latitude": 144.973146,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Artplay",
+    "id": 132,
+    "longitude": -37.81842,
+    "latitude": 144.971542,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  },
+  {
+    "name": "Riverslide Skate Park",
+    "id": 133,
+    "longitude": -37.820789,
+    "latitude": 144.972951,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Alexandra Gardens",
+    "id": 134,
+    "longitude": -37.820606,
+    "latitude": 144.971796,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "North Melbourne Recreation Reserve",
+    "id": 138,
+    "longitude": -37.798835,
+    "latitude": 144.941452,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "J.J Holland Park",
+    "id": 139,
+    "longitude": -37.798236,
+    "latitude": 144.923837,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Royal Park",
+    "id": 143,
+    "longitude": -37.790618,
+    "latitude": 144.953834,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Princes Park",
+    "id": 146,
+    "longitude": -37.787017,
+    "latitude": 144.961115,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "National Sports Museum",
+    "id": 147,
+    "longitude": -37.818955,
+    "latitude": 144.984669,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Shrine of Rembrance Reserve",
+    "id": 148,
+    "longitude": -37.832074,
+    "latitude": 144.973628,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Shrine of Remembrance",
+    "id": 149,
+    "longitude": -37.830209,
+    "latitude": 144.973441,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Royal Botanic Gardens",
+    "id": 151,
+    "longitude": -37.830664,
+    "latitude": 144.98085,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Yarra Park",
+    "id": 152,
+    "longitude": -37.82047,
+    "latitude": 144.986671,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Icehouse",
+    "id": 157,
+    "longitude": -37.812189,
+    "latitude": 144.935684,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  },
+  {
+    "name": "Athanaeum Theatre",
+    "id": 168,
+    "longitude": -37.814955,
+    "latitude": 144.967322,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Riverside Park",
+    "id": 170,
+    "longitude": -37.794838,
+    "latitude": 144.915607,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Darling Square",
+    "id": 171,
+    "longitude": -37.812993,
+    "latitude": 144.989062,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Carlton Courthouse Theatre",
+    "id": 172,
+    "longitude": -37.797659,
+    "latitude": 144.96875,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Flagstaff Gardens",
+    "id": 173,
+    "longitude": -37.811123,
+    "latitude": 144.954696,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Melbourne Showgrounds",
+    "id": 174,
+    "longitude": -37.78231,
+    "latitude": 144.910822,
+    "tags": [
+      "Leisure",
+      "Outdoor Recreation Facility (Zoo, Golf Course)"
+    ]
+  },
+  {
+    "name": "Her Majesty's Theatre",
+    "id": 176,
+    "longitude": -37.810998,
+    "latitude": 144.96952,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Comedy Theatre",
+    "id": 177,
+    "longitude": -37.810206,
+    "latitude": 144.970133,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "La Mama Theatre",
+    "id": 178,
+    "longitude": -37.799131,
+    "latitude": 144.967669,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Fawkner Park",
+    "id": 180,
+    "longitude": -37.8414,
+    "latitude": 144.981625,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Fitzroy Gardens",
+    "id": 181,
+    "longitude": -37.812962,
+    "latitude": 144.980455,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Sinclair's Cottage",
+    "id": 182,
+    "longitude": -37.814541,
+    "latitude": 144.980554,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Enterprize Park",
+    "id": 184,
+    "longitude": -37.820211,
+    "latitude": 144.959276,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Victoria Police Museum",
+    "id": 185,
+    "longitude": -37.822219,
+    "latitude": 144.954039,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Immigration Museum",
+    "id": 186,
+    "longitude": -37.81918,
+    "latitude": 144.960426,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Forum Theatre",
+    "id": 188,
+    "longitude": -37.816486,
+    "latitude": 144.969386,
+    "tags": [
+      "Leisure",
+      "Theatre Live"
+    ]
+  },
+  {
+    "name": "Melbourne Wholesale Fruit, Vegetable & Flower Market",
+    "id": 191,
+    "longitude": -37.806873,
+    "latitude": 144.923287,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Fire Services Museum Victoria",
+    "id": 192,
+    "longitude": -37.808577,
+    "latitude": 144.975373,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Metropolitan Fire Brigade (MFB)",
+    "id": 193,
+    "longitude": -37.809232,
+    "latitude": 144.975247,
+    "tags": [
+      "Leisure",
+      "Fire Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "The Ian Potter Museum Of Art",
+    "id": 195,
+    "longitude": -37.797394,
+    "latitude": 144.964156,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Koorie Heritage Trust Inc",
+    "id": 197,
+    "longitude": -37.813386,
+    "latitude": 144.954027,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Commonwealth Law Courts",
+    "id": 198,
+    "longitude": -37.812397,
+    "latitude": 144.955823,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Central",
+    "id": 200,
+    "longitude": -37.810538,
+    "latitude": 144.962749,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "QV Village",
+    "id": 202,
+    "longitude": -37.81069,
+    "latitude": 144.965714,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Argyle Square",
+    "id": 203,
+    "longitude": -37.803149,
+    "latitude": 144.965761,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Piazza Italia",
+    "id": 204,
+    "longitude": -37.802517,
+    "latitude": 144.965863,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Macarthur Square",
+    "id": 205,
+    "longitude": -37.798332,
+    "latitude": 144.971514,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Murchinson Square",
+    "id": 206,
+    "longitude": -37.800274,
+    "latitude": 144.973059,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Parliament Reserve",
+    "id": 207,
+    "longitude": -37.809853,
+    "latitude": 144.973462,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "North Melbourne Recreation Centre (Aquatic)",
+    "id": 208,
+    "longitude": -37.799948,
+    "latitude": 144.94329,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "North Melbourne Recreation Centre (Gymnasium)",
+    "id": 210,
+    "longitude": -37.799706,
+    "latitude": 144.940368,
+    "tags": [
+      "Leisure",
+      "Gymnasium/Health Club"
+    ]
+  },
+  {
+    "name": "Carlton Baths",
+    "id": 211,
+    "longitude": -37.793438,
+    "latitude": 144.971696,
+    "tags": [
+      "Leisure",
+      "Indoor Recreation Facility"
+    ]
+  },
+  {
+    "name": "City Baths",
+    "id": 212,
+    "longitude": -37.807159,
+    "latitude": 144.963189,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Westgate Park",
+    "id": 213,
+    "longitude": -37.831492,
+    "latitude": 144.908824,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Cooks' Cottage",
+    "id": 215,
+    "longitude": -37.814461,
+    "latitude": 144.979471,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Conservatory",
+    "id": 216,
+    "longitude": -37.814003,
+    "latitude": 144.978559,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Aquarium",
+    "id": 217,
+    "longitude": -37.820963,
+    "latitude": 144.958425,
+    "tags": [
+      "Purpose Built",
+      "Aquarium",
+      "Landmarks",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Westpac Centre",
+    "id": 218,
+    "longitude": -37.824246,
+    "latitude": 144.97972,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Royal Exhibition Building",
+    "id": 219,
+    "longitude": -37.804603,
+    "latitude": 144.971521,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Melbourne Childrens Court",
+    "id": 220,
+    "longitude": -37.812508,
+    "latitude": 144.958298,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Etihad Stadium",
+    "id": 221,
+    "longitude": -37.816177,
+    "latitude": 144.947496,
+    "tags": [
+      "Leisure",
+      "Major Sports & Recreation Facility"
+    ]
+  },
+  {
+    "name": "Eureka Skydeck 88",
+    "id": 222,
+    "longitude": -37.821619,
+    "latitude": 144.964622,
+    "tags": [
+      "Leisure",
+      "Observation Tower/Wheel",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Eureka Tower",
+    "id": 223,
+    "longitude": -37.821516,
+    "latitude": 144.964456,
+    "tags": [
+      "Mixed Use",
+      "Retail/Residential",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "County Court Melbourne",
+    "id": 224,
+    "longitude": -37.813202,
+    "latitude": 144.957734,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Sandridge Rail Bridge",
+    "id": 227,
+    "longitude": -37.820177,
+    "latitude": 144.962981,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "Freshwater Place",
+    "id": 228,
+    "longitude": -37.821975,
+    "latitude": 144.962461,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Melbourne Visitor Centre",
+    "id": 229,
+    "longitude": -37.817736,
+    "latitude": 144.967937,
+    "tags": [
+      "Leisure",
+      "Visitor Centre",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Australian Centre For The Moving Image (ACMI)",
+    "id": 230,
+    "longitude": -37.817611,
+    "latitude": 144.96907,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "Dallas Brooks Centre",
+    "id": 232,
+    "longitude": -37.809738,
+    "latitude": 144.981383,
+    "tags": [
+      "Leisure",
+      "Function/Conference/Exhibition Centre"
+    ]
+  },
+  {
+    "name": "Myer",
+    "id": 234,
+    "longitude": -37.813592,
+    "latitude": 144.963855,
+    "tags": [
+      "Retail",
+      "Department Store",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "David Jones",
+    "id": 235,
+    "longitude": -37.813313,
+    "latitude": 144.964373,
+    "tags": [
+      "Retail",
+      "Department Store",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Lincoln Square",
+    "id": 236,
+    "longitude": -37.802792,
+    "latitude": 144.96276,
+    "tags": [
+      "Leisure",
+      "Informal Outdoor Facility (Park/Garden/Reserve)"
+    ]
+  },
+  {
+    "name": "The Museum Of Australian Chinese History",
+    "id": 240,
+    "longitude": -37.810769,
+    "latitude": 144.969233,
+    "tags": [
+      "Leisure",
+      "Art Gallery/Museum"
+    ]
+  },
+  {
+    "name": "ANZ 'Gothic' Bank",
+    "id": 241,
+    "longitude": -37.816159,
+    "latitude": 144.961673,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "id": 125303,
+    "name": "Parkville Anzac Hall",
+    "description": "<FONT size=2>\r\n<P>The Parkville Anzac Hall, located on Brens Drive, was built in late 1940 or early 1941 on behalf of the RSL for use as a cinema and recreation hall for troops at Royal Park. In common with parks, showgrounds and racecourses across Australia, Royal Park was taken over early in the Second World War for defence accommodation purposes. Royal Park was offered to the Department of Defence by the City of Melbourne in April 1940 and by June was operating as a recruit reception depot with personnel accommodated in buildings and tents. </P>\r\n<P></P>\r\n<P>In early 1942, a large part of Royal Park was used briefly as a staging camp for US troops on route to the Pacific. The Americans called their area Camp Pell, a name which immediately became associated with the military occupation of Royal Park. Anzac Hall is a simple and functional building principally of timber and corrugated iron very like recreation halls at other major encampments, its only unusual features being its composite timber and steel rod roof trusses and its sliding and folding door system. There are also some quaint stone sentry boxes, gateposts, stairs and retaining wall nearby. At the end of the war Royal Park became the principal demobilisation centre for all Victorian service personnel. After the war the larger area known as Camp Pell was used by the Housing Commission as emergency housing until its demolition during a clean up campaign leading up to the 1956 Olympics. </P>\r\n<P></P>The army remained in its corner of Royal Park near Anzac Hall until 1958 when it moved its personnel depot function to Watsonia. The hall has been used ever since by the City of Melbourne for various community uses including the Urban Camp program which provides accommodation for country school children visiting Melbourne. At some stage a surplus army P1 type hut with a veneer of cream brick has been attached on the east side for extra accommodation and amenities.<BR><B><B></B></B>",
+    "latitude": -37.7867,
+    "longitude": 144.94502,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 125393,
+    "name": "Jeparit Soldiers' And Citizens' Memorial Hall and Former Municipal Chambers",
+    "description": "<FONT size=2>\r\n<P>The Jeparit Soldiers' And Citizens' Memorial Hall and Former Municipal Chambers are located at 10-12 Roy Street. The municipal building at Jeparit was a combined effort of the Mechanics Institute, the Returned Sailors and Soldiers Imperial League of Australia (later known as the Returned &amp; Services League of Australia), local citizens and the shire council. After the First World War the Mechanics Institute needed new premises for a library and reading room, the RSSILA wanted clubrooms and the citizens of Jeparit needed a public hall. A committee made up of \"soldiers and citizens\" approached the shire council, who were planning to build new offices and chambers, with the idea of a combined building. The administrative centre of the Dimboola Shire had shifted from Dimboola to Jeparit in 1914 after years of increasing discontent in the northern section of the shire.</P>\r\n<P></P>\r\n<P>The committee raised the equivalent of approximately £4000 in cash and land and the shire council provided the remainder of the funds. The Ballarat firm of architects Clegg and Morrow designed the building and the local firm Lovell Dudden and Jones were the builders. The contract price was £7700 with about £400 for extras. On February 5th 1924, the foundation stone was laid by the Hon. Arthur Rodgers, former Minister for Trade and Customs and former assistant Minister for Repatriation. The building, a memorial to those who fought in the war, was opened on June 2nd 1925. </P>\r\n<P></P>\r\n<P>The building is an intact example of an Inter-War Free Classical style building. It has classical elements but also references to the Moderne style with the stylised keystone detailing around the windows. The building retains original furniture and fixtures including the fine timber staircase, strong room in the former rate collector's office, the large board room table and chairs in the municipal chambers built at Chaplin's furniture factory in Jeparit and assembled in the room, purpose-built chairs with rising sun motif in the RSL room, scenery back drop to the stage painted by Edgar Finlay, plaques and honour boards throughout the building. The ground floor includes a fine timber staircase, First and Second World War honour rolls and past presidents' honour board in the corridor, RSL rooms on the ground floor with original furniture, a large room used by the Senior Citizens' Club with a library at one end and billiard table at the other, a large hall with stage retaining its proscenium arch and a stage backdrop and a supper room to the rear.</P>",
+    "latitude": -36.14339,
+    "longitude": 141.98767,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 125584,
+    "name": "Cavendish Soldiers' Memorial Hall",
+    "description": "<FONT size=2>\r\n<P>The Cavendish Soldiers' Memorial Hall and Park are located in the centre of the township of Cavendish, on the north east corner of Scott and Barker Streets. The park contains several structures and plantings, including a war memorial with associated symbolic plantings, which commemorate the First and Second World Wars. Robert Young laid the foundation stone of the present hall on Australia Day, 1924. Robert Young, a prominent local, was a long time proprietor of the Wannon or Cavendish General Store, and an advocate for the construction of the hall. The Hall's designer was Algernon Abbott MCE, Shire Engineer from 1901 to 1947</P>\r\n<P>The hall is significant for its association with those who have served and those who have fallen from the Cavendish area in the First and Second World Wars. It comprises of a single storey red brick hall with an unusual narthex across the front in the form of an arcade. This is cement rendered and painted pink with white details. The narthex incorporates seven arches, the three central arches being segmental the four outer being semi-circular, two in the facade and one each on the side elevations. The outer arches are filled in to form pavilions. The arches spring from simple stylised capitals above square piers. Above the arches is a low pediment with a shallow bell-shaped curve. The rising sun symbol of the AIF is in the centre of the pediment and below it there are the words \"Cavendish Soldiers Memorial Hall\" in raised sans-serif lettering. </P>\r\n<P>The front wall of the Cavendish Soldiers Memorial is face brick. The central door is bi-fold and has six panels. The windows on either side include pairs of double hung sashes and hopper windows above. Their sills and lintels are cement rendered and painted white. The windows are repeated in the north elevation. Those on the south elevation have been compromised by a large extension, recently remodelled, which now provides the main access to the hall. Internally the building has one main hall, an elevated stage and small rooms at the rear. The main hall has several traditional memorials on the wall. All are polished timber with gold lettering and some include photographs of those who served.</P>",
+    "latitude": -37.527764,
+    "longitude": 142.04491,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 125699,
+    "name": "Sea Lake Memorial Hall",
+    "description": "<FONT size=2>\r\n<P>The Sea Lake Memorial Hall, located on Horace Street near Best Street, was built c.1924 to commemorate the First World War. Above the entrance is a window inscribed with \"Lest We Forget.\"</P>",
+    "latitude": -35.502127,
+    "longitude": 142.849565,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 125751,
+    "name": "Swanpool and District Memorial Hall",
+    "description": "<FONT size=2>\r\n<P>The Swanpool and District Memorial Hall was built in the 1950s with voluntary labour on donated land.The foundation stone affixed to the hall is inscribed \"Lest We Forget.\"</P>",
+    "latitude": -36.714119,
+    "longitude": 145.991821,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 125772,
+    "name": "Rupanyup Memorial Hall",
+    "description": "<FONT size=2>The Rupanyup Memorial Hall, located on Cromie Street between Wood Street and Walter Street, was built in 1920 to commemorate the First World War. ",
+    "latitude": -36.632727,
+    "longitude": 142.63137,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 127276,
+    "name": "Koroit Memorial Hall",
+    "description": "<FONT size=2>\r\n<P>The Koroit Memorial Hall, constructed in 1957, served as a memorial to those men of the Koroit Catholic Parish who were killed in the Second World War. The Hall became a multi-use complex with full cinema facilities and was one of the last single-screen cinemas built in Victoria. It was commissioned by the Diocese of Ballarat for the very large Catholic community around Koroit including the Parishes of St Patrick, Koroit, St Patrick's, Kirkstall and St Brigid's, Crossley. A local Catholic cinema had been mooted as early as the 1930s, but it was delayed until the mid-1950s. Films were screened three nights a week until the mid-1960s, with the choice of films reflecting the Catholic values of the time. </P>",
+    "latitude": -38.29208,
+    "longitude": 142.36402,
+    "tags": [
+      "Leisure"
+    ]
+  },
+  {
+    "id": 127386,
+    "name": "Darlington Soldier Settlement Memorial",
+    "description": "<FONT size=2>The Darlington Soldier's Settler Memorial, on Ware Street, is located outside the Darlington Mechanic's Institute. It commemorates soldiers who returned from the Second World War to settle in the area with their families.",
+    "latitude": -37.99701,
+    "longitude": 143.04886,
+    "tags": [
+      "Leisure"
+    ]
+  }
+]

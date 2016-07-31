@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Wesley College",
+    "id": 53,
+    "longitude": -37.848521,
+    "latitude": 144.982227,
+    "tags": [
+      "Education Centre",
+      "School - Primary and Secondary Education",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Melbourne Girls Grammar School",
+    "id": 233,
+    "longitude": -37.831537,
+    "latitude": 144.985089,
+    "tags": [
+      "Education Centre",
+      "School - Primary and Secondary Education",
+      "Landmarks"
+    ]
+  }
+]

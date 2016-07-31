@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1142,
+    "name": "Dandos",
+    "image": null,
+    "description": null,
+    "latitude": 143.617772,
+    "longitude": -38.554122,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1185,
+    "name": "Little Cabbage Tree Creek Falls Picnic Area",
+    "image": null,
+    "description": null,
+    "latitude": 148.69344,
+    "longitude": -37.65384,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1249,
+    "name": "Choof Choof",
+    "image": null,
+    "description": null,
+    "latitude": 149.128644,
+    "longitude": -37.716546,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1272,
+    "name": "Sawpit Toilet",
+    "image": null,
+    "description": null,
+    "latitude": 141.686663,
+    "longitude": -38.23487,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1348,
+    "name": "Powelltown",
+    "image": null,
+    "description": null,
+    "latitude": 145.744817,
+    "longitude": -37.860704,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1353,
+    "name": "Fergusons",
+    "image": null,
+    "description": null,
+    "latitude": 142.060244,
+    "longitude": -37.29535,
+    "tags": [
+      "ASSET",
+      "SEPARATE MALE/FEMALE",
+      "DRY COMPOSTING"
+    ]
+  },
+  {
+    "id": 1394,
+    "name": "Goongerah Camping Ground And Picnic Area",
+    "image": null,
+    "description": null,
+    "latitude": 148.700242,
+    "longitude": -37.34251,
+    "tags": [
+      "ASSET",
+      "UNISEX",
+      "DRY COMPOSTING"
+    ]
+  }
+]

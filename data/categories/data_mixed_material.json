@@ -1,0 +1,194 @@
+[
+  {
+    "id": 184,
+    "name": "Lower Rubicon Pipeline Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.845572,
+    "longitude": -37.30382,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Sbc Bridge 2",
+    "image": null,
+    "description": null,
+    "latitude": 146.198772,
+    "longitude": -36.87344,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Steavenson River Bridge",
+    "image": null,
+    "description": "timber with steel beams & mesh deck",
+    "latitude": 145.775106,
+    "longitude": -37.53365,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Sunday Creek Walk Bridge",
+    "image": null,
+    "description": "steel and concrete",
+    "latitude": 145.114207,
+    "longitude": -37.36021,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Sec Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.558473,
+    "longitude": -37.39504,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Gilberts Gully Upstream",
+    "image": null,
+    "description": null,
+    "latitude": 145.732452,
+    "longitude": -37.51515,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "Sunday Creek Walk Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.117231,
+    "longitude": -37.362682,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Tanglefoot Loop Footbridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.52849,
+    "longitude": -37.536094,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Leaf Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.116827,
+    "longitude": -37.362678,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Sbc Bridge 1",
+    "image": null,
+    "description": null,
+    "latitude": 146.198511,
+    "longitude": -36.8753,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Gilberts Gully Downstream",
+    "image": null,
+    "description": null,
+    "latitude": 145.7334,
+    "longitude": -37.51162,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 923,
+    "name": "Galipoli Park Vehicle",
+    "image": null,
+    "description": "Able to carry vehiclcles when bollards are removed",
+    "latitude": 145.750048,
+    "longitude": -37.51093,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 931,
+    "name": "Rubicon River Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 145.859666,
+    "longitude": -37.317677,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 934,
+    "name": "Tree Fern Gully Yellow Dog Pedestrian",
+    "image": null,
+    "description": null,
+    "latitude": 145.763203,
+    "longitude": -37.52038,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 943,
+    "name": "Footbridge 1",
+    "image": null,
+    "description": null,
+    "latitude": 149.74911,
+    "longitude": -37.56313,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  },
+  {
+    "id": 958,
+    "name": "Sunday Creek Walk Bridge",
+    "image": null,
+    "description": "steel and concrete",
+    "latitude": 145.113132,
+    "longitude": -37.35981,
+    "tags": [
+      "ASSET",
+      "Mixed Material"
+    ]
+  }
+]

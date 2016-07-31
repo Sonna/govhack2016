@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Melbourne Private Hospital",
+    "id": 32,
+    "longitude": -37.798312,
+    "latitude": 144.957288,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital : Medical Centre",
+    "id": 68,
+    "longitude": -37.809345,
+    "latitude": 144.982336,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Epworth Freemasons Hospital",
+    "id": 237,
+    "longitude": -37.810972,
+    "latitude": 144.9837,
+    "tags": [
+      "Health Services",
+      "Private Hospital",
+      "Landmarks"
+    ]
+  }
+]

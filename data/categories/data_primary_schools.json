@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Carlton Gardens Primary School",
+    "id": 47,
+    "longitude": -37.802096,
+    "latitude": 144.969406,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Carlton Primary School",
+    "id": 48,
+    "longitude": -37.795908,
+    "latitude": 144.970147,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Kensington Primary School",
+    "id": 111,
+    "longitude": -37.792524,
+    "latitude": 144.927108,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "North Melbourne Primary School",
+    "id": 175,
+    "longitude": -37.798674,
+    "latitude": 144.951065,
+    "tags": [
+      "Education Centre",
+      "Primary Schools",
+      "Landmarks"
+    ]
+  }
+]

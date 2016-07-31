@@ -1,20 +1,12 @@
-$(function() {
-  $('#todo').on('click', '.todo-close',function() {
-    $(this).parent().remove();
-  });
-
-  if ($('.map-icon').hasClass('selected')) {
-    console.log(this);
-  }
-})
+var map;
+var sourceFile = "data/data.json";
+var locations;
 
 function initMap() {
-  var source_file = "data/data.json";
-  var locations;
-  $.getJSON(source_file, function(json) {
+  $.getJSON(sourceFile, function(json) {
     locations = json;
 
-    var map = new google.maps.Map(document.getElementById('map'), {
+    map = new google.maps.Map(document.getElementById('map'), {
       zoom: 15,
       center: new google.maps.LatLng(-37.8162175,144.9640682),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -153,54 +145,189 @@ function initMap() {
         }
       ]
     });
+    setMarkers(map, locations);
+  });
+}
 
-    var marker, i;
-    var image = '../images/google-droppin.png';
-     for (i = 0; i < locations.length; i++) {
+function setMarkers(map, locations) {
+  var marker, i;
+  var image = '../images/google-droppin.png';
+   for (i = 0; i < locations.length; i++) {
+     marker = new google.maps.Marker({
+       position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
+       map: map,
+       icon: image
+     });
+
+     //Add listener
+     google.maps.event.addListener(marker, "click", function (event) {
+       var latitude = event.latLng.lat();
+       var longitude = Number(event.latLng.lng().toFixed(12));
+       var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
+       //  var selectedImage = "../images/google-droppin-selected.png";
+
+       // Change drop pin color on selection
+       console.log(marker);
        marker = new google.maps.Marker({
-         position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
+         position: new google.maps.LatLng(latitude, longitude),
          map: map,
-         icon: image
+         icon: selectedImage,
+         zIndex: 999
        });
-       //Add listener
-       google.maps.event.addListener(marker, "click", function (event) {
-         var latitude = event.latLng.lat();
-         var longitude = Number(event.latLng.lng().toFixed(12));
-         var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
-        //  var selectedImage = "../images/google-droppin-selected.png";
 
-         // Change drop pin color on selection
-         console.log(marker);
-         marker = new google.maps.Marker({
-           position: new google.maps.LatLng(latitude, longitude),
-           map: map,
-           icon: selectedImage,
-           zIndex: 999
-         });
+       console.log( latitude + ', ' + longitude );
 
-         console.log( latitude + ', ' + longitude );
-         var todoAdded = locations.filter( function(location){
-           if (location.latitude == longitude && location.longitude == latitude) {
-             return location.latitude == longitude && location.longitude == latitude;
-           }
-         });
-         console.log(todoAdded[0].tags[1]);
-         var $todoEvent = $("<li class='todo-event'></li>");
-         $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
-         $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
-         $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
-         $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
-         $($todoEvent).appendTo('#todo');
+       var todoAdded = locations.filter( function(location){
+         if (location.latitude == longitude && location.longitude == latitude) {
+           return location.latitude == longitude && location.longitude == latitude;
+         }
+       });
+       console.log(todoAdded[0].tags[1]);
 
-         $("#todo").sortable({
-           connectWith: "#todo",
-           helper: "clone",
-           appendTo: "body"
-         });
+       var $todoEvent = $("<li class='todo-event'></li>");
+       $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
+       $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
+       $("<div class='todo-name'>" + todoAdded[0].name + "</div>").appendTo($todoEvent);
+       $("<div class='todo-site'>" + todoAdded[0].tags[1] + "</div>").appendTo($todoEvent);
+       $($todoEvent).appendTo('#todo');
 
-         // Center of map
-         map.panTo(new google.maps.LatLng(latitude,longitude));
-       }); //end addListener
-     }
-   });
+       $("#todo").sortable({
+         connectWith: "#todo",
+         helper: "clone",
+         appendTo: "body"
+       });
+
+       // Center of map
+       map.panTo(new google.maps.LatLng(latitude,longitude));
+     }); //end addListener
+   }
  }
+
+var markers = [];
+
+function reloadMarkers(map, locations) {
+  // Loop through markers and set map to null for each
+  for (var i = 0; i < markers.length; i++) {
+    markers[i].setMap(null);
+  }
+
+  markers = []; // Reset the markers array
+  setMarkers(map, locations); // Call set markers to re-add markers
+}
+
+$(function() {
+  $('#todo').on('click', '.todo-close',function() {
+    $(this).parent().remove();
+  })
+})
+
+$(function() {
+  $('.map-icon.camping').on('click',function() {
+    sourceFile = "data/categories/data_camping.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.caravan").on('click', function() {
+    sourceFile = "data/categories/data_caravan.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.heritage").on('click', function() {
+    sourceFile = "data/categories/data_heritage.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.fishing").on('click', function() {
+    sourceFile = "data/categories/data_fishing.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.picnicing").on('click', function() {
+    sourceFile = "data/categories/data_picnicing.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.trees").on('click', function() {
+    sourceFile = "data/categories/data_trees.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.landmarks").on('click', function() {
+    sourceFile = "data/categories/data_landmarks.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.huts").on('click', function() {
+    sourceFile = "data/categories/data_huts.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.recreation").on('click', function() {
+    sourceFile = "data/categories/data_recreation.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.leisure").on('click', function() {
+    sourceFile = "data/categories/data_leisure.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.worship").on('click', function() {
+    sourceFile = "data/categories/data_worship.json";
+    initMap();
+  })
+})
+
+$(function() {
+  $(".map-icon.wildlife").on('click', function() {
+    sourceFile = "data/categories/data_wildlife.json";
+    initMap();
+  })
+})
+
+
+function groupLocations(locations) {
+  // Grouped by tags
+  var allTags = $.map(locations, function (data) { return data.tags; })
+  var allUniqueTags = $.unique(allTags);
+  console.log(allUniqueTags);
+
+  var locationsGroupedByTags = {};
+  for (var tag in allUniqueTags) {
+    locationsGroupedByTags[allUniqueTags[tag]] = [];
+  }
+  // console.log(locationsGroupedByTags);
+
+  for (i = 0; i < locations.length; i++) {
+    var location = locations[i];
+
+    for (var tag in allUniqueTags) {
+      var currentTag = allUniqueTags[tag];
+      if ($.inArray(currentTag, location.tags) > -1) {
+        locationsGroupedByTags[currentTag].push(location);
+      }
+    }
+  }
+
+  return locationsGroupedByTags;
+}
