@@ -5,3 +5,5 @@ ruby scripts/mammals_csv_to_json.rb
 ruby scripts/veterans_json_to_custom_json.rb
 
 ruby scripts/merge_cleaned_json_files.rb
+
+ruby scripts/merge_cleaned_json_files.rb
