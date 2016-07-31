@@ -1,0 +1,977 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5691",
+        "NAME": "Jorgenson",
+        "LATITUDE": "-37.749011",
+        "LONGITUDE": "146.412369",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "shower, 4 beds,",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "5690",
+        "PHOTO_ID_1": "5393",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Jorgenson",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.749011,
+        "X_COORD": 146.412369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.412369,
+          -37.749011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5040",
+        "NAME": "Main",
+        "LATITUDE": "-37.412504",
+        "LONGITUDE": "147.628521",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5047",
+        "PHOTO_ID_1": "4543",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Main",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.412504,
+        "X_COORD": 147.628521
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.628521,
+          -37.4125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120358",
+        "NAME": "Pinnibar Gibsons Hut",
+        "LATITUDE": "-36.520334",
+        "LONGITUDE": "147.950269",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "120357",
+        "PHOTO_ID_1": "120350",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Pinnibar Gibsons Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -36.520334,
+        "X_COORD": 147.950269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.950269,
+          -36.520334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5044",
+        "NAME": "Hut 3 Next To Main Hut",
+        "LATITUDE": "-37.412751",
+        "LONGITUDE": "147.628629",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5047",
+        "PHOTO_ID_1": "4547",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut 3 Next To Main Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.412751,
+        "X_COORD": 147.628629
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.628629,
+          -37.41275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2427",
+        "NAME": "Nandos Hut",
+        "LATITUDE": "-37.263715",
+        "LONGITUDE": "143.227996",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "2247",
+        "PHOTO_ID_1": "2232",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Nandos Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.263715,
+        "X_COORD": 143.227996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.227996,
+          -37.263715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4727",
+        "NAME": "Bunk House",
+        "LATITUDE": "-37.103887",
+        "LONGITUDE": "146.464248",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": null,
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "4731",
+        "PHOTO_ID_1": "4250",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Bunk House",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.103887,
+        "X_COORD": 146.464248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.464248,
+          -37.10389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5714",
+        "NAME": "Junction",
+        "LATITUDE": "-37.758042",
+        "LONGITUDE": "146.401837",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5711",
+        "PHOTO_ID_1": "5412",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Junction",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.758042,
+        "X_COORD": 146.401837
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.401837,
+          -37.75804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5042",
+        "NAME": "Hut 1 Next To Main Hut",
+        "LATITUDE": "-37.41259",
+        "LONGITUDE": "147.62846",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5047",
+        "PHOTO_ID_1": "4545",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut 1 Next To Main Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.41259,
+        "X_COORD": 147.62846
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.62846,
+          -37.41259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5046",
+        "NAME": "Hut 5 Next To Main Hut",
+        "LATITUDE": "-37.412788",
+        "LONGITUDE": "147.628593",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5047",
+        "PHOTO_ID_1": "4549",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut 5 Next To Main Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.412788,
+        "X_COORD": 147.628593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.628593,
+          -37.41279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5271",
+        "NAME": "Tomahawk",
+        "LATITUDE": "-37.040224",
+        "LONGITUDE": "146.410624",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": null,
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5270",
+        "PHOTO_ID_1": "5036",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Tomahawk",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.040224,
+        "X_COORD": 146.410624
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.410624,
+          -37.04022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "50323",
+        "NAME": "Keppel'S Hut",
+        "LATITUDE": "-37.460581",
+        "LONGITUDE": "145.851555",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "1732",
+        "SIGNIF": "NATIONAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "50322",
+        "PHOTO_ID_1": "51051",
+        "PHOTO_ID_2": "51052",
+        "PHOTO_ID_3": null,
+        "LABEL": "Keppel'S Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.460581,
+        "X_COORD": 145.851555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.851555,
+          -37.460581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4910",
+        "NAME": "Marthavale",
+        "LATITUDE": "-37.445889",
+        "LONGITUDE": "147.526478",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "4909",
+        "PHOTO_ID_1": "4442",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Marthavale",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.445889,
+        "X_COORD": 147.526478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.526478,
+          -37.44589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120366",
+        "NAME": "Ski Hut",
+        "LATITUDE": "-36.485475",
+        "LONGITUDE": "147.889791",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "120365",
+        "PHOTO_ID_1": "120360",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ski Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -36.485475,
+        "X_COORD": 147.889791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.889791,
+          -36.48547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120217",
+        "NAME": "Evans Creek Hut",
+        "LATITUDE": "-37.006130",
+        "LONGITUDE": "146.378861",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "120215",
+        "PHOTO_ID_1": "120205",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Evans Creek Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.00613,
+        "X_COORD": 146.378861
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.378861,
+          -37.00613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2242",
+        "NAME": "Ditchfield",
+        "LATITUDE": "-37.317117",
+        "LONGITUDE": "143.272659",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "2243",
+        "PHOTO_ID_1": "2046",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ditchfield",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.317117,
+        "X_COORD": 143.272659
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.272659,
+          -37.317117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2492",
+        "NAME": "Ben Nevis",
+        "LATITUDE": "-37.228333",
+        "LONGITUDE": "143.200913",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "2495",
+        "PHOTO_ID_1": "2291",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ben Nevis",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.228333,
+        "X_COORD": 143.200913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.200913,
+          -37.22833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30044",
+        "NAME": "Mt No Three Refuge Hut",
+        "LATITUDE": "-37.076397",
+        "LONGITUDE": "146.416776",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "30043",
+        "PHOTO_ID_1": "30048",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Mt No Three Refuge Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.076397,
+        "X_COORD": 146.416776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.416776,
+          -37.0764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120251",
+        "NAME": "Hut Mitta Mitta Historic Reserve",
+        "LATITUDE": "-36.537385",
+        "LONGITUDE": "147.375066",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "120246",
+        "PHOTO_ID_1": "120240",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut Mitta Mitta Historic Reserve",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -36.537385,
+        "X_COORD": 147.375066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.375066,
+          -36.53738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6030",
+        "NAME": "Goonans",
+        "LATITUDE": "-37.749028",
+        "LONGITUDE": "146.455244",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "6 beds, shower, sink",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "6031",
+        "PHOTO_ID_1": "5763",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Goonans",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.749028,
+        "X_COORD": 146.455244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.455244,
+          -37.74903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "20750",
+        "NAME": "Mugwamp Hut",
+        "LATITUDE": "-37.292729",
+        "LONGITUDE": "143.236",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "9964",
+        "PHOTO_ID_1": "20782",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Mugwamp Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.292729,
+        "X_COORD": 143.236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.236,
+          -37.29273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4891",
+        "NAME": "Washington Winch Cover",
+        "LATITUDE": "-37.211584",
+        "LONGITUDE": "147.883225",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "4893",
+        "PHOTO_ID_1": "4428",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Washington Winch Cover",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.211584,
+        "X_COORD": 147.883225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.883225,
+          -37.21158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4728",
+        "NAME": "Razorback",
+        "LATITUDE": "-37.103941",
+        "LONGITUDE": "146.464083",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": null,
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "4731",
+        "PHOTO_ID_1": "4251",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Razorback",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.103941,
+        "X_COORD": 146.464083
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.464083,
+          -37.10394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120352",
+        "NAME": "Wheelers Creek Hut",
+        "LATITUDE": "-36.546758",
+        "LONGITUDE": "147.877035",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "1",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "120351",
+        "PHOTO_ID_1": "120344",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Wheelers Creek Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -36.546758,
+        "X_COORD": 147.877035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.877035,
+          -36.54676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5045",
+        "NAME": "Hut 4 Next To Main Hut",
+        "LATITUDE": "-37.412815",
+        "LONGITUDE": "147.628634",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "5047",
+        "PHOTO_ID_1": "4548",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut 4 Next To Main Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.412815,
+        "X_COORD": 147.628634
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.628634,
+          -37.41281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4795",
+        "NAME": "Bush Hilton",
+        "LATITUDE": "-37.227682",
+        "LONGITUDE": "147.922443",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "4794",
+        "PHOTO_ID_1": "4321",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Bush Hilton",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.227682,
+        "X_COORD": 147.922443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.922443,
+          -37.22768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6136",
+        "NAME": "Black Snake Creek",
+        "LATITUDE": "-37.446098",
+        "LONGITUDE": "147.140647",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "HISTORIC": null,
+        "IS_PART_OF": "6137",
+        "PHOTO_ID_1": "10964",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Black Snake Creek",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.446098,
+        "X_COORD": 147.140647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.140647,
+          -37.4461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "FAC_TYPE": "HUT",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30078",
+        "NAME": "Craigs Hut",
+        "LATITUDE": "-37.10827",
+        "LONGITUDE": "146.532692",
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "rebuild 2008 and 3 interps signs inside",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "HISTORIC": null,
+        "IS_PART_OF": "9999",
+        "PHOTO_ID_1": "30083",
+        "PHOTO_ID_2": "30084",
+        "PHOTO_ID_3": null,
+        "LABEL": "Craigs Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:11 PM",
+        "Y_COORD": -37.10827,
+        "X_COORD": 146.532692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.532692,
+          -37.10827
+        ]
+      }
+    }
+  ]
+}
