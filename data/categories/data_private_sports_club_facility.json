@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Royal Park Golf Course",
+    "id": 41,
+    "longitude": -37.781918,
+    "latitude": 144.956309,
+    "tags": [
+      "Leisure",
+      "Private Sports Club/Facility"
+    ]
+  },
+  {
+    "name": "Melbourne International Shooting Club",
+    "id": 82,
+    "longitude": -37.829285,
+    "latitude": 144.913415,
+    "tags": [
+      "Leisure",
+      "Private Sports Club/Facility"
+    ]
+  }
+]

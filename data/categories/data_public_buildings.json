@@ -1,0 +1,145 @@
+[
+  {
+    "name": "State Library Victoria",
+    "id": 64,
+    "longitude": -37.809986,
+    "latitude": 144.96433,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Supreme Court",
+    "id": 73,
+    "longitude": -37.81415,
+    "latitude": 144.957894,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Town Hall",
+    "id": 89,
+    "longitude": -37.815076,
+    "latitude": 144.966542,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Sidney Myer Music Bowl",
+    "id": 93,
+    "longitude": -37.823348,
+    "latitude": 144.974686,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Theatre Company",
+    "id": 125,
+    "longitude": -37.823931,
+    "latitude": 144.968297,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Elisabeth Murdoch Hall",
+    "id": 127,
+    "longitude": -37.823974,
+    "latitude": 144.96745,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Recital Centre",
+    "id": 128,
+    "longitude": -37.823833,
+    "latitude": 144.967682,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "NGV International",
+    "id": 129,
+    "longitude": -37.823014,
+    "latitude": 144.969342,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Shrine of Remembrance",
+    "id": 149,
+    "longitude": -37.830209,
+    "latitude": 144.973441,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Commonwealth Law Courts",
+    "id": 198,
+    "longitude": -37.812397,
+    "latitude": 144.955823,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Conservatory",
+    "id": 216,
+    "longitude": -37.814003,
+    "latitude": 144.978559,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Childrens Court",
+    "id": 220,
+    "longitude": -37.812508,
+    "latitude": 144.958298,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "County Court Melbourne",
+    "id": 224,
+    "longitude": -37.813202,
+    "latitude": 144.957734,
+    "tags": [
+      "Leisure",
+      "Public Buildings",
+      "Huts and shelters"
+    ]
+  }
+]

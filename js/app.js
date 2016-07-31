@@ -152,12 +152,13 @@ function initMap() {
          map: map,
          icon: image
        });
+
        //Add listener
        google.maps.event.addListener(marker, "click", function (event) {
          var latitude = event.latLng.lat();
          var longitude = Number(event.latLng.lng().toFixed(12));
          var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
-        //  var selectedImage = "../images/google-droppin-selected.png";
+         //  var selectedImage = "../images/google-droppin-selected.png";
 
          // Change drop pin color on selection
          console.log(marker);
@@ -169,12 +170,14 @@ function initMap() {
          });
 
          console.log( latitude + ', ' + longitude );
+
          var todoAdded = locations.filter( function(location){
            if (location.latitude == longitude && location.longitude == latitude) {
              return location.latitude == longitude && location.longitude == latitude;
            }
          });
          console.log(todoAdded[0].tags[1]);
+
          var $todoEvent = $("<li class='todo-event'></li>");
          $("<div class='todo-geo'></div>").attr('data-lat', latitude).attr('data-long', longitude).appendTo($todoEvent);
          $("<div class='todo-close'>&#10005;</div>").appendTo($todoEvent);
@@ -200,3 +203,29 @@ $(function() {
     $(this).parent().remove();
   })
 })
+
+function groupLocations(locations) {
+  // Grouped by tags
+  var allTags = $.map(locations, function (data) { return data.tags; })
+  var allUniqueTags = $.unique(allTags);
+  console.log(allUniqueTags);
+
+  var locationsGroupedByTags = {};
+  for (var tag in allUniqueTags) {
+    locationsGroupedByTags[allUniqueTags[tag]] = [];
+  }
+  // console.log(locationsGroupedByTags);
+
+  for (i = 0; i < locations.length; i++) {
+    var location = locations[i];
+
+    for (var tag in allUniqueTags) {
+      var currentTag = allUniqueTags[tag];
+      if ($.inArray(currentTag, location.tags) > -1) {
+        locationsGroupedByTags[currentTag].push(location);
+      }
+    }
+  }
+
+  return locationsGroupedByTags;
+}

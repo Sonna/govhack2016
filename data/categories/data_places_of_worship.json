@@ -1,0 +1,412 @@
+[
+  {
+    "name": "St Francis Church",
+    "id": 4,
+    "longitude": -37.811885,
+    "latitude": 144.962422,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Wesley Church",
+    "id": 5,
+    "longitude": -37.810158,
+    "latitude": 144.968168,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Augustines Church",
+    "id": 6,
+    "longitude": -37.816975,
+    "latitude": 144.954862,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St James Church",
+    "id": 7,
+    "longitude": -37.810129,
+    "latitude": 144.952468,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Mary's Anglican Church",
+    "id": 8,
+    "longitude": -37.803167,
+    "latitude": 144.953761,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Romanian Orthodox",
+    "id": 9,
+    "longitude": -37.805231,
+    "latitude": 144.966986,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Welsh Presbyterian Church",
+    "id": 10,
+    "longitude": -37.810448,
+    "latitude": 144.959873,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Church of Christ",
+    "id": 11,
+    "longitude": -37.810453,
+    "latitude": 144.963889,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Scots Church",
+    "id": 12,
+    "longitude": -37.814569,
+    "latitude": 144.968551,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Michael's Uniting Church",
+    "id": 13,
+    "longitude": -37.814386,
+    "latitude": 144.969174,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Greek Orthodox Church",
+    "id": 14,
+    "longitude": -37.808807,
+    "latitude": 144.978259,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Peter's Eastern Hill",
+    "id": 15,
+    "longitude": -37.809709,
+    "latitude": 144.975259,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Lutheran Trinity Church",
+    "id": 16,
+    "longitude": -37.810976,
+    "latitude": 144.975729,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Holy Trinity",
+    "id": 17,
+    "longitude": -37.814067,
+    "latitude": 144.983197,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Johns Lutheran Church",
+    "id": 18,
+    "longitude": -37.82094,
+    "latitude": 144.967121,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "North Melbourne Uniting",
+    "id": 19,
+    "longitude": -37.803554,
+    "latitude": 144.947671,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Melbourne Unitarian Church",
+    "id": 20,
+    "longitude": -37.811449,
+    "latitude": 144.984664,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "All Nations Uniting Church",
+    "id": 21,
+    "longitude": -37.795916,
+    "latitude": 144.968981,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Our Lady of Lebanon Church",
+    "id": 22,
+    "longitude": -37.802577,
+    "latitude": 144.969334,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Michaels",
+    "id": 23,
+    "longitude": -37.794052,
+    "latitude": 144.945399,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Ukranian Catholic Cathedral",
+    "id": 24,
+    "longitude": -37.796309,
+    "latitude": 144.944313,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Alban Anglican Church",
+    "id": 25,
+    "longitude": -37.794217,
+    "latitude": 144.941614,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Christ Church Kensington",
+    "id": 26,
+    "longitude": -37.793211,
+    "latitude": 144.927295,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Holy Rosary",
+    "id": 27,
+    "longitude": -37.794809,
+    "latitude": 144.928362,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "Collins Street Baptist Church",
+    "id": 28,
+    "longitude": -37.814702,
+    "latitude": 144.968072,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Thomas Aquinas Church",
+    "id": 29,
+    "longitude": -37.835308,
+    "latitude": 144.976809,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "South Yarra Presbyterian Church",
+    "id": 30,
+    "longitude": -37.840748,
+    "latitude": 144.985626,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "The Parish of Christ Church South Yarra",
+    "id": 31,
+    "longitude": -37.838628,
+    "latitude": 144.986009,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "East Melbourne Synagogue",
+    "id": 33,
+    "longitude": -37.809114,
+    "latitude": 144.974221,
+    "tags": [
+      "Places of worship",
+      "Synagogue"
+    ]
+  },
+  {
+    "name": "St Patricks Cathedral",
+    "id": 86,
+    "longitude": -37.810115,
+    "latitude": 144.975901,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "name": "St Pauls Cathedral",
+    "id": 187,
+    "longitude": -37.816955,
+    "latitude": 144.967681,
+    "tags": [
+      "Places of worship",
+      "Church"
+    ]
+  },
+  {
+    "id": 125246,
+    "name": "Scots Church War Memorial",
+    "description": "<FONT size=2>\r\n<P>Situated outside the Scots Church,at 140-154 Collins Street, is a memorial pillar dedicated to memory of officers and men of the Victorian Scottish Regiment who fell in the First World War. The church is a Gothic revival structure built between 1873-74 by David Mitchell to designs by architects Reed and Barnes.</P>",
+    "latitude": -37.81453,
+    "longitude": 144.96846,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 154675,
+    "name": "St Peter's Anglican Church Memorial",
+    "description": "<FONT size=2>\r\n<P>St Peter's Anglican Church, on Whitehorse Road Box Hill, features a stone plaque laid on 9 March 1952.The plaque is dedicated to those who gave their lives in the two world wars. Nearby the Church Hall also features a Memorial Plaque, laid on 25 January 1958, to commemorate the First World War and Second World War.</P>",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 154802,
+    "name": "St. Martin Anglican Church",
+    "description": "<FONT size=2>The foundation stone of St. Martin's Anglican Church was laid on April 28th 1963, in memory of those who fell in the First and Second World Wars.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 155608,
+    "name": "Hoppers Crossing St Peters Memorial Church",
+    "description": "<FONT size=2>The Hoppers Crossing St Peter's Memorial Church, established on 6th October 1972, is dedicated to the memory of the fallen of the Second World War.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 155920,
+    "name": "Mildura Greek Orthodox War Memorial Church",
+    "description": "<FONT size=2>The Mildura Greek Orthodox War Memorial Church is located at 1/304 Deakin Avenue.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 155921,
+    "name": "Mildura Sacred Heart Peace Memorial Church",
+    "description": "<FONT size=2>The transept of the Mildura Sacred Heart Peace Memorial Church has been identified but requires further research. Please contact the database administrator if you wish to contribute information to this record.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 156366,
+    "name": "St Josephs War Memorial Church",
+    "description": "<FONT size=2>The St Josephs War Memorial Church, on the Calder Highway, was blessed and opened by Reverend J.P. O'Collins on 8th October 1967.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 156632,
+    "name": "Streatham St Monicas Memorial Church",
+    "description": "<FONT size=2>St. Monica's Memorial Church was erected to the memory of all those who gave their lives in the service of their country.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 156662,
+    "name": "Tatura Memorial Methodist Church",
+    "description": "<FONT size=2>The Tatura Memorial Methodist Church is dedicated to those residents who served in the First and Second World Wars. The memorial stone was laid on 21st February 1959 by Reverend C.K. Daws.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  },
+  {
+    "id": 156825,
+    "name": "Wycheproof St. Michael's War Memorial Church",
+    "description": "<FONT size=2>The Wycheproof St. Michael's War Memorial Church, located on Webster and Hocking Streets, was opened on 19th November 1967.",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "tags": [
+      "Places of worship"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 2,
+    "name": "Little Cabbage Tree Creek Falls Picnic Area",
+    "image": null,
+    "description": "Picnic area with a short walk to a viewing platform at the base of the Little Cabbage Tree Creek Falls",
+    "latitude": 148.693908,
+    "longitude": -37.652363,
+    "tags": [
+      "REC SITES",
+      "picnicing",
+      "walkingdog"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Star Of West Goldmine",
+    "image": null,
+    "description": "",
+    "latitude": 146.164345,
+    "longitude": -37.367594,
+    "tags": [
+      "REC SITES",
+      "heritage",
+      "picnicing",
+      "walkingdog"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Delegate River Tunnel Picnic Area",
+    "image": null,
+    "description": "",
+    "latitude": 148.784281,
+    "longitude": -37.162099,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "heritage",
+      "picnicing",
+      "walkingdog"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Craigs Hut",
+    "image": null,
+    "description": "Craigs Hut was originally constructed for the 1983 Australian movie ''The Man from Snowy River'' as the home of Jim Craig, the main character in the movie. The hut was rebuilt in 1993, destroyed by the 2006 Great Divide wildfire and again rebuilt in 2008",
+    "latitude": 146.531989,
+    "longitude": -37.109093,
+    "tags": [
+      "REC SITES",
+      "picnicing",
+      "walkingdog"
+    ]
+  }
+]

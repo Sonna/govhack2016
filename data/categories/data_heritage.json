@@ -1,0 +1,171 @@
+[
+  {
+    "id": 9,
+    "name": "Jimmys Old Tool Display",
+    "image": null,
+    "description": "",
+    "latitude": 145.474423,
+    "longitude": -37.542299,
+    "tags": [
+      "REC SITES",
+      "heritage"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Powelltown Picnic Area",
+    "image": null,
+    "description": "Near the Little Yarra River and just off Powelltown''''s main street, this site offers facilities for day visitors and access to walks (Walk Into History and Reids Tramline). An old timber bogie used to haul timber from the forests sits in-situ.",
+    "latitude": 145.745477,
+    "longitude": -37.861094,
+    "tags": [
+      "REC SITES",
+      "heritage",
+      "picnicing"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Trestle Bridge",
+    "image": null,
+    "description": "",
+    "latitude": 145.984232,
+    "longitude": -37.900338,
+    "tags": [
+      "REC SITES",
+      "heritage"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Youngs Creek Picnic Area",
+    "image": null,
+    "description": "Formalised picnic ground on the fringes of the Youngs Creek rainforest. ",
+    "latitude": 148.515003,
+    "longitude": -37.656594,
+    "tags": [
+      "REC SITES",
+      "heritage",
+      "picnicing"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Sawpit Picnic Area",
+    "image": null,
+    "description": "",
+    "latitude": 141.687547,
+    "longitude": -38.235459,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING",
+      "heritage"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Star Of West Goldmine",
+    "image": null,
+    "description": "",
+    "latitude": 146.164345,
+    "longitude": -37.367594,
+    "tags": [
+      "REC SITES",
+      "heritage",
+      "picnicing",
+      "walkingdog"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Delegate River Tunnel Picnic Area",
+    "image": null,
+    "description": "",
+    "latitude": 148.784281,
+    "longitude": -37.162099,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "heritage",
+      "picnicing",
+      "walkingdog"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Balt Camp",
+    "image": null,
+    "description": "",
+    "latitude": 144.215203,
+    "longitude": -37.461773,
+    "tags": [
+      "REC SITES",
+      "heritage"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Battery Dam Historic Site",
+    "image": null,
+    "description": "Battery Dam offers the visitor a mix of cultural and natural features to explore.  Extensive information is provided on the sites cultural history.  Other activiyies include picnicing, bushwalking and nature observation.",
+    "latitude": 143.748411,
+    "longitude": -37.084395,
+    "tags": [
+      "REC SITES",
+      "heritage"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Firth Park",
+    "image": null,
+    "description": "Mostly a rec reserve for horse training.\r\nWith BBQ facilities and water supplied via tap.",
+    "latitude": 144.409661,
+    "longitude": -37.435187,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "CARAVANING",
+      "heritage"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Toombon Mine",
+    "image": null,
+    "description": "",
+    "latitude": 146.404438,
+    "longitude": -37.734233,
+    "tags": [
+      "REC SITES",
+      "heritage"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Pretty Boy Hill ",
+    "image": null,
+    "description": "",
+    "latitude": 147.190227,
+    "longitude": -37.612292,
+    "tags": [
+      "REC SITES",
+      "heritage",
+      "picnicing"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Federal Mill Camping Area",
+    "image": null,
+    "description": "",
+    "latitude": 145.855283,
+    "longitude": -37.825892,
+    "tags": [
+      "REC SITES",
+      "CAMPING",
+      "heritage"
+    ]
+  }
+]

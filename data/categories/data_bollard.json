@@ -1,0 +1,41 @@
+[
+  {
+    "id": 236,
+    "name": null,
+    "image": null,
+    "description": "bollard pedestrian counter",
+    "latitude": 149.749453,
+    "longitude": -37.55945,
+    "tags": [
+      "ASSET",
+      "Bollard",
+      "Small (850mm above ground)"
+    ]
+  },
+  {
+    "id": 251,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 149.749472,
+    "longitude": -37.55934,
+    "tags": [
+      "ASSET",
+      "Bollard",
+      "Small (850mm above ground)"
+    ]
+  },
+  {
+    "id": 498,
+    "name": null,
+    "image": null,
+    "description": null,
+    "latitude": 146.964092,
+    "longitude": -36.71261,
+    "tags": [
+      "ASSET",
+      "Bollard",
+      "Medium (1,000mm above ground)"
+    ]
+  }
+]

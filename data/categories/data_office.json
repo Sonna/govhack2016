@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Old Treasury Building",
+    "id": 67,
+    "longitude": -37.813238,
+    "latitude": 144.974423,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Australian Red Cross",
+    "id": 70,
+    "longitude": -37.799093,
+    "latitude": 144.952635,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Australian Broadcasting Corporation (ABC)",
+    "id": 77,
+    "longitude": -37.823814,
+    "latitude": 144.966551,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Parliament House",
+    "id": 88,
+    "longitude": -37.811247,
+    "latitude": 144.973726,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Former Royal Mint",
+    "id": 90,
+    "longitude": -37.812184,
+    "latitude": 144.957055,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "SBS (Special Broadcasting Service)",
+    "id": 96,
+    "longitude": -37.817693,
+    "latitude": 144.96874,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Coronial Services Centre of Victoria",
+    "id": 153,
+    "longitude": -37.824344,
+    "latitude": 144.964474,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Victorian Insitute of Forensic Medicine",
+    "id": 154,
+    "longitude": -37.824693,
+    "latitude": 144.964979,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Donor Tissue Bank of Victoria",
+    "id": 155,
+    "longitude": -37.824824,
+    "latitude": 144.965169,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "State Coroners Office",
+    "id": 156,
+    "longitude": -37.824499,
+    "latitude": 144.964675,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "North Melbourne Football Club",
+    "id": 209,
+    "longitude": -37.799772,
+    "latitude": 144.940963,
+    "tags": [
+      "Office",
+      "Huts and shelters"
+    ]
+  }
+]

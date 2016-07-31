@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Victoria Police",
+    "id": 34,
+    "longitude": -37.816485,
+    "latitude": 144.966486,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 35,
+    "longitude": -37.800313,
+    "latitude": 144.954697,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  },
+  {
+    "name": "Victoria Police",
+    "id": 36,
+    "longitude": -37.821978,
+    "latitude": 144.953398,
+    "tags": [
+      "Leisure",
+      "Police Station",
+      "Landmarks"
+    ]
+  }
+]

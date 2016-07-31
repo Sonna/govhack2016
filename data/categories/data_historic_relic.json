@@ -1,0 +1,915 @@
+[
+  {
+    "id": 0,
+    "name": "Moscow Villa",
+    "image": null,
+    "description": null,
+    "latitude": 147.922132,
+    "longitude": -37.22635,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Morning Star Water Wheel",
+    "image": null,
+    "description": null,
+    "latitude": 146.506282,
+    "longitude": -37.74366,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Wilks Creek School Site Plaque",
+    "image": null,
+    "description": null,
+    "latitude": 145.733579,
+    "longitude": -37.54292,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gold Battery",
+    "image": null,
+    "description": null,
+    "latitude": 146.730427,
+    "longitude": -36.56692,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "White Woman'S Waterhole",
+    "image": null,
+    "description": null,
+    "latitude": 146.772379,
+    "longitude": -38.48104,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ada No2 Boiler And Building",
+    "image": null,
+    "description": null,
+    "latitude": 145.840402,
+    "longitude": -37.83431,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Water Wheel Mitta Mitta Historic Reserve",
+    "image": null,
+    "description": null,
+    "latitude": 147.37505,
+    "longitude": -36.5373,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gold Stamper Mitta Mitta Historic Reserve",
+    "image": null,
+    "description": null,
+    "latitude": 147.375098,
+    "longitude": -36.53727,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wilsons Hut",
+    "image": null,
+    "description": null,
+    "latitude": 148.892574,
+    "longitude": -37.18178,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Old Lead Diggings",
+    "image": null,
+    "description": null,
+    "latitude": 143.735137,
+    "longitude": -36.84391,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Adit 1",
+    "image": null,
+    "description": null,
+    "latitude": 146.730684,
+    "longitude": -36.5667,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ada No 2 Mill",
+    "image": null,
+    "description": null,
+    "latitude": 145.84031,
+    "longitude": -37.83467,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Cheryl Barber Fankhauser Memorial",
+    "image": null,
+    "description": null,
+    "latitude": 146.971005,
+    "longitude": -36.72657,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gunyah Picnic Area",
+    "image": null,
+    "description": "remains of eucalyptus distillery",
+    "latitude": 144.414643,
+    "longitude": -36.71835,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Wheelers And Firths Sawmill",
+    "image": null,
+    "description": null,
+    "latitude": 144.238009,
+    "longitude": -37.45061,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Stringers Knob Historic Fire Tower",
+    "image": null,
+    "description": null,
+    "latitude": 148.270419,
+    "longitude": -37.61697,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ventilation Shaft",
+    "image": null,
+    "description": null,
+    "latitude": 146.733192,
+    "longitude": -36.5651,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "New Ada Mill",
+    "image": null,
+    "description": null,
+    "latitude": 145.842876,
+    "longitude": -37.820086,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Rubicon Saw Mill",
+    "image": null,
+    "description": null,
+    "latitude": 145.862566,
+    "longitude": -37.37307,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mickeys Eucalyptus Distllery",
+    "image": null,
+    "description": "known as Mickeys - licensed by Felton Grimwade and Bickford untill 1999, taken over by Vernons",
+    "latitude": 143.589642,
+    "longitude": -36.42677,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Saw Dust Heap",
+    "image": null,
+    "description": null,
+    "latitude": 145.799403,
+    "longitude": -37.81327,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Tubal Cain Relics",
+    "image": null,
+    "description": "iron relics including battery",
+    "latitude": 147.696511,
+    "longitude": -37.589026,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Ruins Of Fireplace And Chimney",
+    "image": null,
+    "description": null,
+    "latitude": 146.159005,
+    "longitude": -37.372003,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tramway Shed And Trollies",
+    "image": null,
+    "description": null,
+    "latitude": 145.863678,
+    "longitude": -37.37428,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Logging Winch Lightning Creek",
+    "image": null,
+    "description": null,
+    "latitude": 147.433034,
+    "longitude": -36.661047,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Balt Camp",
+    "image": null,
+    "description": "two chimney from a mess hut for reugee workers 1940s",
+    "latitude": 144.215206,
+    "longitude": -37.46177,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Anderson Mill Site",
+    "image": null,
+    "description": "saw dust heap",
+    "latitude": 144.43261,
+    "longitude": -37.43347,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Stony Creek Trestle Bridge",
+    "image": null,
+    "description": null,
+    "latitude": 148.044183,
+    "longitude": -37.743199,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Glenmore Huts",
+    "image": null,
+    "description": "Four huts",
+    "latitude": 148.10274,
+    "longitude": -37.280305,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Jones Creek Digging",
+    "image": null,
+    "description": null,
+    "latitude": 143.78709,
+    "longitude": -36.80811,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Adit 2",
+    "image": null,
+    "description": null,
+    "latitude": 146.733521,
+    "longitude": -36.569682,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Firefighter Helicopter Accident",
+    "image": null,
+    "description": null,
+    "latitude": 146.971292,
+    "longitude": -36.72669,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Timber Harvesting Relics",
+    "image": null,
+    "description": null,
+    "latitude": 145.997214,
+    "longitude": -37.89059,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Old Tramway Bridge Not In Use",
+    "image": null,
+    "description": null,
+    "latitude": 145.760886,
+    "longitude": -37.85504,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Old Lead Dredge Hole",
+    "image": null,
+    "description": null,
+    "latitude": 143.729489,
+    "longitude": -36.85335,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Old Lead Dredge",
+    "image": null,
+    "description": null,
+    "latitude": 143.731559,
+    "longitude": -36.84938,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Old Water Reservoir",
+    "image": null,
+    "description": null,
+    "latitude": 146.733786,
+    "longitude": -36.563401,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Battery And Engine",
+    "image": null,
+    "description": null,
+    "latitude": 147.177357,
+    "longitude": -37.438221,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Adit 2",
+    "image": null,
+    "description": null,
+    "latitude": 146.730779,
+    "longitude": -36.56817,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jungle King Mine",
+    "image": null,
+    "description": null,
+    "latitude": 148.874601,
+    "longitude": -37.243024,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Water Pipeline",
+    "image": null,
+    "description": "8600",
+    "latitude": 143.264542,
+    "longitude": -36.64777,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Chinamans Gold Diggings",
+    "image": null,
+    "description": null,
+    "latitude": 143.78148,
+    "longitude": -36.85392,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Dunns Reef Loading Ramp",
+    "image": null,
+    "description": "View the remains of the Dunns Reef historic timber loading ramp and open cut from the 1870's",
+    "latitude": 144.107853,
+    "longitude": -37.04822,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Toombon",
+    "image": null,
+    "description": null,
+    "latitude": 146.40452,
+    "longitude": -37.73412,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Toombon Boiler",
+    "image": null,
+    "description": null,
+    "latitude": 146.397182,
+    "longitude": -37.739669,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Black Snake Mine",
+    "image": null,
+    "description": null,
+    "latitude": 147.165433,
+    "longitude": -37.43613,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Collins",
+    "image": null,
+    "description": "six bunk beds, sink and seats",
+    "latitude": 147.154814,
+    "longitude": -37.49798,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Portable Steam Engine",
+    "image": null,
+    "description": "portable steam engine",
+    "latitude": 148.51531,
+    "longitude": -37.6563,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Dredge Buckets Mitta Mitta Historic Reserve",
+    "image": null,
+    "description": null,
+    "latitude": 147.375231,
+    "longitude": -36.53741,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Adit 3",
+    "image": null,
+    "description": null,
+    "latitude": 146.733723,
+    "longitude": -36.570089,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Reform Hill Quarry",
+    "image": null,
+    "description": "disused",
+    "latitude": 146.734047,
+    "longitude": -36.569555,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Hut Site With Ovens And Fireplaces",
+    "image": null,
+    "description": null,
+    "latitude": 146.158505,
+    "longitude": -37.372116,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Log Bogie",
+    "image": null,
+    "description": null,
+    "latitude": 145.744804,
+    "longitude": -37.860929,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Hume And Hovell Monument",
+    "image": null,
+    "description": null,
+    "latitude": 146.732318,
+    "longitude": -36.56433,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Crinoline Boiler",
+    "image": null,
+    "description": null,
+    "latitude": 146.509606,
+    "longitude": -37.74186,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golden Age Co. (Red White And Blue) Mine",
+    "image": null,
+    "description": "Historic poppet head, shaft, workings, mullock heaps, dams",
+    "latitude": 144.107829,
+    "longitude": -37.059724,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Explosive Magazine Loop",
+    "image": null,
+    "description": "Not listed in HP register.",
+    "latitude": 147.826598,
+    "longitude": -37.690361,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Washington Winch Steam Engine",
+    "image": null,
+    "description": null,
+    "latitude": 147.883271,
+    "longitude": -37.211621,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Waanyarra Cemetery",
+    "image": null,
+    "description": "Historic Waanyarra Cemetery",
+    "latitude": 143.796012,
+    "longitude": -36.8129,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Golden Age Co. (Red White And Blue) Mine",
+    "image": null,
+    "description": "remains of historic machinery site (mining)",
+    "latitude": 144.107712,
+    "longitude": -37.05988,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Dredge Buckets On Ground Mitta Mitta Historic Reserve",
+    "image": null,
+    "description": null,
+    "latitude": 147.375015,
+    "longitude": -36.53726,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Reids Mill Site",
+    "image": null,
+    "description": null,
+    "latitude": 145.759952,
+    "longitude": -37.85088,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Gold Digging Site",
+    "image": null,
+    "description": null,
+    "latitude": 143.80244,
+    "longitude": -36.818,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Tramway End  Winch House",
+    "image": null,
+    "description": null,
+    "latitude": 145.856273,
+    "longitude": -37.338242,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Historic Youngs Creek Reservoir Walk",
+    "image": null,
+    "description": "Reservoir dam wall",
+    "latitude": 148.510196,
+    "longitude": -37.64314,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Poppet Head",
+    "image": null,
+    "description": null,
+    "latitude": 144.107891,
+    "longitude": -37.059755,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Aboriginal Scar Tree",
+    "image": null,
+    "description": "unsure of significance rating",
+    "latitude": 143.703584,
+    "longitude": -36.77792,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Boiler",
+    "image": null,
+    "description": null,
+    "latitude": 145.84085,
+    "longitude": -37.82992,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Mullock Dumps",
+    "image": null,
+    "description": null,
+    "latitude": 146.160146,
+    "longitude": -37.37114,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Small Open Adit",
+    "image": null,
+    "description": null,
+    "latitude": 146.159908,
+    "longitude": -37.371329,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Saw Dust Heap",
+    "image": null,
+    "description": null,
+    "latitude": 144.238582,
+    "longitude": -37.4506,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Adit1",
+    "image": null,
+    "description": null,
+    "latitude": 146.734744,
+    "longitude": -36.56864,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tramway Remains",
+    "image": null,
+    "description": null,
+    "latitude": 145.846506,
+    "longitude": -37.305041,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tramway Wheels",
+    "image": null,
+    "description": null,
+    "latitude": 145.75922,
+    "longitude": -37.86562,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Saw Dust Heap",
+    "image": null,
+    "description": null,
+    "latitude": 145.77947,
+    "longitude": -37.79871,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Dogs Grave",
+    "image": null,
+    "description": null,
+    "latitude": 147.381039,
+    "longitude": -37.233813,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Alex Stimmer Grave",
+    "image": null,
+    "description": null,
+    "latitude": 146.832716,
+    "longitude": -38.36454,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Heller Historic Grave",
+    "image": null,
+    "description": null,
+    "latitude": 146.201527,
+    "longitude": -36.86635,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Deptford Township (Bakers Oven)",
+    "image": null,
+    "description": "Bakers Oven",
+    "latitude": 147.702599,
+    "longitude": -37.594943,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Thomas Terrace Gaffney",
+    "image": null,
+    "description": "pioneer",
+    "latitude": 146.19253,
+    "longitude": -37.477916,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Logging Artifact Lightning Creek",
+    "image": null,
+    "description": null,
+    "latitude": 147.433054,
+    "longitude": -36.66109,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Tramway Shed",
+    "image": null,
+    "description": null,
+    "latitude": 145.863847,
+    "longitude": -37.38714,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Haughtons Diversion Tunnel",
+    "image": null,
+    "description": "Position on spur directly on top of diversion tunnel.",
+    "latitude": 147.703562,
+    "longitude": -37.5938,
+    "tags": [
+      "HISTORIC RELIC"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Treasury Reserve",
+    "id": 66,
+    "longitude": -37.812918,
+    "latitude": 144.975236,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "DFO South Wharf",
+    "id": 91,
+    "longitude": -37.824888,
+    "latitude": 144.949794,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Waterfront City",
+    "id": 104,
+    "longitude": -37.815057,
+    "latitude": 144.939136,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  }
+]

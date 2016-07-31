@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Council House 2 (CH2)",
+    "id": 1,
+    "longitude": -37.81426,
+    "latitude": 144.966638,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Treasury Reserve",
+    "id": 66,
+    "longitude": -37.812918,
+    "latitude": 144.975236,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Southgate Arts and Leisure Precinct",
+    "id": 83,
+    "longitude": -37.820225,
+    "latitude": 144.965989,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "DFO South Wharf",
+    "id": 91,
+    "longitude": -37.824888,
+    "latitude": 144.949794,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Waterfront City",
+    "id": 104,
+    "longitude": -37.815057,
+    "latitude": 144.939136,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Wholesale Fruit, Vegetable & Flower Market",
+    "id": 191,
+    "longitude": -37.806873,
+    "latitude": 144.923287,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "Melbourne Central",
+    "id": 200,
+    "longitude": -37.810538,
+    "latitude": 144.962749,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  },
+  {
+    "name": "QV Village",
+    "id": 202,
+    "longitude": -37.81069,
+    "latitude": 144.965714,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Eureka Tower",
+    "id": 223,
+    "longitude": -37.821516,
+    "latitude": 144.964456,
+    "tags": [
+      "Mixed Use",
+      "Retail/Residential",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "Freshwater Place",
+    "id": 228,
+    "longitude": -37.821975,
+    "latitude": 144.962461,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
+    ]
+  },
+  {
+    "name": "ANZ 'Gothic' Bank",
+    "id": 241,
+    "longitude": -37.816159,
+    "latitude": 144.961673,
+    "tags": [
+      "Mixed Use",
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
+    ]
+  }
+]
