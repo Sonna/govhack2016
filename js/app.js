@@ -143,7 +143,10 @@ function initMap() {
         }
       ]
     });
+    setMarkers(map, locations);
+   });
 
+  function setMarkers(map, locations) {
     var marker, i;
     var image = '../images/google-droppin.png';
      for (i = 0; i < locations.length; i++) {
@@ -195,7 +198,7 @@ function initMap() {
          map.panTo(new google.maps.LatLng(latitude,longitude));
        }); //end addListener
      }
-   });
+   }
  }
 
 $(function() {
