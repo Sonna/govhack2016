@@ -57,7 +57,6 @@ input_files.each do |input_file|
       feature.properties["COMMENTS"] ||
       feature.properties["ACCESS_DSC"]
 
-
     tags = [
       feature.properties["FAC_TYPE"],
       feature.properties["CATEGORY"],
