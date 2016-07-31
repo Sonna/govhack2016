@@ -1,5 +1,5 @@
 function initMap() {
-  var source_file = "https://sonna.github.io/govhack2016/data/cleaned/landmarks_and_places_of_interest.json";
+  var source_file = "data/data.json";
   var locations;
   $.getJSON(source_file, function(json) {
     locations = json;

@@ -1,0 +1,299 @@
+[
+  {
+    "id": 0,
+    "name": "Jorgenson",
+    "image": null,
+    "description": "shower, 4 beds,",
+    "latitude": 146.412369,
+    "longitude": -37.749011,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Main",
+    "image": null,
+    "description": null,
+    "latitude": 147.628521,
+    "longitude": -37.4125,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pinnibar Gibsons Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.950269,
+    "longitude": -36.520334,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hut 3 Next To Main Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.628629,
+    "longitude": -37.41275,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Nandos Hut",
+    "image": null,
+    "description": null,
+    "latitude": 143.227996,
+    "longitude": -37.263715,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bunk House",
+    "image": null,
+    "description": null,
+    "latitude": 146.464248,
+    "longitude": -37.10389,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Junction",
+    "image": null,
+    "description": null,
+    "latitude": 146.401837,
+    "longitude": -37.75804,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hut 1 Next To Main Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.62846,
+    "longitude": -37.41259,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Hut 5 Next To Main Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.628593,
+    "longitude": -37.41279,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tomahawk",
+    "image": null,
+    "description": null,
+    "latitude": 146.410624,
+    "longitude": -37.04022,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Keppel'S Hut",
+    "image": null,
+    "description": null,
+    "latitude": 145.851555,
+    "longitude": -37.460581,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Marthavale",
+    "image": null,
+    "description": null,
+    "latitude": 147.526478,
+    "longitude": -37.44589,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ski Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.889791,
+    "longitude": -36.48547,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Evans Creek Hut",
+    "image": null,
+    "description": null,
+    "latitude": 146.378861,
+    "longitude": -37.00613,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Ditchfield",
+    "image": null,
+    "description": null,
+    "latitude": 143.272659,
+    "longitude": -37.317117,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ben Nevis",
+    "image": null,
+    "description": null,
+    "latitude": 143.200913,
+    "longitude": -37.22833,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Mt No Three Refuge Hut",
+    "image": null,
+    "description": null,
+    "latitude": 146.416776,
+    "longitude": -37.0764,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Hut Mitta Mitta Historic Reserve",
+    "image": null,
+    "description": null,
+    "latitude": 147.375066,
+    "longitude": -36.53738,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Goonans",
+    "image": null,
+    "description": "6 beds, shower, sink",
+    "latitude": 146.455244,
+    "longitude": -37.74903,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mugwamp Hut",
+    "image": null,
+    "description": null,
+    "latitude": 143.236,
+    "longitude": -37.29273,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Washington Winch Cover",
+    "image": null,
+    "description": null,
+    "latitude": 147.883225,
+    "longitude": -37.21158,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Razorback",
+    "image": null,
+    "description": null,
+    "latitude": 146.464083,
+    "longitude": -37.10394,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Wheelers Creek Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.877035,
+    "longitude": -36.54676,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Hut 4 Next To Main Hut",
+    "image": null,
+    "description": null,
+    "latitude": 147.628634,
+    "longitude": -37.41281,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Bush Hilton",
+    "image": null,
+    "description": null,
+    "latitude": 147.922443,
+    "longitude": -37.22768,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Black Snake Creek",
+    "image": null,
+    "description": null,
+    "latitude": 147.140647,
+    "longitude": -37.4461,
+    "tags": [
+      "HUT"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Craigs Hut",
+    "image": null,
+    "description": "rebuild 2008 and 3 interps signs inside",
+    "latitude": 146.532692,
+    "longitude": -37.10827,
+    "tags": [
+      "HUT"
+    ]
+  }
+]

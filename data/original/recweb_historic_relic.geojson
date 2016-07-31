@@ -1,0 +1,2910 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10258",
+        "NAME": "Moscow Villa",
+        "LATITUDE": -37.226346,
+        "LONGITUDE": 147.922132,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10257",
+        "PHOTO_ID_1": "10256",
+        "PHOTO_ID_2": "10257",
+        "PHOTO_ID_3": "10258",
+        "LABEL": "Moscow Villa",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.922132,
+        "Y_COORD": -37.226346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.922132,
+          -37.22635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6025",
+        "NAME": "Morning Star Water Wheel",
+        "LATITUDE": -37.743662,
+        "LONGITUDE": 146.506282,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "6023",
+        "PHOTO_ID_1": "5756",
+        "PHOTO_ID_2": "5757",
+        "PHOTO_ID_3": "5758",
+        "LABEL": "Morning Star Water Wheel",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.506282,
+        "Y_COORD": -37.743662
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.506282,
+          -37.74366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "8878",
+        "NAME": "Wilks Creek School Site Plaque",
+        "LATITUDE": -37.542922,
+        "LONGITUDE": 145.733579,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "8873",
+        "PHOTO_ID_1": "8856",
+        "PHOTO_ID_2": "8857",
+        "PHOTO_ID_3": null,
+        "LABEL": "Wilks Creek School Site Plaque",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.733579,
+        "Y_COORD": -37.542922
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.733579,
+          -37.54292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40001",
+        "NAME": "Gold Battery",
+        "LATITUDE": -36.566919,
+        "LONGITUDE": 146.730427,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "40000",
+        "PHOTO_ID_1": "40001",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Gold Battery",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.730427,
+        "Y_COORD": -36.566919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.730427,
+          -36.56692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "7258",
+        "NAME": "White Woman'S Waterhole",
+        "LATITUDE": -38.481037,
+        "LONGITUDE": 146.772379,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "7254",
+        "PHOTO_ID_1": "6217",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "White Woman'S Waterhole",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.772379,
+        "Y_COORD": -38.481037
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.772379,
+          -38.48104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "9002",
+        "NAME": "Ada No2 Boiler And Building",
+        "LATITUDE": -37.834309,
+        "LONGITUDE": 145.840402,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "9001",
+        "PHOTO_ID_1": "120439",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ada No2 Boiler And Building",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.840402,
+        "Y_COORD": -37.834309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.840402,
+          -37.83431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120252",
+        "NAME": "Water Wheel Mitta Mitta Historic Reserve",
+        "LATITUDE": -36.5373,
+        "LONGITUDE": 147.37505,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120246",
+        "PHOTO_ID_1": "120241",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Water Wheel Mitta Mitta Historic Reserve",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.37505,
+        "Y_COORD": -36.5373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.37505,
+          -36.5373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120255",
+        "NAME": "Gold Stamper Mitta Mitta Historic Reserve",
+        "LATITUDE": -36.537266,
+        "LONGITUDE": 147.375098,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120246",
+        "PHOTO_ID_1": "120244",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Gold Stamper Mitta Mitta Historic Reserve",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.375098,
+        "Y_COORD": -36.537266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.375098,
+          -36.53727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10369",
+        "NAME": "Wilsons Hut",
+        "LATITUDE": -37.181776,
+        "LONGITUDE": 148.892574,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "6990",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "10368",
+        "PHOTO_ID_1": "10378",
+        "PHOTO_ID_2": "10379",
+        "PHOTO_ID_3": "10380",
+        "LABEL": "Wilsons Hut",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.892574,
+        "Y_COORD": -37.181776
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.892574,
+          -37.18178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3880",
+        "NAME": "Old Lead Diggings",
+        "LATITUDE": -36.84391,
+        "LONGITUDE": 143.735137,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3873",
+        "PHOTO_ID_1": "3509",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Old Lead Diggings",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.735137,
+        "Y_COORD": -36.84391
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.735137,
+          -36.84391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40003",
+        "NAME": "Adit 1",
+        "LATITUDE": -36.5667,
+        "LONGITUDE": 146.730684,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "40000",
+        "PHOTO_ID_1": "40003",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Adit 1",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.730684,
+        "Y_COORD": -36.5667
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.730684,
+          -36.5667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4405",
+        "NAME": "Ada No 2 Mill",
+        "LATITUDE": -37.834669,
+        "LONGITUDE": 145.84031,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4224",
+        "PHOTO_ID_1": "3941",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ada No 2 Mill",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.84031,
+        "Y_COORD": -37.834669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.84031,
+          -37.83467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120002",
+        "NAME": "Cheryl Barber Fankhauser Memorial",
+        "LATITUDE": -36.726571,
+        "LONGITUDE": 146.971005,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120000",
+        "PHOTO_ID_1": "120002",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Cheryl Barber Fankhauser Memorial",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.971005,
+        "Y_COORD": -36.726571
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.971005,
+          -36.72657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70005",
+        "NAME": "Gunyah Picnic Area",
+        "LATITUDE": -36.718355,
+        "LONGITUDE": 144.414643,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "remains of eucalyptus distillery",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "3514",
+        "PHOTO_ID_1": "70009",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Gunyah Picnic Area",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.414643,
+        "Y_COORD": -36.718355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.414643,
+          -36.71835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2017",
+        "NAME": "Wheelers And Firths Sawmill",
+        "LATITUDE": -37.450608,
+        "LONGITUDE": 144.238009,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "2013",
+        "PHOTO_ID_1": "1879",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Wheelers And Firths Sawmill",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.238009,
+        "Y_COORD": -37.450608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.238009,
+          -37.45061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10112",
+        "NAME": "Stringers Knob Historic Fire Tower",
+        "LATITUDE": -37.616969,
+        "LONGITUDE": 148.270419,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "1",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "STATE",
+        "IS_PART_OF": "10111",
+        "PHOTO_ID_1": "10110",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Stringers Knob Historic Fire Tower",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.270419,
+        "Y_COORD": -37.616969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.270419,
+          -37.61697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40093",
+        "NAME": "Ventilation Shaft",
+        "LATITUDE": -36.565096,
+        "LONGITUDE": 146.733192,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120159",
+        "PHOTO_ID_1": "40096",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ventilation Shaft",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.733192,
+        "Y_COORD": -36.565096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.733192,
+          -36.5651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4465",
+        "NAME": "New Ada Mill",
+        "LATITUDE": -37.820086,
+        "LONGITUDE": 145.842876,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4224",
+        "PHOTO_ID_1": "4000",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "New Ada Mill",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.842876,
+        "Y_COORD": -37.820086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.842876,
+          -37.820086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "1482",
+        "NAME": "Rubicon Saw Mill",
+        "LATITUDE": -37.373075,
+        "LONGITUDE": 145.862566,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "1474",
+        "PHOTO_ID_1": "1398",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Rubicon Saw Mill",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.862566,
+        "Y_COORD": -37.373075
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.862566,
+          -37.37307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70084",
+        "NAME": "Mickeys Eucalyptus Distllery",
+        "LATITUDE": -36.42677,
+        "LONGITUDE": 143.589642,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "known as Mickeys - licensed by Felton Grimwade and Bickford untill 1999, taken over by Vernons",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "70083",
+        "PHOTO_ID_1": "70086",
+        "PHOTO_ID_2": "70087",
+        "PHOTO_ID_3": "70088",
+        "LABEL": "Mickeys Eucalyptus Distllery",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.589642,
+        "Y_COORD": -36.42677
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.589642,
+          -36.42677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4226",
+        "NAME": "Saw Dust Heap",
+        "LATITUDE": -37.81327,
+        "LONGITUDE": 145.799403,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4224",
+        "PHOTO_ID_1": "3808",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Saw Dust Heap",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.799403,
+        "Y_COORD": -37.81327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.799403,
+          -37.81327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10558",
+        "NAME": "Tubal Cain Relics",
+        "LATITUDE": -37.589026,
+        "LONGITUDE": 147.696511,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "iron relics including battery",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10557",
+        "PHOTO_ID_1": "10552",
+        "PHOTO_ID_2": "10553",
+        "PHOTO_ID_3": null,
+        "LABEL": "Tubal Cain Relics",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.696511,
+        "Y_COORD": -37.589026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.696511,
+          -37.589026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30312",
+        "NAME": "Ruins Of Fireplace And Chimney",
+        "LATITUDE": -37.372003,
+        "LONGITUDE": 146.159005,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "30303",
+        "PHOTO_ID_1": "30330",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Ruins Of Fireplace And Chimney",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.159005,
+        "Y_COORD": -37.372003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.159005,
+          -37.372003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "1475",
+        "NAME": "Tramway Shed And Trollies",
+        "LATITUDE": -37.374284,
+        "LONGITUDE": 145.863678,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "1474",
+        "PHOTO_ID_1": "1391",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Tramway Shed And Trollies",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.863678,
+        "Y_COORD": -37.374284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.863678,
+          -37.37428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120271",
+        "NAME": "Logging Winch Lightning Creek",
+        "LATITUDE": -36.661047,
+        "LONGITUDE": 147.433034,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120262",
+        "PHOTO_ID_1": "120262",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Logging Winch Lightning Creek",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.433034,
+        "Y_COORD": -36.661047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.433034,
+          -36.661047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2061",
+        "NAME": "Balt Camp",
+        "LATITUDE": -37.461767,
+        "LONGITUDE": 144.215206,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "two chimney from a mess hut for reugee workers 1940s",
+        "HPL_NO": "0",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "2060",
+        "PHOTO_ID_1": "5207",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Balt Camp",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.215206,
+        "Y_COORD": -37.461767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.215206,
+          -37.46177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2113",
+        "NAME": "Anderson Mill Site",
+        "LATITUDE": -37.433467,
+        "LONGITUDE": 144.43261,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "saw dust heap",
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "2108",
+        "PHOTO_ID_1": "1919",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Anderson Mill Site",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.43261,
+        "Y_COORD": -37.433467
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.43261,
+          -37.43347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4986",
+        "NAME": "Stony Creek Trestle Bridge",
+        "LATITUDE": -37.743199,
+        "LONGITUDE": 148.044183,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "STATE",
+        "IS_PART_OF": "4985",
+        "PHOTO_ID_1": "4487",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Stony Creek Trestle Bridge",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.044183,
+        "Y_COORD": -37.743199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.044183,
+          -37.743199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10547",
+        "NAME": "Glenmore Huts",
+        "LATITUDE": -37.280305,
+        "LONGITUDE": 148.10274,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Four huts",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10546",
+        "PHOTO_ID_1": "10541",
+        "PHOTO_ID_2": "10542",
+        "PHOTO_ID_3": null,
+        "LABEL": "Glenmore Huts",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.10274,
+        "Y_COORD": -37.280305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10274,
+          -37.280305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3914",
+        "NAME": "Jones Creek Digging",
+        "LATITUDE": -36.808106,
+        "LONGITUDE": 143.78709,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3873",
+        "PHOTO_ID_1": "3543",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Jones Creek Digging",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.78709,
+        "Y_COORD": -36.808106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78709,
+          -36.80811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40110",
+        "NAME": "Adit 2",
+        "LATITUDE": -36.569682,
+        "LONGITUDE": 146.733521,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120159",
+        "PHOTO_ID_1": "40113",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Adit 2",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.733521,
+        "Y_COORD": -36.569682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.733521,
+          -36.569682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120003",
+        "NAME": "Firefighter Helicopter Accident",
+        "LATITUDE": -36.726692,
+        "LONGITUDE": 146.971292,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120000",
+        "PHOTO_ID_1": "120003",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Firefighter Helicopter Accident",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.971292,
+        "Y_COORD": -36.726692
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.971292,
+          -36.72669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "8088",
+        "NAME": "Timber Harvesting Relics",
+        "LATITUDE": -37.890593,
+        "LONGITUDE": 145.997214,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "8081",
+        "PHOTO_ID_1": "8072",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Timber Harvesting Relics",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.997214,
+        "Y_COORD": -37.890593
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.997214,
+          -37.89059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "220",
+        "NAME": "Old Tramway Bridge Not In Use",
+        "LATITUDE": -37.855038,
+        "LONGITUDE": 145.760886,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "201",
+        "PHOTO_ID_1": "172",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Old Tramway Bridge Not In Use",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.760886,
+        "Y_COORD": -37.855038
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.760886,
+          -37.85504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3874",
+        "NAME": "Old Lead Dredge Hole",
+        "LATITUDE": -36.853351,
+        "LONGITUDE": 143.729489,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3873",
+        "PHOTO_ID_1": "3503",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Old Lead Dredge Hole",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.729489,
+        "Y_COORD": -36.853351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.729489,
+          -36.85335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3876",
+        "NAME": "Old Lead Dredge",
+        "LATITUDE": -36.84938,
+        "LONGITUDE": 143.731559,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3873",
+        "PHOTO_ID_1": "3505",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Old Lead Dredge",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.731559,
+        "Y_COORD": -36.84938
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.731559,
+          -36.84938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40130",
+        "NAME": "Old Water Reservoir",
+        "LATITUDE": -36.563401,
+        "LONGITUDE": 146.733786,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120045",
+        "PHOTO_ID_1": "40133",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Old Water Reservoir",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.733786,
+        "Y_COORD": -36.563401
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.733786,
+          -36.563401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6141",
+        "NAME": "Battery And Engine",
+        "LATITUDE": -37.438221,
+        "LONGITUDE": 147.177357,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "6140",
+        "PHOTO_ID_1": "10957",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Battery And Engine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.177357,
+        "Y_COORD": -37.438221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.177357,
+          -37.438221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40004",
+        "NAME": "Adit 2",
+        "LATITUDE": -36.568166,
+        "LONGITUDE": 146.730779,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "40000",
+        "PHOTO_ID_1": "40004",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Adit 2",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.730779,
+        "Y_COORD": -36.568166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.730779,
+          -36.56817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10367",
+        "NAME": "Jungle King Mine",
+        "LATITUDE": -37.243024,
+        "LONGITUDE": 148.874601,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "1",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "8152",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10365",
+        "PHOTO_ID_1": "10375",
+        "PHOTO_ID_2": "10376",
+        "PHOTO_ID_3": null,
+        "LABEL": "Jungle King Mine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.874601,
+        "Y_COORD": -37.243024
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.874601,
+          -37.243024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "8604",
+        "NAME": "Water Pipeline",
+        "LATITUDE": -36.647775,
+        "LONGITUDE": 143.264542,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "8600",
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "8603",
+        "PHOTO_ID_1": null,
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Water Pipeline",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.264542,
+        "Y_COORD": -36.647775
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.264542,
+          -36.64777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3989",
+        "NAME": "Chinamans Gold Diggings",
+        "LATITUDE": -36.853918,
+        "LONGITUDE": 143.78148,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3966",
+        "PHOTO_ID_1": "3616",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Chinamans Gold Diggings",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.78148,
+        "Y_COORD": -36.853918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.78148,
+          -36.85392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70055",
+        "NAME": "Dunns Reef Loading Ramp",
+        "LATITUDE": -37.048217,
+        "LONGITUDE": 144.107853,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "View the remains of the Dunns Reef historic timber loading ramp and open cut from the 1870's",
+        "HPL_NO": "5582",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "IS_PART_OF": "70036",
+        "PHOTO_ID_1": "70057",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Dunns Reef Loading Ramp",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.107853,
+        "Y_COORD": -37.048217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.107853,
+          -37.04822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5677",
+        "NAME": "Toombon",
+        "LATITUDE": -37.734121,
+        "LONGITUDE": 146.40452,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "5676",
+        "PHOTO_ID_1": "5377",
+        "PHOTO_ID_2": "5378",
+        "PHOTO_ID_3": null,
+        "LABEL": "Toombon",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.40452,
+        "Y_COORD": -37.734121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.40452,
+          -37.73412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5681",
+        "NAME": "Toombon Boiler",
+        "LATITUDE": -37.739669,
+        "LONGITUDE": 146.397182,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "5678",
+        "PHOTO_ID_1": "5381",
+        "PHOTO_ID_2": "5382",
+        "PHOTO_ID_3": "5383",
+        "LABEL": "Toombon Boiler",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.397182,
+        "Y_COORD": -37.739669
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.397182,
+          -37.739669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10940",
+        "NAME": "Black Snake Mine",
+        "LATITUDE": -37.436132,
+        "LONGITUDE": 147.165433,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "6140",
+        "PHOTO_ID_1": "10953",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Black Snake Mine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.165433,
+        "Y_COORD": -37.436132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.165433,
+          -37.43613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6286",
+        "NAME": "Collins",
+        "LATITUDE": -37.497981,
+        "LONGITUDE": 147.154814,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "six bunk beds, sink and seats",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "6285",
+        "PHOTO_ID_1": "5992",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Collins",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.154814,
+        "Y_COORD": -37.497981
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.154814,
+          -37.49798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10204",
+        "NAME": "Portable Steam Engine",
+        "LATITUDE": -37.656302,
+        "LONGITUDE": 148.51531,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "portable steam engine",
+        "HPL_NO": "2017",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "5409",
+        "PHOTO_ID_1": "10205",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Portable Steam Engine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.51531,
+        "Y_COORD": -37.656302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.51531,
+          -37.6563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120249",
+        "NAME": "Dredge Buckets Mitta Mitta Historic Reserve",
+        "LATITUDE": -36.53741,
+        "LONGITUDE": 147.375231,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120246",
+        "PHOTO_ID_1": "120238",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Dredge Buckets Mitta Mitta Historic Reserve",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.375231,
+        "Y_COORD": -36.53741
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.375231,
+          -36.53741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40007",
+        "NAME": "Adit 3",
+        "LATITUDE": -36.570089,
+        "LONGITUDE": 146.733723,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "40000",
+        "PHOTO_ID_1": "40007",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Adit 3",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.733723,
+        "Y_COORD": -36.570089
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.733723,
+          -36.570089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120172",
+        "NAME": "Reform Hill Quarry",
+        "LATITUDE": -36.569555,
+        "LONGITUDE": 146.734047,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "disused",
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120165",
+        "PHOTO_ID_1": "120160",
+        "PHOTO_ID_2": "120161",
+        "PHOTO_ID_3": null,
+        "LABEL": "Reform Hill Quarry",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.734047,
+        "Y_COORD": -36.569555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.734047,
+          -36.569555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30318",
+        "NAME": "Hut Site With Ovens And Fireplaces",
+        "LATITUDE": -37.372116,
+        "LONGITUDE": 146.158505,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "30303",
+        "PHOTO_ID_1": "30336",
+        "PHOTO_ID_2": "30337",
+        "PHOTO_ID_3": null,
+        "LABEL": "Hut Site With Ovens And Fireplaces",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.158505,
+        "Y_COORD": -37.372116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.158505,
+          -37.372116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4398",
+        "NAME": "Log Bogie",
+        "LATITUDE": -37.860929,
+        "LONGITUDE": 145.744804,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4393",
+        "PHOTO_ID_1": "3934",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Log Bogie",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.744804,
+        "Y_COORD": -37.860929
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.744804,
+          -37.860929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120077",
+        "NAME": "Hume And Hovell Monument",
+        "LATITUDE": -36.56433,
+        "LONGITUDE": 146.732318,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120074",
+        "PHOTO_ID_1": "120081",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Hume And Hovell Monument",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.732318,
+        "Y_COORD": -36.56433
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.732318,
+          -36.56433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "6027",
+        "NAME": "Crinoline Boiler",
+        "LATITUDE": -37.741856,
+        "LONGITUDE": 146.509606,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "6026",
+        "PHOTO_ID_1": "5759",
+        "PHOTO_ID_2": "5760",
+        "PHOTO_ID_3": null,
+        "LABEL": "Crinoline Boiler",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.509606,
+        "Y_COORD": -37.741856
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.509606,
+          -37.74186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70069",
+        "NAME": "Golden Age Co. (Red White And Blue) Mine",
+        "LATITUDE": -37.059724,
+        "LONGITUDE": 144.107829,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Historic poppet head, shaft, workings, mullock heaps, dams",
+        "HPL_NO": "5844",
+        "SIGNIF": "REGIONAL",
+        "IS_PART_OF": "3867",
+        "PHOTO_ID_1": "70071",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Golden Age Co. (Red White And Blue) Mine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.107829,
+        "Y_COORD": -37.059724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.107829,
+          -37.059724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10297",
+        "NAME": "Explosive Magazine Loop",
+        "LATITUDE": -37.690361,
+        "LONGITUDE": 147.826598,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Not listed in HP register.",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "5910",
+        "PHOTO_ID_1": "10300",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Explosive Magazine Loop",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.826598,
+        "Y_COORD": -37.690361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.826598,
+          -37.690361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4892",
+        "NAME": "Washington Winch Steam Engine",
+        "LATITUDE": -37.211621,
+        "LONGITUDE": 147.883271,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NATIONAL",
+        "IS_PART_OF": "4893",
+        "PHOTO_ID_1": "4429",
+        "PHOTO_ID_2": "4430",
+        "PHOTO_ID_3": "4431",
+        "LABEL": "Washington Winch Steam Engine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.883271,
+        "Y_COORD": -37.211621
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.883271,
+          -37.211621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70034",
+        "NAME": "Waanyarra Cemetery",
+        "LATITUDE": -36.812896,
+        "LONGITUDE": 143.796012,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Historic Waanyarra Cemetery",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "70010",
+        "PHOTO_ID_1": "70036",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Waanyarra Cemetery",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.796012,
+        "Y_COORD": -36.812896
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.796012,
+          -36.8129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "70067",
+        "NAME": "Golden Age Co. (Red White And Blue) Mine",
+        "LATITUDE": -37.059882,
+        "LONGITUDE": 144.107712,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "remains of historic machinery site (mining)",
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3867",
+        "PHOTO_ID_1": "70068",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Golden Age Co. (Red White And Blue) Mine",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.107712,
+        "Y_COORD": -37.059882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.107712,
+          -37.05988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120254",
+        "NAME": "Dredge Buckets On Ground Mitta Mitta Historic Reserve",
+        "LATITUDE": -36.537257,
+        "LONGITUDE": 147.375015,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120246",
+        "PHOTO_ID_1": "120243",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Dredge Buckets On Ground Mitta Mitta Historic Reserve",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.375015,
+        "Y_COORD": -36.537257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.375015,
+          -36.53726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "215",
+        "NAME": "Reids Mill Site",
+        "LATITUDE": -37.850878,
+        "LONGITUDE": 145.759952,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "IS_PART_OF": "201",
+        "PHOTO_ID_1": "167",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Reids Mill Site",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.759952,
+        "Y_COORD": -37.850878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.759952,
+          -37.85088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3923",
+        "NAME": "Gold Digging Site",
+        "LATITUDE": -36.818001,
+        "LONGITUDE": 143.80244,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3873",
+        "PHOTO_ID_1": "3552",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Gold Digging Site",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.80244,
+        "Y_COORD": -36.818001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.80244,
+          -36.818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "1484",
+        "NAME": "Tramway End  Winch House",
+        "LATITUDE": -37.338242,
+        "LONGITUDE": 145.856273,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "1474",
+        "PHOTO_ID_1": "1400",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Tramway End  Winch House",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.856273,
+        "Y_COORD": -37.338242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.856273,
+          -37.338242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10209",
+        "NAME": "Historic Youngs Creek Reservoir Walk",
+        "LATITUDE": -37.643138,
+        "LONGITUDE": 148.510196,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "1",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Reservoir dam wall",
+        "HPL_NO": "7652",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "10206",
+        "PHOTO_ID_1": "10209",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Historic Youngs Creek Reservoir Walk",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 148.510196,
+        "Y_COORD": -37.643138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.510196,
+          -37.64314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "3872",
+        "NAME": "Poppet Head",
+        "LATITUDE": -37.059755,
+        "LONGITUDE": 144.107891,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "3867",
+        "PHOTO_ID_1": "3502",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Poppet Head",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.107891,
+        "Y_COORD": -37.059755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.107891,
+          -37.059755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4151",
+        "NAME": "Aboriginal Scar Tree",
+        "LATITUDE": -36.77792,
+        "LONGITUDE": 143.703584,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "unsure of significance rating",
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4141",
+        "PHOTO_ID_1": "3735",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Aboriginal Scar Tree",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 143.703584,
+        "Y_COORD": -36.77792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.703584,
+          -36.77792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4467",
+        "NAME": "Boiler",
+        "LATITUDE": -37.829918,
+        "LONGITUDE": 145.84085,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4224",
+        "PHOTO_ID_1": "4002",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Boiler",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.84085,
+        "Y_COORD": -37.829918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.84085,
+          -37.82992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30308",
+        "NAME": "Mullock Dumps",
+        "LATITUDE": -37.371142,
+        "LONGITUDE": 146.160146,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "30303",
+        "PHOTO_ID_1": "30326",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Mullock Dumps",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.160146,
+        "Y_COORD": -37.371142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.160146,
+          -37.37114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30310",
+        "NAME": "Small Open Adit",
+        "LATITUDE": -37.371329,
+        "LONGITUDE": 146.159908,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "30303",
+        "PHOTO_ID_1": "30328",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Small Open Adit",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.159908,
+        "Y_COORD": -37.371329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.159908,
+          -37.371329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "2018",
+        "NAME": "Saw Dust Heap",
+        "LATITUDE": -37.450599,
+        "LONGITUDE": 144.238582,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "2013",
+        "PHOTO_ID_1": "1877",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Saw Dust Heap",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 144.238582,
+        "Y_COORD": -37.450599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.238582,
+          -37.4506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "40103",
+        "NAME": "Adit1",
+        "LATITUDE": -36.56864,
+        "LONGITUDE": 146.734744,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120159",
+        "PHOTO_ID_1": "40106",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Adit1",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.734744,
+        "Y_COORD": -36.56864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.734744,
+          -36.56864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "51088",
+        "NAME": "Tramway Remains",
+        "LATITUDE": -37.305041,
+        "LONGITUDE": 145.846506,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "50024",
+        "PHOTO_ID_1": "51218",
+        "PHOTO_ID_2": "51219",
+        "PHOTO_ID_3": null,
+        "LABEL": "Tramway Remains",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.846506,
+        "Y_COORD": -37.305041
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.846506,
+          -37.305041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "239",
+        "NAME": "Tramway Wheels",
+        "LATITUDE": -37.865619,
+        "LONGITUDE": 145.75922,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "201",
+        "PHOTO_ID_1": "191",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Tramway Wheels",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.75922,
+        "Y_COORD": -37.865619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.75922,
+          -37.86562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "4234",
+        "NAME": "Saw Dust Heap",
+        "LATITUDE": -37.798706,
+        "LONGITUDE": 145.77947,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "4224",
+        "PHOTO_ID_1": "3816",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Saw Dust Heap",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.77947,
+        "Y_COORD": -37.798706
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.77947,
+          -37.79871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10267",
+        "NAME": "Dogs Grave",
+        "LATITUDE": -37.233813,
+        "LONGITUDE": 147.381039,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "2925",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10265",
+        "PHOTO_ID_1": "10268",
+        "PHOTO_ID_2": "10269",
+        "PHOTO_ID_3": null,
+        "LABEL": "Dogs Grave",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.381039,
+        "Y_COORD": -37.233813
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.381039,
+          -37.233813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "7070",
+        "NAME": "Alex Stimmer Grave",
+        "LATITUDE": -38.364545,
+        "LONGITUDE": 146.832716,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "7068",
+        "PHOTO_ID_1": "6107",
+        "PHOTO_ID_2": "6108",
+        "PHOTO_ID_3": null,
+        "LABEL": "Alex Stimmer Grave",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.832716,
+        "Y_COORD": -38.364545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.832716,
+          -38.36454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "30133",
+        "NAME": "Heller Historic Grave",
+        "LATITUDE": -36.866351,
+        "LONGITUDE": 146.201527,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "30130",
+        "PHOTO_ID_1": "30141",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Heller Historic Grave",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.201527,
+        "Y_COORD": -36.866351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.201527,
+          -36.86635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10290",
+        "NAME": "Deptford Township (Bakers Oven)",
+        "LATITUDE": -37.594943,
+        "LONGITUDE": 147.702599,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Bakers Oven",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10288",
+        "PHOTO_ID_1": "10293",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Deptford Township (Bakers Oven)",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.702599,
+        "Y_COORD": -37.594943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.702599,
+          -37.594943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "5340",
+        "NAME": "Thomas Terrace Gaffney",
+        "LATITUDE": -37.477916,
+        "LONGITUDE": 146.19253,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": "pioneer",
+        "HPL_NO": "0",
+        "SIGNIF": "NOT SIGNIFICANT",
+        "IS_PART_OF": "5338",
+        "PHOTO_ID_1": "5104",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Thomas Terrace Gaffney",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 146.19253,
+        "Y_COORD": -37.477916
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.19253,
+          -37.477916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "120272",
+        "NAME": "Logging Artifact Lightning Creek",
+        "LATITUDE": -36.66109,
+        "LONGITUDE": 147.433054,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "120262",
+        "PHOTO_ID_1": "120263",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Logging Artifact Lightning Creek",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.433054,
+        "Y_COORD": -36.66109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.433054,
+          -36.66109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "1477",
+        "NAME": "Tramway Shed",
+        "LATITUDE": -37.387145,
+        "LONGITUDE": 145.863847,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "0",
+        "DIS_ACCESS": null,
+        "COMMENTS": null,
+        "HPL_NO": "0",
+        "SIGNIF": "LOCAL",
+        "IS_PART_OF": "1474",
+        "PHOTO_ID_1": "1393",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Tramway Shed",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 145.863847,
+        "Y_COORD": -37.387145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.863847,
+          -37.38714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "FAC_TYPE": "HISTORIC RELIC",
+        "VERS_DATE": "2016/07/27",
+        "SERIAL_NO": "10291",
+        "NAME": "Haughtons Diversion Tunnel",
+        "LATITUDE": -37.593801,
+        "LONGITUDE": 147.703562,
+        "CATEGORY": null,
+        "TYPE": null,
+        "ELEV_STRU": "1",
+        "DIS_ACCESS": null,
+        "COMMENTS": "Position on spur directly on top of diversion tunnel.",
+        "HPL_NO": "7130",
+        "SIGNIF": "NOT ASSESSED",
+        "IS_PART_OF": "10288",
+        "PHOTO_ID_1": "10294",
+        "PHOTO_ID_2": null,
+        "PHOTO_ID_3": null,
+        "LABEL": "Haughtons Diversion Tunnel",
+        "PUBLISHED": "Y",
+        "SDE_DATE": "27/07/2016 09:07:10 PM",
+        "X_COORD": 147.703562,
+        "Y_COORD": -37.593801
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.703562,
+          -37.5938
+        ]
+      }
+    }
+  ]
+}

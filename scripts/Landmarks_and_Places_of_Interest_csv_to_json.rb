@@ -40,6 +40,32 @@ rename_headers = lambda do |h|
   header_map.keys.include?(h.to_sym) ? header_map[h.to_sym] : h
 end
 
+def deteremine_category(category)
+  leisure_themes = [
+    "Leisure/Recreation",
+    "Place Of Assembly",
+    "Community Use"
+  ]
+
+  if leisure_themes.include?(category)
+    return "Leisure"
+  end
+
+  if "shelter" == category.downcase
+    return "Huts and shelters"
+  end
+
+  if "picnic" == category.downcase
+    "Picnicing"
+  end
+
+  if "place of worship" == category.downcase
+    return "Places of worship"
+  end
+
+  return category
+end
+
 # extract_coordinates = lambda do |h|
 #   header_map = [
 #     :"Co-ordinates",
@@ -55,7 +81,7 @@ end
 
 # ruby scripts/Landmarks_and_Places_of_Interest_csv_to_json.rb data/original/Landmarks_and_Places_of_Interest.csv
 
-input_filename = ARGV[0] || "/Users/Sonna/Projects/GovHack/data/Landmarks_and_Places_of_Interest.csv"
+input_filename = ARGV[0] || "data/original/Landmarks_and_Places_of_Interest.csv"
 output_filename = input_filename.sub(/(csv)$/, 'json').sub(%r(/original/), '/cleaned/')
 puts output_filename
 # options = { col_sep: ',', converters: [:all, :blank_to_nil], headers: true, header_converters: true }
@@ -77,8 +103,8 @@ lines.each_with_index do |line, index|
   # latitude: 144.939277838304
 
   line[:tags] = []
-  line[:tags] << line[:category]
-  line[:tags] << line[:sub_category]
+  line[:tags] << deteremine_category(line[:category])
+  line[:tags] << deteremine_category(line[:sub_category])
 
   line.delete(:category)
   line.delete(:sub_category)
