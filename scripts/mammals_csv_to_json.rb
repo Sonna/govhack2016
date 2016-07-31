@@ -4,6 +4,8 @@
 # - [Ruby Script for converting CSV to JSON - Stack Overflow]
 #   (http://stackoverflow.com/questions/26402182/ruby-script-for-converting-csv-to-json)
 
+require_relative 'common/conversion_map.rb'
+
 require 'csv'
 require 'json'
 require 'pry'
@@ -121,8 +123,12 @@ lines = CSV.open(input_filename, options).readlines
 lines.each_with_index do |line, index|
   line[:id] = index
   line[:tags] = [
-    "mammals"
+    "mammals",
+    "Wildlife"
   ]
+
+  line[:longitude] = (line[:longitude] * 1_000_000).floor / 1_000_000.0
+  line[:latitude]  = (line[:latitude] * 1_000_000).floor / 1_000_000.0
 
   HEADERS_TO_DELETE.each { |header| line.delete(header) }
 end

@@ -4,6 +4,8 @@
 # - [Ruby Script for converting CSV to JSON - Stack Overflow]
 #   (http://stackoverflow.com/questions/26402182/ruby-script-for-converting-csv-to-json)
 
+require_relative 'common/conversion_map.rb'
+
 require 'csv'
 require 'json'
 require 'pry'
@@ -97,14 +99,22 @@ lines.each_with_index do |line, index|
   line[:id] = index
   # "(-37.7881645889621, 144.939277838304)"
   line[:longitude], line[:latitude] =
-    line[:coordinates].gsub(%r{[()""]}, "").split(", ").map { |coordinate| to_numeric(coordinate) }
+    line[:coordinates].gsub(%r{[()""]}, "").split(", ").map { |coordinate| (to_numeric(coordinate) * 1_000_000).floor / 1_000_000.0 }
   # =>
   # longitude: -37.7881645889621,
   # latitude: 144.939277838304
 
-  line[:tags] = []
-  line[:tags] << deteremine_category(line[:category])
-  line[:tags] << deteremine_category(line[:sub_category])
+  tags = []
+  tags << deteremine_category(line[:category])
+  tags << deteremine_category(line[:sub_category])
+
+  tags += tags.map { |tag| CONVERSION_MAP[tag] }
+
+  line[:tags] = tags
+    .compact
+    .reject(&:empty?)
+    .reject(&:nil?)
+    .uniq
 
   line.delete(:category)
   line.delete(:sub_category)
