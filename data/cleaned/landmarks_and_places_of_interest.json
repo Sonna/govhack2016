@@ -6,7 +6,8 @@
     "latitude": 144.939277,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -16,7 +17,9 @@
     "latitude": 144.966638,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Carpark"
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -326,7 +329,8 @@
     "latitude": 144.957288,
     "tags": [
       "Health Services",
-      "Private Hospital"
+      "Private Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -346,7 +350,8 @@
     "latitude": 144.966486,
     "tags": [
       "Leisure",
-      "Police Station"
+      "Police Station",
+      "Landmarks"
     ]
   },
   {
@@ -356,7 +361,8 @@
     "latitude": 144.954697,
     "tags": [
       "Leisure",
-      "Police Station"
+      "Police Station",
+      "Landmarks"
     ]
   },
   {
@@ -366,7 +372,8 @@
     "latitude": 144.953398,
     "tags": [
       "Leisure",
-      "Police Station"
+      "Police Station",
+      "Landmarks"
     ]
   },
   {
@@ -376,7 +383,8 @@
     "latitude": 144.964425,
     "tags": [
       "Leisure",
-      "Visitor Centre"
+      "Visitor Centre",
+      "Landmarks"
     ]
   },
   {
@@ -406,7 +414,8 @@
     "latitude": 144.917534,
     "tags": [
       "Transport",
-      "Transport Terminal"
+      "Transport Terminal",
+      "Landmarks"
     ]
   },
   {
@@ -436,7 +445,8 @@
     "latitude": 144.965785,
     "tags": [
       "Leisure",
-      "Cemetery"
+      "Cemetery",
+      "Landmarks"
     ]
   },
   {
@@ -466,7 +476,7 @@
     "latitude": 144.957158,
     "tags": [
       "Retail",
-      "Retail"
+      "Leisure"
     ]
   },
   {
@@ -476,7 +486,8 @@
     "latitude": 144.969406,
     "tags": [
       "Education Centre",
-      "Primary Schools"
+      "Primary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -486,7 +497,8 @@
     "latitude": 144.970147,
     "tags": [
       "Education Centre",
-      "Primary Schools"
+      "Primary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -526,7 +538,8 @@
     "latitude": 144.976285,
     "tags": [
       "Education Centre",
-      "Secondary Schools"
+      "Secondary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -536,7 +549,8 @@
     "latitude": 144.982227,
     "tags": [
       "Education Centre",
-      "School - Primary and Secondary Education"
+      "School - Primary and Secondary Education",
+      "Landmarks"
     ]
   },
   {
@@ -576,7 +590,8 @@
     "latitude": 144.969332,
     "tags": [
       "Education Centre",
-      "Tertiary (University)"
+      "Tertiary (University)",
+      "Landmarks"
     ]
   },
   {
@@ -606,7 +621,8 @@
     "latitude": 144.952944,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -636,7 +652,8 @@
     "latitude": 144.956034,
     "tags": [
       "Education Centre",
-      "Secondary Schools"
+      "Secondary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -646,7 +663,8 @@
     "latitude": 144.96433,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -666,7 +684,9 @@
     "latitude": 144.975236,
     "tags": [
       "Mixed Use",
-      "Retail/Office"
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -676,7 +696,7 @@
     "latitude": 144.974423,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -686,7 +706,8 @@
     "latitude": 144.982336,
     "tags": [
       "Health Services",
-      "Private Hospital"
+      "Private Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -706,7 +727,7 @@
     "latitude": 144.952635,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -716,7 +737,8 @@
     "latitude": 144.956846,
     "tags": [
       "Leisure",
-      "Government Building"
+      "Government Building",
+      "Landmarks"
     ]
   },
   {
@@ -726,7 +748,8 @@
     "latitude": 144.956318,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -736,7 +759,8 @@
     "latitude": 144.957894,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -776,7 +800,7 @@
     "latitude": 144.966551,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -816,7 +840,8 @@
     "latitude": 144.913822,
     "tags": [
       "Vacant Land",
-      "Vacant Land - Undeveloped Site"
+      "Vacant Land - Undeveloped Site",
+      "Huts and shelters"
     ]
   },
   {
@@ -836,7 +861,9 @@
     "latitude": 144.965989,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Carpark"
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -886,7 +913,7 @@
     "latitude": 144.973726,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -896,7 +923,8 @@
     "latitude": 144.966542,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -906,7 +934,7 @@
     "latitude": 144.957055,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -916,7 +944,9 @@
     "latitude": 144.949794,
     "tags": [
       "Mixed Use",
-      "Retail/Office"
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -936,7 +966,8 @@
     "latitude": 144.974686,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -946,7 +977,9 @@
     "latitude": 144.957312,
     "tags": [
       "Purpose Built",
-      "Casino"
+      "Casino",
+      "Landmarks",
+      "Leisure"
     ]
   },
   {
@@ -956,7 +989,8 @@
     "latitude": 144.976268,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -966,7 +1000,7 @@
     "latitude": 144.96874,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -1016,7 +1050,9 @@
     "latitude": 144.935655,
     "tags": [
       "Purpose Built",
-      "Film & RV Studio"
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
     ]
   },
   {
@@ -1026,7 +1062,9 @@
     "latitude": 144.945823,
     "tags": [
       "Purpose Built",
-      "Film & RV Studio"
+      "Film & RV Studio",
+      "Landmarks",
+      "Leisure"
     ]
   },
   {
@@ -1046,7 +1084,9 @@
     "latitude": 144.939136,
     "tags": [
       "Mixed Use",
-      "Retail/Office"
+      "Retail/Office",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -1056,7 +1096,9 @@
     "latitude": 144.938123,
     "tags": [
       "Vacant Land",
-      "Current Construction Site"
+      "Current Construction Site",
+      "Huts and shelters",
+      "Landmarks"
     ]
   },
   {
@@ -1076,7 +1118,9 @@
     "latitude": 144.942283,
     "tags": [
       "Transport",
-      "Marina"
+      "Marina",
+      "Landmarks",
+      "Leisure"
     ]
   },
   {
@@ -1096,7 +1140,8 @@
     "latitude": 144.937588,
     "tags": [
       "Leisure",
-      "Observation Tower/Wheel"
+      "Observation Tower/Wheel",
+      "Landmarks"
     ]
   },
   {
@@ -1116,7 +1161,8 @@
     "latitude": 144.927108,
     "tags": [
       "Education Centre",
-      "Primary Schools"
+      "Primary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -1136,7 +1182,8 @@
     "latitude": 144.954897,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -1146,7 +1193,8 @@
     "latitude": 144.948908,
     "tags": [
       "Education Centre",
-      "Further Education"
+      "Further Education",
+      "Landmarks"
     ]
   },
   {
@@ -1166,7 +1214,8 @@
     "latitude": 144.951254,
     "tags": [
       "Specialist Residential Accommodation",
-      "Hostel"
+      "Hostel",
+      "Huts and shelters"
     ]
   },
   {
@@ -1176,7 +1225,9 @@
     "latitude": 144.951378,
     "tags": [
       "Vacant Land",
-      "Current Construction Site - Commercial"
+      "Current Construction Site - Commercial",
+      "Huts and shelters",
+      "Landmarks"
     ]
   },
   {
@@ -1256,7 +1307,8 @@
     "latitude": 144.968297,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1276,7 +1328,8 @@
     "latitude": 144.96745,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1286,7 +1339,8 @@
     "latitude": 144.967682,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1296,7 +1350,8 @@
     "latitude": 144.969342,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1356,7 +1411,8 @@
     "latitude": 144.973017,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1366,7 +1422,8 @@
     "latitude": 144.9894,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1376,7 +1433,8 @@
     "latitude": 144.983641,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1406,7 +1464,8 @@
     "latitude": 144.93619,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1416,7 +1475,8 @@
     "latitude": 144.93071,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1426,7 +1486,8 @@
     "latitude": 144.925837,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1446,7 +1507,8 @@
     "latitude": 144.950048,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -1456,7 +1518,8 @@
     "latitude": 144.951667,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1496,7 +1559,8 @@
     "latitude": 144.973441,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1506,7 +1570,8 @@
     "latitude": 144.976655,
     "tags": [
       "Residential Accommodation",
-      "Dwelling (House)"
+      "Dwelling (House)",
+      "Huts and shelters"
     ]
   },
   {
@@ -1536,7 +1601,7 @@
     "latitude": 144.964474,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -1546,7 +1611,7 @@
     "latitude": 144.964979,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -1556,7 +1621,7 @@
     "latitude": 144.965169,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -1566,7 +1631,7 @@
     "latitude": 144.964675,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -1586,7 +1651,8 @@
     "latitude": 144.973742,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1596,7 +1662,8 @@
     "latitude": 144.973433,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1606,7 +1673,8 @@
     "latitude": 144.97233,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1616,7 +1684,8 @@
     "latitude": 144.956118,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1626,7 +1695,8 @@
     "latitude": 144.96267,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1636,7 +1706,8 @@
     "latitude": 144.96169,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1646,7 +1717,8 @@
     "latitude": 144.9631,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1656,7 +1728,8 @@
     "latitude": 144.90819,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1666,7 +1739,8 @@
     "latitude": 144.914902,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1676,7 +1750,8 @@
     "latitude": 144.929059,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1696,7 +1771,8 @@
     "latitude": 144.981786,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -1756,7 +1832,8 @@
     "latitude": 144.951065,
     "tags": [
       "Education Centre",
-      "Primary Schools"
+      "Primary Schools",
+      "Landmarks"
     ]
   },
   {
@@ -1796,7 +1873,8 @@
     "latitude": 144.923475,
     "tags": [
       "Industrial",
-      "Industrial (Manufacturing)"
+      "Industrial (Manufacturing)",
+      "Unkown"
     ]
   },
   {
@@ -1836,7 +1914,8 @@
     "latitude": 144.95378,
     "tags": [
       "Education Centre",
-      "Tertiary (University)"
+      "Tertiary (University)",
+      "Landmarks"
     ]
   },
   {
@@ -1896,7 +1975,8 @@
     "latitude": 144.967064,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -1906,7 +1986,9 @@
     "latitude": 144.930613,
     "tags": [
       "Warehouse/Store",
-      "Store Yard"
+      "Store Yard",
+      "Huts and shelters",
+      "Landmarks"
     ]
   },
   {
@@ -1916,7 +1998,9 @@
     "latitude": 144.923287,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Carpark"
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -1936,7 +2020,8 @@
     "latitude": 144.975247,
     "tags": [
       "Leisure",
-      "Fire Station"
+      "Fire Station",
+      "Landmarks"
     ]
   },
   {
@@ -1946,7 +2031,8 @@
     "latitude": 144.956389,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -1966,7 +2052,8 @@
     "latitude": 144.960995,
     "tags": [
       "Education Centre",
-      "Tertiary (University)"
+      "Tertiary (University)",
+      "Landmarks"
     ]
   },
   {
@@ -1986,7 +2073,8 @@
     "latitude": 144.955823,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -1996,7 +2084,8 @@
     "latitude": 144.964452,
     "tags": [
       "Education Centre",
-      "Tertiary (University)"
+      "Tertiary (University)",
+      "Landmarks"
     ]
   },
   {
@@ -2006,7 +2095,9 @@
     "latitude": 144.962749,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Carpark"
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
     ]
   },
   {
@@ -2016,7 +2107,8 @@
     "latitude": 144.963789,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -2026,7 +2118,8 @@
     "latitude": 144.965714,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Residential/Carpark"
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
     ]
   },
   {
@@ -2096,7 +2189,7 @@
     "latitude": 144.940963,
     "tags": [
       "Office",
-      "Office"
+      "Huts and shelters"
     ]
   },
   {
@@ -2146,7 +2239,8 @@
     "latitude": 144.942429,
     "tags": [
       "Transport",
-      "Railway Station"
+      "Railway Station",
+      "Landmarks"
     ]
   },
   {
@@ -2166,7 +2260,8 @@
     "latitude": 144.978559,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -2176,7 +2271,9 @@
     "latitude": 144.958425,
     "tags": [
       "Purpose Built",
-      "Aquarium"
+      "Aquarium",
+      "Landmarks",
+      "Leisure"
     ]
   },
   {
@@ -2206,7 +2303,8 @@
     "latitude": 144.958298,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -2226,7 +2324,8 @@
     "latitude": 144.964622,
     "tags": [
       "Leisure",
-      "Observation Tower/Wheel"
+      "Observation Tower/Wheel",
+      "Landmarks"
     ]
   },
   {
@@ -2236,7 +2335,8 @@
     "latitude": 144.964456,
     "tags": [
       "Mixed Use",
-      "Retail/Residential"
+      "Retail/Residential",
+      "Leisure"
     ]
   },
   {
@@ -2246,7 +2346,8 @@
     "latitude": 144.957734,
     "tags": [
       "Leisure",
-      "Public Buildings"
+      "Public Buildings",
+      "Huts and shelters"
     ]
   },
   {
@@ -2256,7 +2357,8 @@
     "latitude": 144.9774,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -2266,7 +2368,8 @@
     "latitude": 144.964526,
     "tags": [
       "Health Services",
-      "Public Hospital"
+      "Public Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -2286,7 +2389,8 @@
     "latitude": 144.962461,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Residential/Carpark"
+      "Retail/Office/Residential/Carpark",
+      "Leisure"
     ]
   },
   {
@@ -2296,7 +2400,8 @@
     "latitude": 144.967937,
     "tags": [
       "Leisure",
-      "Visitor Centre"
+      "Visitor Centre",
+      "Landmarks"
     ]
   },
   {
@@ -2316,7 +2421,8 @@
     "latitude": 144.947291,
     "tags": [
       "Transport",
-      "Bridge"
+      "Bridge",
+      "Landmarks"
     ]
   },
   {
@@ -2336,7 +2442,8 @@
     "latitude": 144.985089,
     "tags": [
       "Education Centre",
-      "School - Primary and Secondary Education"
+      "School - Primary and Secondary Education",
+      "Landmarks"
     ]
   },
   {
@@ -2346,7 +2453,8 @@
     "latitude": 144.963855,
     "tags": [
       "Retail",
-      "Department Store"
+      "Department Store",
+      "Leisure"
     ]
   },
   {
@@ -2356,7 +2464,8 @@
     "latitude": 144.964373,
     "tags": [
       "Retail",
-      "Department Store"
+      "Department Store",
+      "Leisure"
     ]
   },
   {
@@ -2376,7 +2485,8 @@
     "latitude": 144.9837,
     "tags": [
       "Health Services",
-      "Private Hospital"
+      "Private Hospital",
+      "Landmarks"
     ]
   },
   {
@@ -2386,7 +2496,8 @@
     "latitude": 144.983506,
     "tags": [
       "Residential Accommodation",
-      "Dwelling (House)"
+      "Dwelling (House)",
+      "Huts and shelters"
     ]
   },
   {
@@ -2396,7 +2507,8 @@
     "latitude": 144.984435,
     "tags": [
       "Health Services",
-      "Medical Services"
+      "Medical Services",
+      "Landmarks"
     ]
   },
   {
@@ -2416,7 +2528,9 @@
     "latitude": 144.961673,
     "tags": [
       "Mixed Use",
-      "Retail/Office/Carpark"
+      "Retail/Office/Carpark",
+      "Leisure",
+      "Huts and shelters"
     ]
   }
 ]

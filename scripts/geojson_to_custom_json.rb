@@ -27,6 +27,8 @@
 # == Run Command
 #     ruby scripts/geojson_to_custom_json.rb
 #
+require_relative 'common/conversion_map.rb'
+
 require 'json'
 require 'ostruct'
 require 'pry'
@@ -67,7 +69,14 @@ input_files.each do |input_file|
       (feature.properties["FISHING"] == "Y" ? "fishing" : feature.properties["FISHING"]),
       (feature.properties["PICNICING"] == "Y" ? "picnicing" : feature.properties["PICNICING"]),
       (feature.properties["WALKINGDOG"] == "Y" ? "walkingdog" : feature.properties["WALKINGDOG"])
-    ].compact.reject(&:empty?)
+    ]
+
+    tags += tags.map { |tag| CONVERSION_MAP[tag] }
+    tags = tags
+      .compact
+      .reject(&:empty?)
+      .reject(&:nil?)
+      .uniq
 
     image = feature.properties.photo_id_1
 
