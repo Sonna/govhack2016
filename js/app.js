@@ -1,13 +1,18 @@
 var map;
 var sourceFile = "data/data.json";
 var locations;
+var zoom = 15;
 
 function initMap() {
   $.getJSON(sourceFile, function(json) {
     locations = json;
 
+    if (typeof map != "undefined") {
+      zoom = map.getZoom();
+    }
+
     map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 15,
+      zoom: zoom,
       center: new google.maps.LatLng(-37.8162175,144.9640682),
       mapTypeId: google.maps.MapTypeId.ROADMAP,
       styles: [
