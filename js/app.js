@@ -166,7 +166,7 @@ function initMap() {
 
 function setMarkers(map, locations) {
   var marker, i;
-  var image = '../images/google-droppin.png';
+  var image = 'images/google-droppin.png';
    for (i = 0; i < locations.length; i++) {
      marker = new google.maps.Marker({
        position: new google.maps.LatLng(locations[i].longitude, locations[i].latitude),
@@ -180,7 +180,7 @@ function setMarkers(map, locations) {
 
        var latitude = event.latLng.lat();
        var longitude = Number(event.latLng.lng().toFixed(12));
-       var selectedImage = new google.maps.MarkerImage("../images/google-droppin-selected.png");
+       var selectedImage = new google.maps.MarkerImage("images/google-droppin-selected.png");
        //  var selectedImage = "../images/google-droppin-selected.png";
 
        // Change drop pin color on selection
